@@ -1,0 +1,21 @@
+{
+  "relatedGroup": {
+    "rxcui": null,
+    "conceptGroup": [
+      {
+        "tty": "IN",
+        "conceptProperties": [
+          {
+            "rxcui": "4603",
+            "name": "furosemide",
+            "synonym": "",
+            "tty": "IN",
+            "language": "ENG",
+            "suppress": "N",
+            "umlscui": ""
+          }
+        ]
+      }
+    ]
+  }
+}

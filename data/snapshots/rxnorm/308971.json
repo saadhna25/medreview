@@ -1,0 +1,21 @@
+{
+  "relatedGroup": {
+    "rxcui": null,
+    "conceptGroup": [
+      {
+        "tty": "IN",
+        "conceptProperties": [
+          {
+            "rxcui": "2002",
+            "name": "carbamazepine",
+            "synonym": "",
+            "tty": "IN",
+            "language": "ENG",
+            "suppress": "N",
+            "umlscui": ""
+          }
+        ]
+      }
+    ]
+  }
+}

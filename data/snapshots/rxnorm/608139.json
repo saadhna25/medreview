@@ -1,0 +1,21 @@
+{
+  "relatedGroup": {
+    "rxcui": null,
+    "conceptGroup": [
+      {
+        "tty": "IN",
+        "conceptProperties": [
+          {
+            "rxcui": "38400",
+            "name": "atomoxetine",
+            "synonym": "",
+            "tty": "IN",
+            "language": "ENG",
+            "suppress": "N",
+            "umlscui": ""
+          }
+        ]
+      }
+    ]
+  }
+}

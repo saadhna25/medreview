@@ -1,0 +1,21 @@
+{
+  "relatedGroup": {
+    "rxcui": null,
+    "conceptGroup": [
+      {
+        "tty": "IN",
+        "conceptProperties": [
+          {
+            "rxcui": "36567",
+            "name": "simvastatin",
+            "synonym": "",
+            "tty": "IN",
+            "language": "ENG",
+            "suppress": "N",
+            "umlscui": ""
+          }
+        ]
+      }
+    ]
+  }
+}

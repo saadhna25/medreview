@@ -1,0 +1,21 @@
+{
+  "relatedGroup": {
+    "rxcui": null,
+    "conceptGroup": [
+      {
+        "tty": "IN",
+        "conceptProperties": [
+          {
+            "rxcui": "519",
+            "name": "allopurinol",
+            "synonym": "",
+            "tty": "IN",
+            "language": "ENG",
+            "suppress": "N",
+            "umlscui": ""
+          }
+        ]
+      }
+    ]
+  }
+}

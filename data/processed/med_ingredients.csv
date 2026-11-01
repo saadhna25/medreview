@@ -1,0 +1,109 @@
+rxnorm_code,product_name,num_patients,ingredient_code,ingredient_name,num_ingredients,source
+316672,Simvistatin 10 MG,140,36567,simvastatin,1,rxnorm_api
+316049,Hydrochlorothiazide 25 MG,126,5487,hydrochlorothiazide,1,rxnorm_api
+1870230,NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector,102,3992,epinephrine,1,rxnorm_api
+849574,Naproxen sodium 220 MG Oral Tablet,90,7258,naproxen,1,rxnorm_api
+999969,Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG,90,17767,amlodipine,3,rxnorm_api
+999969,Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG,90,321064,olmesartan,3,rxnorm_api
+999969,Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG,90,5487,hydrochlorothiazide,3,rxnorm_api
+746030,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,78,1202,atenolol,2,rxnorm_api
+746030,Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet,78,2409,chlorthalidone,2,rxnorm_api
+866414,24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol],58,6918,metoprolol,1,rxnorm_api
+315971,Lasix 40mg,58,4603,furosemide,1,rxnorm_api
+197361,Amlodipine 5 MG Oral Tablet,57,17767,amlodipine,1,rxnorm_api
+312961,Simvastatin 20 MG Oral Tablet,57,36567,simvastatin,1,rxnorm_api
+860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,57,6809,metformin,1,rxnorm_api
+1719286,10 ML Furosemide 10 MG/ML Injection,55,4603,furosemide,1,rxnorm_api
+745679,200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,51,435,albuterol,1,manual
+895994,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,51,41126,fluticasone,1,rxnorm_api
+705129,Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,51,4917,nitroglycerin,1,rxnorm_api
+309362,Clopidogrel 75 MG Oral Tablet,49,32968,clopidogrel,1,rxnorm_api
+106892,"insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin]",48,1605101,insulin isophane,2,rxnorm_api
+106892,"insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin]",48,253182,"insulin, regular, human",2,rxnorm_api
+2001499,Vitamin B 12 5 MG/ML Injectable Solution,47,11248,vitamin B12,1,rxnorm_api
+310325,ferrous sulfate 325 MG Oral Tablet,47,24947,ferrous sulfate,1,rxnorm_api
+904419,Alendronic acid 10 MG Oral Tablet,42,46041,alendronate,1,rxnorm_api
+896209,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,41,36117,salmeterol,2,rxnorm_api
+896209,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,41,41126,fluticasone,2,rxnorm_api
+855332,Warfarin Sodium 5 MG Oral Tablet,41,11289,warfarin,1,rxnorm_api
+197604,Digoxin 0.125 MG Oral Tablet,41,3407,digoxin,1,rxnorm_api
+897718,Verapamil Hydrochloride 40 MG,41,11170,verapamil,1,rxnorm_api
+752899,0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe,38,42375,leuprolide,1,rxnorm_api
+1860480,1 ML DOCEtaxel 20 MG/ML Injection,38,72962,docetaxel,1,rxnorm_api
+429503,Hydrochlorothiazide 12.5 MG,36,5487,hydrochlorothiazide,1,rxnorm_api
+665078,Loratadine 5 MG Chewable Tablet,32,28889,loratadine,1,rxnorm_api
+1049630,diphenhydrAMINE Hydrochloride 25 MG Oral Tablet,32,3498,diphenhydramine,1,rxnorm_api
+997488,Fexofenadine hydrochloride 30 MG Oral Tablet,26,87636,fexofenadine,1,rxnorm_api
+106258,Hydrocortisone 10 MG/ML Topical Cream,24,5492,hydrocortisone,1,rxnorm_api
+1803932,Leucovorin 100 MG Injection,22,6313,leucovorin,1,rxnorm_api
+1736776,10 ML oxaliplatin 5 MG/ML Injection,22,32592,oxaliplatin,1,rxnorm_api
+198031,24hr nicotine transdermal patch,18,7407,nicotine,1,rxnorm_api
+1014676,cetirizine hydrochloride 5 MG Oral Tablet,17,20610,cetirizine,1,rxnorm_api
+477045,Chlorpheniramine Maleate 2 MG/ML Oral Solution,16,2400,chlorpheniramine,1,rxnorm_api
+966222,Levothyroxine Sodium 0.075 MG Oral Tablet,13,10582,levothyroxine,1,rxnorm_api
+996740,Memantine hydrochloride 2 MG/ML Oral Solution,13,6719,memantine,1,rxnorm_api
+310436,Galantamine 4 MG Oral Tablet,12,4637,galantamine,1,rxnorm_api
+748879,Levora 0.15/30 28 Day Pack,12,4124,ethinyl estradiol,2,rxnorm_api
+748879,Levora 0.15/30 28 Day Pack,12,6373,levonorgestrel,2,rxnorm_api
+197378,Astemizole 10 MG Oral Tablet,12,42328,astemizole,1,rxnorm_api
+1000126,1 ML medroxyprogesterone acetate 150 MG/ML Injection,10,6691,medroxyprogesterone,1,rxnorm_api
+978950,Natazia 28 Day Pack,10,22968,dienogest,2,rxnorm_api
+978950,Natazia 28 Day Pack,10,4083,estradiol,2,rxnorm_api
+198014,Naproxen 500 MG Oral Tablet,10,7258,naproxen,1,rxnorm_api
+757594,Jolivette 28 Day Pack,9,7514,norethindrone,1,manual
+751905,Trinessa 28 Day Pack,8,31994,norgestimate,2,rxnorm_api
+751905,Trinessa 28 Day Pack,8,4124,ethinyl estradiol,2,rxnorm_api
+749762,Seasonique 91 Day Pack,8,6373,levonorgestrel,2,manual
+749762,Seasonique 91 Day Pack,8,4124,ethinyl estradiol,2,manual
+563026,Diazepam [Valium],7,3322,diazepam,1,rxnorm_api
+748856,Yaz 28 Day Pack,7,11636,drospirenone,2,rxnorm_api
+748856,Yaz 28 Day Pack,7,4124,ethinyl estradiol,2,rxnorm_api
+328670,Sertraline 100MG,7,36437,sertraline,1,rxnorm_api
+389221,Etonogestrel 68 MG Drug Implant,7,14584,etonogestrel,1,rxnorm_api
+406022,Fluoxetine 25MG,7,4493,fluoxetine,1,rxnorm_api
+1367439,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,7,14584,etonogestrel,2,rxnorm_api
+1367439,NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring,7,4124,ethinyl estradiol,2,rxnorm_api
+1605257,Liletta 52 MG Intrauterine System,7,6373,levonorgestrel,1,rxnorm_api
+1153378,Clonazepam [Klonopin],6,2598,clonazepam,1,rxnorm_api
+856980,Acetaminophen/Hydrocodone,6,161,acetaminophen,2,rxnorm_api
+856980,Acetaminophen/Hydrocodone,6,5489,hydrocodone,2,rxnorm_api
+748962,Camila 28 Day Pack,6,7514,norethindrone,1,rxnorm_api
+831533,Errin 28 Day Pack,6,7514,norethindrone,1,rxnorm_api
+308971,Carbamazepine[Tegretol],6,2002,carbamazepine,1,rxnorm_api
+998582,Donepezil hydrochloride 23 MG [Aricept],6,135447,donepezil,1,rxnorm_api
+1049221,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,6,161,acetaminophen,2,rxnorm_api
+1049221,Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet,6,7804,oxycodone,2,rxnorm_api
+1363309,Chlorpheniramine Maleate 4 MG Oral Tablet,5,2400,chlorpheniramine,1,rxnorm_api
+1599803,24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule,4,135447,donepezil,2,rxnorm_api
+1599803,24 HR Donepezil hydrochloride 10 MG / Memantine hydrochloride 28 MG Extended Release Oral Capsule,4,6719,memantine,2,rxnorm_api
+311372,Loratadine 10 MG Oral Tablet,4,28889,loratadine,1,rxnorm_api
+141918,Terfenadine 60 MG Oral Tablet,4,42330,terfenadine,1,rxnorm_api
+997223,Donepezil hydrochloride 10 MG Oral Tablet,4,135447,donepezil,1,rxnorm_api
+313782,Acetaminophen 325 MG Oral Tablet,3,161,acetaminophen,1,rxnorm_api
+1856546,Kyleena 19.5 MG Intrauterine System,3,6373,levonorgestrel,1,rxnorm_api
+807283,Mirena 52 MG Intrauterine System,3,6373,levonorgestrel,1,rxnorm_api
+562251,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,3,48203,clavulanate,2,rxnorm_api
+562251,Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet,3,723,amoxicillin,2,rxnorm_api
+608139,atomoxetine 100 MG Oral Capsule,3,38400,atomoxetine,1,rxnorm_api
+749882,Norinyl 1+50 28 Day Pack,2,7514,norethindrone,2,manual
+749882,Norinyl 1+50 28 Day Pack,2,6782,mestranol,2,manual
+857005,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,2,161,acetaminophen,2,rxnorm_api
+857005,Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet,2,5489,hydrocodone,2,rxnorm_api
+310965,Ibuprofen 200 MG Oral Tablet,2,5640,ibuprofen,1,rxnorm_api
+198405,Ibuprofen 100 MG Oral Tablet,2,5640,ibuprofen,1,rxnorm_api
+1091392,Methylphenidate Hydrochloride 20 MG Oral Tablet,1,6901,methylphenidate,1,rxnorm_api
+997501,Fexofenadine hydrochloride 60 MG Oral Tablet,1,87636,fexofenadine,1,rxnorm_api
+105586,Methotrexate 10 MG Oral Tablet,1,6851,methotrexate,1,rxnorm_api
+1014678,cetirizine hydrochloride 10 MG Oral Tablet,1,20610,cetirizine,1,rxnorm_api
+1310197,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin],1,161,acetaminophen,2,manual
+1310197,Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG [Vicodin],1,5489,hydrocodone,2,manual
+1000156,0.65 ML medroxyprogesterone acetate 160 MG/ML Prefilled Syringe,1,6691,medroxyprogesterone,1,rxnorm_api
+313185,Tacrine 10 MG Oral Capsule,1,10318,tacrine,1,rxnorm_api
+865098,Insulin Lispro 100 UNT/ML Injectable Solution [Humalog],1,86009,insulin lispro,1,rxnorm_api
+749785,Ortho Tri-Cyclen 28 Day Pack,1,31994,norgestimate,2,rxnorm_api
+749785,Ortho Tri-Cyclen 28 Day Pack,1,4124,ethinyl estradiol,2,rxnorm_api
+197319,Allopurinol 100 MG Oral Tablet,1,519,allopurinol,1,rxnorm_api
+1534809,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,1,326374,norelgestromin,2,rxnorm_api
+1534809,168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,1,4124,ethinyl estradiol,2,rxnorm_api
+596926,duloxetine 20 MG Delayed Release Oral Capsule,1,72625,duloxetine,1,rxnorm_api
+309097,Cefuroxime 250 MG Oral Tablet,1,2194,cefuroxime,1,rxnorm_api
