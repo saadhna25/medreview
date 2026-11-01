@@ -1,0 +1,11 @@
+ingredient,action,value,note
+insulin isophane,brand,Humulin N,FDA names NPH insulin as insulin human
+"insulin, regular, human",brand,Humulin R,FDA names regular insulin as insulin human
+salmeterol,brand,Serevent,single-ingredient salmeterol brand
+clavulanate,combination,,only sold with amoxicillin
+dienogest,combination,,only sold with estradiol valerate
+norgestimate,combination,,only sold with ethinyl estradiol
+norelgestromin,combination,,only sold with ethinyl estradiol (patch)
+mestranol,withdrawn,,no current US label found (searched single and combination labels)astemizole,withdrawn,,no longer sold in the US; no current FDA label
+terfenadine,withdrawn,,no longer sold in the US; no current FDA label
+tacrine,withdrawn,,no longer sold in the US; no current FDA label

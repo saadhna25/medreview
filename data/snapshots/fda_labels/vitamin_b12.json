@@ -1,0 +1,142 @@
+{
+  "ingredient": "vitamin B12",
+  "selected_from": "prescription",
+  "query": "openfda.generic_name:\"vitamin B12\" AND openfda.product_type:\"HUMAN PRESCRIPTION DRUG\"",
+  "retrieved_on": "2026-11-02",
+  "label": {
+    "spl_product_data_elements": [
+      "M-Natal Plus Vitamin A, Vitamin C, Vitamin D, Vitamin E, Thiamine, Riboflavin, Niacin, Vitamin B6, Folic Acid, Vitamin B12, Calcium, Iron, Zinc, Copper VITAMIN A VITAMIN A ASCORBIC ACID ASCORBIC ACID VITAMIN D CHOLECALCIFEROL .ALPHA.-TOCOPHEROL ACETATE .ALPHA.-TOCOPHEROL THIAMINE THIAMINE ION RIBOFLAVIN RIBOFLAVIN NIACIN NIACIN PYRIDOXINE HYDROCHLORIDE PYRIDOXINE FOLIC ACID FOLIC ACID CYANOCOBALAMIN CYANOCOBALAMIN CALCIUM CALCIUM FERROUS FUMARATE FERROUS CATION ZINC ZINC COPPER COPPER MICROCRYSTALLINE CELLULOSE CROSCARMELLOSE SODIUM POLYVINYL ALCOHOL, UNSPECIFIED STEARIC ACID TITANIUM DIOXIDE POLYETHYLENE GLYCOL, UNSPECIFIED TALC MAGNESIUM STEARATE SILICON DIOXIDE CARAMEL CARNAUBA WAX baige M170 oblong"
+    ],
+    "spl_unclassified_section": [
+      "M-Natal Plus tablet Supplement Facts Serving Size: 1 Tablet Amount Per Serving % Daily Value for Pregnant and Lactating Women Vitamin A (as Acetate and Beta Carotene) 4000 IU 50% Vitamin C (Ascorbic Acid) 120 mg 200% Vitamin D (Vitamin D3 as cholecalciferol) 400 IU 100% Vitamin E (dl-Alpha Tocopheryl Acetate) 22 IU 73% Thiamine (Vitamin B1 from Thiamine Mononitrate) 1.84 mg 108% Riboflavin (Vitamin B2) 3 mg 150% Niacin (Niacinamide) 20 mg 100% Vitamin B6 (as Pyridoxine HCl) 10 mg 400% Folic Acid 1 mg 125% Vitamin B12 (Cyanocobalamin) 12 mcg 150% Calcium 200 mg 15% Iron (Ferrous Fumarate) 27 mg 150% Zinc (Zinc Oxide) 25 mg 167% Copper (Cupric Oxide) 2 mg 100% Other Ingredients: Microcrystalline Cellulose, Croscarmellose Sodium, Polyvinyl Alcohol, Stearic Acid, Titanium Dioxide, Polyethylene Glycol, Talc, Magnesium Stearate, Silicon Dioxide, Beet Powder, Caramel, Carnauba Wax."
+    ],
+    "spl_unclassified_section_table": [
+      "<table><col width=\"394\"/><col width=\"156\"/><col width=\"104\"/><tbody><tr><td colspan=\"3\" align=\"center\" styleCode=\"Toprule Lrule Rrule \" valign=\"bottom\"><content styleCode=\"bold\">Supplement Facts</content></td></tr><tr><td styleCode=\"Lrule \" valign=\"bottom\">Serving Size: 1 Tablet</td><td valign=\"bottom\"> </td><td styleCode=\"Rrule \" valign=\"bottom\"> </td></tr><tr><td styleCode=\"Toprule Lrule \"> </td><td align=\"center\" styleCode=\"Toprule \">Amount Per Serving</td><td align=\"center\" styleCode=\"Toprule Rrule \">% Daily Value for Pregnant and Lactating Women</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Vitamin A (as Acetate and Beta Carotene)</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">4000 IU</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">50%</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Vitamin C (Ascorbic Acid)</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">120 mg</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">200%</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Vitamin D (Vitamin D3 as cholecalciferol)</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">400 IU</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">100%</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Vitamin E (dl-Alpha Tocopheryl Acetate)</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">22 IU</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">73%</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Thiamine (Vitamin B1 from Thiamine Mononitrate)</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">1.84 mg</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">108%</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Riboflavin (Vitamin B2)</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">3 mg</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">150%</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Niacin (Niacinamide)</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">20 mg</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">100%</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Vitamin B6 (as Pyridoxine HCl)</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">10 mg</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">400%</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Folic Acid</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">1 mg</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">125%</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Vitamin B12 (Cyanocobalamin)</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">12 mcg</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">150%</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Calcium</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">200 mg</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">15%</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Iron (Ferrous Fumarate)</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">27 mg</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">150%</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Zinc (Zinc Oxide)</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">25 mg</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">167%</td></tr><tr><td styleCode=\"Toprule Lrule \" valign=\"bottom\">Copper (Cupric Oxide)</td><td align=\"center\" styleCode=\"Toprule \" valign=\"bottom\">2 mg</td><td align=\"center\" styleCode=\"Toprule Rrule \" valign=\"bottom\">100%</td></tr></tbody></table>"
+    ],
+    "description": [
+      "DESCRIPTION M-Natal Plus Tablet is an orally administered prenatal/postnatal prescription folic acid-containing dietary supplement and should be administered under the supervision of a licensed medical practitioner."
+    ],
+    "dosage_and_administration": [
+      "DOSAGE AND ADMINISTRATION Before, during and/or after pregnancy, one tablet daily, with a meal, or as directed by a licensed healthcare practitioner regardless of lactation status."
+    ],
+    "warnings": [
+      "WARNING: Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center immediately."
+    ],
+    "safe_handling_warning": [
+      "CAUTION High levels of folic acid may, especially in older adults, hide signs of Vitamin B-12 deficiency (such as pernicious anemia), a condition that can cause nerve damage. Store at 15\u00b0 \u2013 30\u00b0C (59\u00b0 \u2013 86\u00b0F). [See USP Controlled Room Temperature.] Protect from light and moisture. Dispense in a tight, light-resistant container. Notice: Contact with moisture may produce surface discoloration or erosion. Call your licensed medical practitioner about side effects. You may report side effects by calling Method at 1-877-250-3427 or FDA at 1-800-FDA-1088."
+    ],
+    "how_supplied": [
+      "Supplied as beige tablet, imprinted \"M170\" dispensed in NDC: 70518-3579-00 NDC: 70518-3579-01 PACKAGING: 30 in 1 BLISTER PACK PACKAGING: 100 in 1 BOTTLE PLASTIC High levels of folic acid may, especially in older adults, hide signs of Vitamin B-12 deficiency (such as pernicious anemia), a condition that can cause nerve damage. Store at 15\u00b0 \u2013 30\u00b0C (59\u00b0 \u2013 86\u00b0F). [See USP Controlled Room Temperature.] Protect from light and moisture. Dispense in a tight, light-resistant container. Notice: Contact with moisture may produce surface discoloration or erosion. Repackaged and Distributed By: Remedy Repack, Inc. 625 Kolter Dr. Suite #4 Indiana, PA 1-724-465-8762"
+    ],
+    "package_label_principal_display_panel": [
+      "DRUG: M-Natal Plus GENERIC: Vitamin A, Vitamin C, Vitamin D, Vitamin E, Thiamine, Riboflavin, Niacin, Vitamin B6, Folic Acid, Vitamin B12, Calcium, Iron, Zinc, Copper DOSAGE: TABLET ADMINSTRATION: ORAL NDC: 70518-3579-0 NDC: 70518-3579-1 COLOR: brown SHAPE: RECTANGLE SCORE: No score SIZE: 19 mm IMPRINT: M170 PACKAGING: 30 in 1 BLISTER PACK PACKAGING: 100 in 1 BOTTLE PLASTIC ACTIVE INGREDIENT(S): VITAMIN A 4000[iU] in 1 ASCORBIC ACID 120mg in 1 VITAMIN D 400[iU] in 1 .ALPHA.-TOCOPHEROL ACETATE 22[iU] in 1 THIAMINE 1.84mg in 1 RIBOFLAVIN 3mg in 1 NIACIN 20mg in 1 PYRIDOXINE HYDROCHLORIDE 10mg in 1 FOLIC ACID 1mg in 1 CYANOCOBALAMIN 12ug in 1 CALCIUM 200mg in 1 FERROUS FUMARATE 27mg in 1 ZINC 25mg in 1 COPPER 2mg in 1 INACTIVE INGREDIENT(S): MICROCRYSTALLINE CELLULOSE CROSCARMELLOSE SODIUM POLYVINYL ALCOHOL, UNSPECIFIED STEARIC ACID TITANIUM DIOXIDE POLYETHYLENE GLYCOL, UNSPECIFIED TALC MAGNESIUM STEARATE SILICON DIOXIDE CARAMEL CARNAUBA WAX MM1 MM2"
+    ],
+    "set_id": "5d67a268-437b-403d-9d05-6524c4a7c499",
+    "id": "58ca919c-17f2-a92c-e063-6394a90a4246",
+    "effective_time": "20260811",
+    "version": "6",
+    "openfda": {
+      "brand_name": [
+        "M-Natal Plus"
+      ],
+      "generic_name": [
+        "VITAMIN A, VITAMIN C, VITAMIN D, VITAMIN E, THIAMINE, RIBOFLAVIN, NIACIN, VITAMIN B6, FOLIC ACID, VITAMIN B12, CALCIUM, IRON, ZINC, COPPER"
+      ],
+      "manufacturer_name": [
+        "REMEDYREPACK INC."
+      ],
+      "product_ndc": [
+        "70518-3579"
+      ],
+      "product_type": [
+        "HUMAN PRESCRIPTION DRUG"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "substance_name": [
+        "VITAMIN A",
+        "ASCORBIC ACID",
+        "VITAMIN D",
+        ".ALPHA.-TOCOPHEROL ACETATE",
+        "THIAMINE",
+        "RIBOFLAVIN",
+        "NIACIN",
+        "PYRIDOXINE HYDROCHLORIDE",
+        "FOLIC ACID",
+        "CYANOCOBALAMIN",
+        "CALCIUM",
+        "FERROUS FUMARATE",
+        "ZINC",
+        "COPPER"
+      ],
+      "spl_id": [
+        "58ca919c-17f2-a92c-e063-6394a90a4246"
+      ],
+      "spl_set_id": [
+        "5d67a268-437b-403d-9d05-6524c4a7c499"
+      ],
+      "package_ndc": [
+        "70518-3579-0",
+        "70518-3579-1"
+      ],
+      "original_packager_product_ndc": [
+        "58657-170"
+      ],
+      "nui": [
+        "M0022788",
+        "N0000175950",
+        "N0000193618",
+        "M0001797",
+        "N0000175594",
+        "M0014839",
+        "M0022794",
+        "N0000175951",
+        "M0003153",
+        "N0000175901",
+        "M0005152",
+        "N0000175831",
+        "N0000008595",
+        "N0000008924",
+        "N0000175830"
+      ],
+      "pharm_class_cs": [
+        "Vitamin A [CS]",
+        "Ascorbic Acid [CS]",
+        "Nicotinic Acids [CS]",
+        "Vitamin B 12 [CS]",
+        "Calcium [CS]",
+        "Copper [CS]"
+      ],
+      "pharm_class_epc": [
+        "Vitamin A [EPC]",
+        "Vitamin C [EPC]",
+        "Nicotinic Acid [EPC]",
+        "Vitamin B12 [EPC]",
+        "Calcium [EPC]",
+        "Copper-containing Intrauterine Device [EPC]"
+      ],
+      "pharm_class_pe": [
+        "Decreased Embryonic Implantation [PE]",
+        "Decreased Sperm Motility [PE]",
+        "Inhibit Ovum Fertilization [PE]"
+      ],
+      "unii": [
+        "81G40H8B0T",
+        "PQ6CK8PD0R",
+        "9VU1KI44GP",
+        "9E8X80D2L0",
+        "X66NSO3N35",
+        "TLM2976OFR",
+        "2679MF687A",
+        "68Y4CF58BV",
+        "935E97BOY8",
+        "P6YC3EG204",
+        "SY7Q814VUP",
+        "R5L488RY0Q",
+        "J41CSQ7QDS",
+        "789U1901C5"
+      ]
+    }
+  }
+}

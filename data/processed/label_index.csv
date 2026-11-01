@@ -1,0 +1,72 @@
+ingredient,status,file,set_id,effective_time,generic_name,product_type,selected_from,label_kind,has_interaction_text,note,has_boxed_warning,has_contraindications,has_warnings_and_cautions,has_warnings,has_precautions,has_drug_interactions,has_do_not_use,has_ask_doctor_or_pharmacist
+hydrochlorothiazide,found,hydrochlorothiazide.json,8e0683e2-5473-4246-97ae-b71c21c39ac7,20260826,HYDROCHLOROTHIAZIDE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,False,True,True,True,False,False
+simvastatin,found,simvastatin.json,3f6fad0b-0278-433f-86db-761b673a5803,20260831,SIMVASTATIN,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+amlodipine,found,amlodipine.json,5af8493b-2b73-859c-e063-6394a90a4620,20260908,AMLODIPINE BESYLATE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+epinephrine,found,epinephrine.json,55befbe4-c819-4367-bbe7-de5841786aac,20260903,EPINEPHRINE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+naproxen,found,naproxen.json,f6f4a670-235e-4235-84a8-a74dc8ca5586,20260826,NAPROXEN SODIUM,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+fluticasone,found,fluticasone.json,bc08915f-fa3a-4509-a01c-42b577f39b99,20260819,FLUTICASONE PROPIONATE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+olmesartan,found,olmesartan.json,1be698df-30a0-4117-8c24-7253af94c8ad,20260827,OLMESARTAN MEDOXOMIL,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+atenolol,found,atenolol.json,897e18f6-3b57-4ef0-85ff-9dfa23521eb9,20260903,ATENOLOL,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,False,True,True,True,False,False
+chlorthalidone,found,chlorthalidone.json,5de362df-8fb9-4421-864c-7ea06339d6e7,20260805,CHLORTHALIDONE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,False,True,True,True,False,False
+furosemide,found,furosemide.json,dba00759-87b4-4ecf-998e-ba03ed3d2f1a,20260817,FUROSEMIDE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,True,False,False,False
+metoprolol,found,metoprolol.json,a46cbf09-20e3-4f0d-ab41-221f60fde068,20260916,METOPROLOL SUCCINATE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+metformin,found,metformin.json,05999192-ebc6-4198-bd1e-f46abbfb4f8a,20260909,METFORMIN ER 500 MG,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+albuterol,found,albuterol.json,17858afa-dcdf-4612-b475-3b6baadfb639,20260806,ALBUTEROL SULFATE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+nitroglycerin,found,nitroglycerin.json,5b150cd2-fac8-86ce-e063-6294a90a67b9,20260909,NITROGLYCERIN,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+clopidogrel,found,clopidogrel.json,bb3b5e96-e629-4db5-8ad5-40c17c6dae18,20260929,CLOPIDOGREL BISULFATE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+insulin isophane,found,insulin_isophane.json,f6edd793-440b-40c2-96b5-c16133b7a921,20251219,INSULIN HUMAN,HUMAN OTC DRUG,manual_brand,single,True,FDA names NPH insulin as insulin human,False,True,True,False,False,True,False,False
+"insulin, regular, human",found,insulin_regular_human.json,b60e8dd0-1d48-4dc9-87fd-e14675255e8c,20260701,INSULIN HUMAN,HUMAN PRESCRIPTION DRUG,manual_brand,single,True,FDA names regular insulin as insulin human,False,True,True,False,False,True,False,False
+vitamin B12,found,vitamin_b12.json,5d67a268-437b-403d-9d05-6524c4a7c499,20260811,"VITAMIN A, VITAMIN C, VITAMIN D, VITAMIN E, THIAMINE, RIBOFLAVIN, NIACIN, VITAMIN B6, FOLIC ACID, VITAMIN B12, CALCIUM, IRON, ZINC, COPPER",HUMAN PRESCRIPTION DRUG,prescription,single,False,,False,False,False,True,False,False,False,False
+ferrous sulfate,found,ferrous_sulfate.json,3a749d62-0e20-0c15-e063-6394a90ac1a8,20250721,FERROUS SULFATE,HUMAN OTC DRUG,any,single,False,,False,False,False,True,False,False,False,False
+ethinyl estradiol,found,ethinyl_estradiol.json,bcaf8db0-1750-425d-b008-255b5e7a9cc6,20260630,LEVONORGESTREL/ETHINYL ESTRADIOL,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+alendronate,found,alendronate.json,c7e470d6-508e-466e-a78d-060bbbc9745c,20260703,ALENDRONATE SODIUM,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+salmeterol,found,salmeterol.json,12d9728e-6b5c-4aee-bfb0-745e542ed2e4,20221010,SALMETEROL XINAFOATE,HUMAN PRESCRIPTION DRUG,manual_brand,single,True,single-ingredient salmeterol brand,True,True,True,False,False,True,False,False
+digoxin,found,digoxin.json,e61d2108-d871-44c0-b12a-2e61fbb56967,20260727,DIGOXIN,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+verapamil,found,verapamil.json,9c89764e-ff07-4077-a40f-91eb1c179af2,20260818,VERAPAMIL HYDROCHLORIDE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,False,True,True,True,False,False
+warfarin,found,warfarin.json,5a5b5e3a-6556-a542-e063-6294a90a6d3f,20260831,WARFARIN,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+docetaxel,found,docetaxel.json,2992d633-08fa-44f3-b14d-41700f24686b,20260415,DOCETAXEL ANHYDROUS,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+leuprolide,found,leuprolide.json,35634415-000f-47db-9bd7-9e16eef3f02e,20260525,LEUPROLIDE ACETATE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,False,True,True,True,False,False
+loratadine,found,loratadine.json,0d74af21-3ef7-418b-a2ef-78737b0af288,20250613,LORATADINE,HUMAN PRESCRIPTION DRUG,prescription,single,False,,False,False,False,True,False,False,True,False
+levonorgestrel,found,levonorgestrel.json,bcaf8db0-1750-425d-b008-255b5e7a9cc6,20260630,LEVONORGESTREL/ETHINYL ESTRADIOL,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+diphenhydramine,found,diphenhydramine.json,9713d8ee-6ab2-2fdf-e053-2a95a90a9e19,20260819,DIPHENHYDRAMINE HYDROCHLORIDE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,False,True,True,False,False,False
+fexofenadine,found,fexofenadine.json,f9ccd673-c65f-45c6-9863-26136eb816db,20261008,FEXOFENADINE HYDROCHLORIDE,HUMAN OTC DRUG,any,single,False,,False,False,False,True,False,False,False,False
+hydrocortisone,found,hydrocortisone.json,506aab0d-9308-4d60-90b3-7d64952fff36,20260831,HYDROCORTISONE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,False,True,True,True,False,False
+norethindrone,found,norethindrone.json,0d2f8fea-3675-40d2-afd9-9fcb148dbd4b,20260131,NORETHINDRONE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,False,True,True,True,False,False
+leucovorin,found,leucovorin.json,f7004cbd-9827-466e-9683-adce4f13c6a6,20260701,LEUCOVORIN CALCIUM,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,False,True,True,True,False,False
+oxaliplatin,found,oxaliplatin.json,a6f89dc3-a594-4b5b-8728-272e20c1ecb5,20260824,OXALIPLATIN,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+chlorpheniramine,found,chlorpheniramine.json,33e1bec0-323b-40b7-809a-cb65a71ad0ce,20260917,"ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, DEXTROMETHORPHAN HYDROBROMIDE, PHENYLEPHRINE HYDROCHLORIDE",HUMAN OTC DRUG,any,single,True,,False,False,False,True,False,False,True,True
+cetirizine,found,cetirizine.json,6fc5ef4e-4aea-4c34-8d51-0c07ab9aad59,20260803,CETIRIZINE,HUMAN PRESCRIPTION DRUG,prescription,single,False,,False,True,True,False,False,False,False,False
+acetaminophen,found,acetaminophen.json,464e404a-1957-44a2-a53a-f2a9d3c15bde,20260828,ACETAMINOPHEN,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+nicotine,found,nicotine.json,acb7d02d-249b-4645-ac1b-8ff9a56dd244,20250529,NICOTINE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,False,True,True,True,False,False
+memantine,found,memantine.json,007d4cb9-3fa9-40f3-b5ca-4083eccd6038,20260901,MEMANTINE HYDROCHLORIDE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+donepezil,found,donepezil.json,37fc6638-4a63-4582-a64c-3525f8ed7ef2,20260909,DONEPEZIL HYDROCHLORIDE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+etonogestrel,found,etonogestrel.json,487f8a62-e142-457c-97cc-2e398fde7594,20260528,ETONOGESTREL,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+levothyroxine,found,levothyroxine.json,4c903249-69e9-4168-a9d1-22e6c2c1eb22,20260910,LEVOTHYROXINE SODIUM,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+galantamine,found,galantamine.json,261889d3-41c8-4655-98f7-41317778e7a1,20260702,GALANTAMINE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+astemizole,missing,,,,,,,,,,,,,,,,,
+medroxyprogesterone,found,medroxyprogesterone.json,a0a92717-c1cb-40eb-a95a-1c5dfd32cfc0,20260904,MEDROXYPROGESTERONE ACETATE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+dienogest,found,dienogest.json,02c91fba-9c47-43ef-ac78-e82369798834,20240626,ESTRADIOL VALERATE AND ESTRADIOL VALERATE/DIENOGEST,HUMAN PRESCRIPTION DRUG,prescription,combination,True,only sold with estradiol valerate,True,True,True,False,False,True,False,False
+estradiol,found,estradiol.json,c8a2d29c-299c-4559-b859-87b303a4af81,20260828,ESTRADIOL,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,False,True,True,False,False,False
+norgestimate,found,norgestimate.json,90240210-0bca-4a55-99dc-19f2b40d8e3f,20260831,NORGESTIMATE AND ETHINYL ESTRADIOL,HUMAN PRESCRIPTION DRUG,prescription,combination,True,only sold with ethinyl estradiol,True,True,True,False,False,True,False,False
+hydrocodone,found,hydrocodone.json,b7d23ac2-e776-9f62-3290-c64c2d6eb353,20260529,HYDROCODONE BITARTRATE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+diazepam,found,diazepam.json,ba953b22-f0cd-4be5-9e0e-178bded88727,20260827,DIAZEPAM,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,False,True,True,True,False,False
+drospirenone,found,drospirenone.json,db32bc55-f295-4d87-9dbb-0a2f45573dcf,20260827,DROSPIRENONE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+sertraline,found,sertraline.json,623b9672-b41e-4ec9-b2cc-f5bb383c39ba,20261023,SERTRALINE HYDROCHLORIDE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+fluoxetine,found,fluoxetine.json,a08dadff-f209-48dc-b597-6f085be13640,20260910,FLUOXETINE HYDROCHLORIDE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+clonazepam,found,clonazepam.json,2606ecf9-3d71-4c1c-bfda-d7d98ffc6011,20260827,CLONAZEPAM,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,False,True,True,True,False,False
+carbamazepine,found,carbamazepine.json,7c1dd8ce-c490-40b4-b17a-da331df24cba,20261023,CARBAMAZEPINE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,False,True,True,True,False,False
+oxycodone,found,oxycodone.json,338b5391-e5f7-40a2-8b15-57f47cbc4813,20260909,OXYCODONE HYDROCHLORIDE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+terfenadine,no_current_label,,,,,,,,,no longer sold in the US; no current FDA label,,,,,,,,
+ibuprofen,found,ibuprofen.json,2144eff0-d7ab-486d-b116-a4ff3ae2afe2,20260908,IBUPROFEN,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,False,True,True,True,False,False
+amoxicillin,found,amoxicillin.json,4adc198e-39d8-4b3e-bfa4-278aaf4064ae,20260909,AMOXICILLIN,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+clavulanate,found,clavulanate.json,77b82fac-3f6e-44c9-8dcc-362f01ad7a4b,20260924,AMOXICILLIN AND CLAVULANATE POTASSIUM,HUMAN PRESCRIPTION DRUG,prescription,combination,True,only sold with amoxicillin,False,True,True,False,False,True,False,False
+atomoxetine,found,atomoxetine.json,6d7ea8f7-981c-4acc-aeaf-7516325bfc0c,20260904,ATOMOXETINE HYDROCHLORIDE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+mestranol,no_current_label,,,,,,,,,no current US label found (searched single and combination labels)astemizole,,,,,,,,
+methylphenidate,found,methylphenidate.json,768bf181-d0d8-49e5-9c87-cacbb069e0b2,20260827,METHYLPHENIDATE HYDROCHLORIDE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+methotrexate,found,methotrexate.json,dd035a9f-cd40-4314-b9d8-2294b8a924e2,20260904,METHOTREXATE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+tacrine,no_current_label,,,,,,,,,no longer sold in the US; no current FDA label,,,,,,,,
+insulin lispro,found,insulin_lispro.json,12ec9e3f-e2ac-43a1-b334-8b6538cf2bb0,20260903,INSULIN LISPRO,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+allopurinol,found,allopurinol.json,8f50e91e-66a7-4fd4-888a-9f1986aa661c,20260910,ALLOPURINOL,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
+norelgestromin,found,norelgestromin.json,10fa1458-c8ed-4197-922a-1ba7271d2b02,20260416,NORELGESTROMIN AND ETHINYL ESTRADIOL,HUMAN PRESCRIPTION DRUG,prescription,combination,True,only sold with ethinyl estradiol (patch),True,True,True,False,False,True,False,False
+duloxetine,found,duloxetine.json,79bfd6be-a1ff-4786-b4e2-abbd0a3e3932,20260909,DULOXETINE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
+cefuroxime,found,cefuroxime.json,76cec54f-d167-4298-951b-5411a3c47f4a,20260805,CEFUROXIME AXETIL,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False

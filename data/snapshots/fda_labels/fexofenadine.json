@@ -1,0 +1,109 @@
+{
+  "ingredient": "fexofenadine",
+  "selected_from": "any",
+  "query": "openfda.generic_name:\"fexofenadine\"",
+  "retrieved_on": "2026-11-02",
+  "label": {
+    "spl_product_data_elements": [
+      "VALUMEDS NON-DROWSY ALLERGY RELIEF FEXOFENADINE HCL fexofenadine hydrochloride FEXOFENADINE HYDROCHLORIDE FEXOFENADINE SILICON DIOXIDE HYPROMELLOSE, UNSPECIFIED LIGHT MINERAL OIL MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 FERRIC OXIDE RED SODIUM STARCH GLYCOLATE TYPE A TALC TITANIUM DIOXIDE FERRIC OXIDE YELLOW j;44"
+    ],
+    "active_ingredient": [
+      "Fexofenadine"
+    ],
+    "purpose": [
+      "Antihistamine"
+    ],
+    "indications_and_usage": [
+      "Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: \u25a0 runny nose \u25a0 itchy, watery eyes \u25a0 sneezing \u25a0 utching of the nose or throat"
+    ],
+    "warnings": [
+      "Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients"
+    ],
+    "ask_doctor": [
+      "Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose."
+    ],
+    "when_using": [
+      "When using this product \u25a0 do not take more than directed \u25a0 do not take at the same time as aluminum or magnesium antacids \u25a0 do not take with fruit juices (see Directions)"
+    ],
+    "stop_use": [
+      "Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away."
+    ],
+    "pregnancy_or_breast_feeding": [
+      "If pregnant or breast-feeding, ask a health professional before use"
+    ],
+    "keep_out_of_reach_of_children": [
+      "Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)"
+    ],
+    "dosage_and_administration": [
+      "Directions adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor"
+    ],
+    "dosage_and_administration_table": [
+      "<table border=\"1\"><tbody><tr><td><paragraph>adults and children 12 years of age and over</paragraph></td><td>take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours</td></tr><tr><td>children under 12 years of age</td><td>do not use</td></tr><tr><td>adults 65 years of age and older</td><td>ask a doctor</td></tr><tr><td>consumers with kidney disease</td><td>ask a doctor</td></tr></tbody></table>"
+    ],
+    "other_safety_information": [
+      "Other information \u25a0 safety sealed: do not use if imprinted foil under bottle cap is opened or torn \u25a0 store between 20\u00b0 and 25\u00b0C (68\u00b0 and 77\u00b0F) \u25a0 protect from excessive moisture"
+    ],
+    "inactive_ingredient": [
+      "Inactive ingredients colloidal silicon dioxide, hypromellose, light liquid paraffin, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, red iron oxide, sodium starch glycolate, talc, titanium dioxide, yellow iron oxide"
+    ],
+    "questions": [
+      "Questions or comments? contact 1-908-242-6108 Mon-Fri 8:00 AM to 5:00 PM EST"
+    ],
+    "package_label_principal_display_panel": [
+      "Principle Packaging Display Panel PDP"
+    ],
+    "set_id": "f9ccd673-c65f-45c6-9863-26136eb816db",
+    "id": "5d559378-cddc-4b5b-e063-6394a90a42f2",
+    "effective_time": "20261008",
+    "version": "3",
+    "openfda": {
+      "application_number": [
+        "ANDA204097"
+      ],
+      "brand_name": [
+        "VALUMEDS NON-DROWSY ALLERGY RELIEF FEXOFENADINE HCL"
+      ],
+      "generic_name": [
+        "FEXOFENADINE HYDROCHLORIDE"
+      ],
+      "manufacturer_name": [
+        "Cabinet Health P.B.C."
+      ],
+      "product_ndc": [
+        "82725-1202"
+      ],
+      "product_type": [
+        "HUMAN OTC DRUG"
+      ],
+      "route": [
+        "ORAL"
+      ],
+      "substance_name": [
+        "FEXOFENADINE HYDROCHLORIDE"
+      ],
+      "rxcui": [
+        "997420"
+      ],
+      "spl_id": [
+        "5d559378-cddc-4b5b-e063-6394a90a42f2"
+      ],
+      "spl_set_id": [
+        "f9ccd673-c65f-45c6-9863-26136eb816db"
+      ],
+      "package_ndc": [
+        "82725-1202-1",
+        "82725-1202-2",
+        "82725-1202-3"
+      ],
+      "is_original_packager": [
+        true
+      ],
+      "upc": [
+        "5812062928087"
+      ],
+      "unii": [
+        "2S068B75ZU"
+      ]
+    }
+  }
+}
