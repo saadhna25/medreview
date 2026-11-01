@@ -1,0 +1,72 @@
+ingredient,num_patients,num_patients_3plus
+hydrochlorothiazide,252,114
+simvastatin,185,120
+amlodipine,139,87
+epinephrine,102,46
+naproxen,100,64
+fluticasone,91,65
+olmesartan,90,41
+atenolol,78,37
+chlorthalidone,78,37
+furosemide,58,57
+metoprolol,58,57
+metformin,57,44
+albuterol,51,40
+nitroglycerin,51,51
+clopidogrel,49,49
+insulin isophane,48,42
+"insulin, regular, human",48,42
+vitamin B12,47,23
+ferrous sulfate,47,21
+ethinyl estradiol,44,7
+alendronate,42,26
+salmeterol,41,26
+digoxin,41,41
+verapamil,41,41
+warfarin,41,41
+docetaxel,38,35
+leuprolide,38,35
+loratadine,36,15
+levonorgestrel,33,3
+diphenhydramine,32,15
+fexofenadine,27,12
+hydrocortisone,24,18
+norethindrone,23,5
+leucovorin,22,20
+oxaliplatin,22,20
+chlorpheniramine,21,12
+cetirizine,18,7
+acetaminophen,18,15
+nicotine,18,17
+memantine,17,13
+donepezil,14,12
+etonogestrel,14,3
+levothyroxine,13,9
+galantamine,12,10
+astemizole,12,6
+medroxyprogesterone,11,5
+dienogest,10,1
+estradiol,10,1
+norgestimate,9,2
+hydrocodone,9,9
+diazepam,7,2
+drospirenone,7,2
+sertraline,7,7
+fluoxetine,7,5
+clonazepam,6,3
+carbamazepine,6,4
+oxycodone,6,3
+terfenadine,4,4
+ibuprofen,4,2
+amoxicillin,3,1
+clavulanate,3,1
+atomoxetine,3,0
+mestranol,2,0
+methylphenidate,1,0
+methotrexate,1,1
+tacrine,1,1
+insulin lispro,1,1
+allopurinol,1,1
+norelgestromin,1,1
+duloxetine,1,1
+cefuroxime,1,1

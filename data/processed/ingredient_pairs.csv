@@ -1,0 +1,817 @@
+ingredient_a,ingredient_b,num_patients
+amlodipine,hydrochlorothiazide,101
+amlodipine,olmesartan,90
+hydrochlorothiazide,olmesartan,90
+atenolol,chlorthalidone,78
+amlodipine,simvastatin,69
+furosemide,metoprolol,58
+hydrochlorothiazide,simvastatin,54
+albuterol,fluticasone,51
+nitroglycerin,simvastatin,50
+amlodipine,clopidogrel,49
+amlodipine,nitroglycerin,49
+clopidogrel,nitroglycerin,49
+clopidogrel,simvastatin,49
+insulin isophane,"insulin, regular, human",48
+fluticasone,salmeterol,41
+digoxin,verapamil,41
+digoxin,warfarin,41
+verapamil,warfarin,41
+docetaxel,leuprolide,38
+naproxen,simvastatin,37
+epinephrine,loratadine,36
+hydrochlorothiazide,naproxen,36
+hydrochlorothiazide,insulin isophane,30
+hydrochlorothiazide,"insulin, regular, human",30
+hydrochlorothiazide,metformin,28
+epinephrine,fexofenadine,27
+furosemide,simvastatin,26
+metoprolol,simvastatin,26
+atenolol,simvastatin,25
+chlorthalidone,simvastatin,25
+fluticasone,hydrochlorothiazide,24
+amlodipine,naproxen,24
+insulin isophane,metformin,24
+"insulin, regular, human",metformin,24
+leucovorin,oxaliplatin,22
+ethinyl estradiol,levonorgestrel,20
+olmesartan,simvastatin,20
+amlodipine,metformin,19
+digoxin,simvastatin,19
+simvastatin,verapamil,19
+simvastatin,warfarin,19
+cetirizine,epinephrine,18
+fluticasone,simvastatin,18
+hydrochlorothiazide,nitroglycerin,17
+epinephrine,fluticasone,16
+insulin isophane,simvastatin,16
+"insulin, regular, human",simvastatin,16
+docetaxel,hydrochlorothiazide,16
+hydrochlorothiazide,leuprolide,16
+clopidogrel,hydrochlorothiazide,16
+albuterol,epinephrine,15
+furosemide,hydrochlorothiazide,15
+hydrochlorothiazide,metoprolol,15
+hydrochlorothiazide,salmeterol,15
+amlodipine,fluticasone,14
+docetaxel,simvastatin,14
+leuprolide,simvastatin,14
+metformin,olmesartan,14
+metformin,simvastatin,14
+salmeterol,simvastatin,14
+ferrous sulfate,hydrochlorothiazide,14
+insulin isophane,naproxen,14
+"insulin, regular, human",naproxen,14
+amlodipine,furosemide,13
+amlodipine,insulin isophane,13
+amlodipine,"insulin, regular, human",13
+amlodipine,metoprolol,13
+furosemide,naproxen,13
+metoprolol,naproxen,13
+epinephrine,hydrochlorothiazide,12
+alendronate,simvastatin,12
+clopidogrel,naproxen,12
+naproxen,nitroglycerin,12
+digoxin,hydrochlorothiazide,12
+hydrochlorothiazide,verapamil,12
+hydrochlorothiazide,warfarin,12
+docetaxel,nicotine,12
+leuprolide,nicotine,12
+donepezil,simvastatin,11
+epinephrine,hydrocortisone,11
+fluticasone,olmesartan,11
+ferrous sulfate,naproxen,11
+albuterol,hydrochlorothiazide,10
+memantine,simvastatin,10
+acetaminophen,hydrochlorothiazide,10
+docetaxel,insulin isophane,10
+docetaxel,"insulin, regular, human",10
+insulin isophane,leuprolide,10
+"insulin, regular, human",leuprolide,10
+amlodipine,atenolol,10
+amlodipine,chlorthalidone,10
+dienogest,estradiol,10
+amlodipine,ferrous sulfate,10
+metformin,naproxen,10
+atenolol,naproxen,10
+chlorthalidone,naproxen,10
+naproxen,olmesartan,10
+ethinyl estradiol,norgestimate,9
+hydrochlorothiazide,vitamin B12,9
+acetaminophen,hydrocodone,9
+amlodipine,salmeterol,9
+digoxin,docetaxel,9
+digoxin,leuprolide,9
+docetaxel,verapamil,9
+docetaxel,warfarin,9
+leuprolide,verapamil,9
+leuprolide,warfarin,9
+atenolol,clopidogrel,9
+atenolol,nitroglycerin,9
+chlorthalidone,clopidogrel,9
+chlorthalidone,nitroglycerin,9
+clopidogrel,furosemide,9
+clopidogrel,metoprolol,9
+furosemide,nitroglycerin,9
+metoprolol,nitroglycerin,9
+ferrous sulfate,simvastatin,9
+simvastatin,vitamin B12,9
+furosemide,insulin isophane,8
+furosemide,"insulin, regular, human",8
+insulin isophane,metoprolol,8
+insulin isophane,olmesartan,8
+"insulin, regular, human",metoprolol,8
+"insulin, regular, human",olmesartan,8
+furosemide,metformin,8
+metformin,metoprolol,8
+olmesartan,salmeterol,8
+digoxin,naproxen,8
+naproxen,verapamil,8
+naproxen,warfarin,8
+ethinyl estradiol,hydrochlorothiazide,8
+docetaxel,furosemide,8
+docetaxel,metoprolol,8
+furosemide,leuprolide,8
+leuprolide,metoprolol,8
+amlodipine,digoxin,8
+amlodipine,verapamil,8
+amlodipine,warfarin,8
+chlorpheniramine,hydrochlorothiazide,7
+fluticasone,naproxen,7
+alendronate,memantine,7
+galantamine,hydrochlorothiazide,7
+drospirenone,ethinyl estradiol,7
+diphenhydramine,epinephrine,7
+diphenhydramine,hydrochlorothiazide,7
+alendronate,metformin,7
+fluticasone,insulin isophane,7
+fluticasone,"insulin, regular, human",7
+hydrochlorothiazide,nicotine,7
+leucovorin,simvastatin,7
+oxaliplatin,simvastatin,7
+fluticasone,metformin,7
+metformin,salmeterol,7
+hydrochlorothiazide,levonorgestrel,7
+ferrous sulfate,olmesartan,7
+alendronate,hydrochlorothiazide,7
+amlodipine,docetaxel,7
+amlodipine,leuprolide,7
+galantamine,insulin isophane,7
+galantamine,"insulin, regular, human",7
+metformin,nitroglycerin,7
+ethinyl estradiol,etonogestrel,7
+amlodipine,ethinyl estradiol,7
+diphenhydramine,hydrocortisone,6
+acetaminophen,sertraline,6
+acetaminophen,simvastatin,6
+hydrocodone,sertraline,6
+insulin isophane,nicotine,6
+"insulin, regular, human",nicotine,6
+albuterol,cetirizine,6
+cetirizine,fluticasone,6
+fluticasone,nitroglycerin,6
+insulin isophane,nitroglycerin,6
+"insulin, regular, human",nitroglycerin,6
+albuterol,diphenhydramine,6
+diphenhydramine,fluticasone,6
+atenolol,metformin,6
+chlorthalidone,metformin,6
+digoxin,furosemide,6
+digoxin,metoprolol,6
+furosemide,verapamil,6
+furosemide,warfarin,6
+metoprolol,verapamil,6
+metoprolol,warfarin,6
+alendronate,docetaxel,6
+alendronate,leuprolide,6
+clopidogrel,metformin,6
+hydrochlorothiazide,hydrocodone,6
+acetaminophen,oxycodone,6
+clopidogrel,olmesartan,6
+nitroglycerin,olmesartan,6
+atenolol,ferrous sulfate,6
+chlorthalidone,ferrous sulfate,6
+galantamine,naproxen,6
+chlorpheniramine,epinephrine,6
+furosemide,vitamin B12,6
+metoprolol,vitamin B12,6
+ethinyl estradiol,olmesartan,6
+hydrochlorothiazide,leucovorin,5
+hydrochlorothiazide,levothyroxine,5
+hydrochlorothiazide,oxaliplatin,5
+albuterol,chlorpheniramine,5
+chlorpheniramine,fluticasone,5
+alendronate,donepezil,5
+amlodipine,galantamine,5
+albuterol,amlodipine,5
+amlodipine,epinephrine,5
+epinephrine,olmesartan,5
+metformin,vitamin B12,5
+acetaminophen,docetaxel,5
+acetaminophen,leuprolide,5
+alendronate,furosemide,5
+alendronate,metoprolol,5
+donepezil,furosemide,5
+donepezil,metoprolol,5
+insulin isophane,salmeterol,5
+"insulin, regular, human",salmeterol,5
+digoxin,insulin isophane,5
+digoxin,"insulin, regular, human",5
+donepezil,naproxen,5
+insulin isophane,verapamil,5
+insulin isophane,warfarin,5
+"insulin, regular, human",verapamil,5
+"insulin, regular, human",warfarin,5
+alendronate,atenolol,5
+alendronate,chlorthalidone,5
+atenolol,fluticasone,5
+chlorthalidone,fluticasone,5
+clopidogrel,docetaxel,5
+clopidogrel,leuprolide,5
+docetaxel,nitroglycerin,5
+galantamine,metformin,5
+leuprolide,nitroglycerin,5
+clopidogrel,digoxin,5
+clopidogrel,verapamil,5
+clopidogrel,warfarin,5
+digoxin,metformin,5
+digoxin,nitroglycerin,5
+metformin,verapamil,5
+metformin,warfarin,5
+nitroglycerin,verapamil,5
+nitroglycerin,warfarin,5
+alendronate,digoxin,5
+alendronate,naproxen,5
+alendronate,verapamil,5
+alendronate,warfarin,5
+astemizole,epinephrine,5
+atenolol,vitamin B12,5
+chlorthalidone,vitamin B12,5
+nicotine,simvastatin,5
+digoxin,galantamine,5
+galantamine,verapamil,5
+galantamine,warfarin,5
+chlorpheniramine,hydrocortisone,5
+levothyroxine,simvastatin,5
+hydrochlorothiazide,loratadine,4
+leucovorin,naproxen,4
+naproxen,oxaliplatin,4
+naproxen,salmeterol,4
+donepezil,memantine,4
+epinephrine,norethindrone,4
+hydrocortisone,loratadine,4
+naproxen,vitamin B12,4
+albuterol,fexofenadine,4
+fexofenadine,fluticasone,4
+diphenhydramine,simvastatin,4
+docetaxel,hydrocodone,4
+hydrocodone,leuprolide,4
+hydrocodone,simvastatin,4
+fluticasone,loratadine,4
+furosemide,olmesartan,4
+metoprolol,olmesartan,4
+atenolol,insulin isophane,4
+atenolol,"insulin, regular, human",4
+chlorthalidone,insulin isophane,4
+chlorthalidone,"insulin, regular, human",4
+nitroglycerin,salmeterol,4
+digoxin,leucovorin,4
+digoxin,oxaliplatin,4
+leucovorin,verapamil,4
+leucovorin,warfarin,4
+oxaliplatin,verapamil,4
+oxaliplatin,warfarin,4
+digoxin,donepezil,4
+donepezil,verapamil,4
+donepezil,warfarin,4
+atenolol,furosemide,4
+atenolol,metoprolol,4
+chlorthalidone,furosemide,4
+chlorthalidone,metoprolol,4
+atenolol,leucovorin,4
+atenolol,oxaliplatin,4
+chlorthalidone,leucovorin,4
+chlorthalidone,oxaliplatin,4
+alendronate,fluticasone,4
+hydrochlorothiazide,norethindrone,4
+etonogestrel,hydrochlorothiazide,4
+fluticasone,furosemide,4
+fluticasone,metoprolol,4
+fexofenadine,hydrochlorothiazide,4
+albuterol,atenolol,4
+albuterol,chlorthalidone,4
+clopidogrel,insulin isophane,4
+clopidogrel,"insulin, regular, human",4
+galantamine,simvastatin,4
+hydrochlorothiazide,medroxyprogesterone,4
+acetaminophen,insulin isophane,4
+acetaminophen,"insulin, regular, human",4
+furosemide,nicotine,4
+metoprolol,nicotine,4
+atenolol,digoxin,4
+atenolol,verapamil,4
+atenolol,warfarin,4
+chlorthalidone,digoxin,4
+chlorthalidone,verapamil,4
+chlorthalidone,warfarin,4
+digoxin,memantine,4
+memantine,naproxen,4
+memantine,verapamil,4
+memantine,warfarin,4
+clopidogrel,ferrous sulfate,4
+ferrous sulfate,nitroglycerin,4
+clopidogrel,fluticasone,4
+albuterol,simvastatin,4
+ferrous sulfate,metformin,4
+chlorpheniramine,naproxen,4
+levothyroxine,naproxen,3
+loratadine,norethindrone,3
+galantamine,olmesartan,3
+albuterol,olmesartan,3
+albuterol,terfenadine,3
+epinephrine,terfenadine,3
+fluticasone,terfenadine,3
+docetaxel,sertraline,3
+leuprolide,sertraline,3
+sertraline,simvastatin,3
+albuterol,loratadine,3
+ferrous sulfate,furosemide,3
+ferrous sulfate,metoprolol,3
+donepezil,metformin,3
+naproxen,nicotine,3
+docetaxel,donepezil,3
+docetaxel,naproxen,3
+donepezil,hydrochlorothiazide,3
+donepezil,insulin isophane,3
+donepezil,"insulin, regular, human",3
+donepezil,leuprolide,3
+leuprolide,naproxen,3
+ferrous sulfate,vitamin B12,3
+alendronate,salmeterol,3
+diphenhydramine,etonogestrel,3
+amlodipine,norethindrone,3
+norethindrone,olmesartan,3
+astemizole,hydrochlorothiazide,3
+hydrochlorothiazide,hydrocortisone,3
+amlodipine,memantine,3
+fluticasone,memantine,3
+atenolol,docetaxel,3
+atenolol,leuprolide,3
+atenolol,memantine,3
+chlorthalidone,docetaxel,3
+chlorthalidone,leuprolide,3
+chlorthalidone,memantine,3
+docetaxel,fluticasone,3
+docetaxel,memantine,3
+fluticasone,leuprolide,3
+leuprolide,memantine,3
+alendronate,insulin isophane,3
+alendronate,"insulin, regular, human",3
+amlodipine,fluoxetine,3
+docetaxel,fluoxetine,3
+docetaxel,galantamine,3
+docetaxel,metformin,3
+fluoxetine,hydrochlorothiazide,3
+fluoxetine,leuprolide,3
+fluoxetine,simvastatin,3
+galantamine,leuprolide,3
+leuprolide,metformin,3
+fluticasone,vitamin B12,3
+salmeterol,vitamin B12,3
+medroxyprogesterone,naproxen,3
+ethinyl estradiol,simvastatin,3
+amlodipine,vitamin B12,3
+amlodipine,chlorpheniramine,3
+chlorpheniramine,olmesartan,3
+furosemide,salmeterol,3
+metoprolol,salmeterol,3
+insulin isophane,leucovorin,3
+insulin isophane,oxaliplatin,3
+"insulin, regular, human",leucovorin,3
+"insulin, regular, human",oxaliplatin,3
+alendronate,nicotine,3
+digoxin,nicotine,3
+nicotine,verapamil,3
+nicotine,warfarin,3
+amlodipine,levothyroxine,3
+clopidogrel,levothyroxine,3
+levothyroxine,nitroglycerin,3
+amlodipine,levonorgestrel,3
+levonorgestrel,olmesartan,3
+alendronate,amlodipine,3
+digoxin,sertraline,3
+sertraline,verapamil,3
+sertraline,warfarin,3
+albuterol,naproxen,3
+amlodipine,medroxyprogesterone,3
+medroxyprogesterone,olmesartan,3
+acetaminophen,fluticasone,3
+hydrochlorothiazide,sertraline,3
+amlodipine,donepezil,3
+clopidogrel,donepezil,3
+donepezil,nitroglycerin,3
+furosemide,memantine,3
+memantine,metoprolol,3
+amlodipine,diphenhydramine,3
+diphenhydramine,olmesartan,3
+amoxicillin,clavulanate,3
+digoxin,fluticasone,3
+digoxin,salmeterol,3
+fluticasone,verapamil,3
+fluticasone,warfarin,3
+salmeterol,verapamil,3
+salmeterol,warfarin,3
+alendronate,ferrous sulfate,3
+digoxin,olmesartan,3
+olmesartan,verapamil,3
+olmesartan,warfarin,3
+diazepam,epinephrine,2
+leucovorin,levothyroxine,2
+levothyroxine,oxaliplatin,2
+fluticasone,leucovorin,2
+fluticasone,oxaliplatin,2
+leucovorin,salmeterol,2
+oxaliplatin,salmeterol,2
+mestranol,norethindrone,2
+amlodipine,terfenadine,2
+hydrochlorothiazide,terfenadine,2
+olmesartan,terfenadine,2
+alendronate,leucovorin,2
+alendronate,oxaliplatin,2
+atenolol,norethindrone,2
+chlorthalidone,norethindrone,2
+hydrocortisone,leucovorin,2
+hydrocortisone,oxaliplatin,2
+chlorpheniramine,levonorgestrel,2
+chlorpheniramine,metformin,2
+atenolol,levothyroxine,2
+chlorthalidone,levothyroxine,2
+atenolol,carbamazepine,2
+carbamazepine,chlorthalidone,2
+ferrous sulfate,hydrocortisone,2
+epinephrine,vitamin B12,2
+ethinyl estradiol,vitamin B12,2
+amlodipine,astemizole,2
+amlodipine,hydrocortisone,2
+astemizole,hydrocortisone,2
+astemizole,olmesartan,2
+hydrocortisone,olmesartan,2
+hydrochlorothiazide,memantine,2
+memantine,salmeterol,2
+albuterol,docetaxel,2
+albuterol,leuprolide,2
+clopidogrel,galantamine,2
+fluoxetine,insulin isophane,2
+fluoxetine,"insulin, regular, human",2
+fluoxetine,metformin,2
+galantamine,nitroglycerin,2
+fluoxetine,olmesartan,2
+acetaminophen,nicotine,2
+hydrocodone,insulin isophane,2
+hydrocodone,"insulin, regular, human",2
+hydrocodone,nicotine,2
+atenolol,donepezil,2
+chlorthalidone,donepezil,2
+olmesartan,vitamin B12,2
+atenolol,etonogestrel,2
+chlorthalidone,etonogestrel,2
+levonorgestrel,metformin,2
+hydrocortisone,naproxen,2
+galantamine,leucovorin,2
+galantamine,oxaliplatin,2
+clonazepam,diazepam,2
+clopidogrel,salmeterol,2
+alendronate,galantamine,2
+galantamine,nicotine,2
+acetaminophen,vitamin B12,2
+chlorpheniramine,norethindrone,2
+nitroglycerin,vitamin B12,2
+alendronate,clopidogrel,2
+alendronate,nitroglycerin,2
+acetaminophen,digoxin,2
+acetaminophen,verapamil,2
+acetaminophen,warfarin,2
+digoxin,hydrocodone,2
+hydrocodone,verapamil,2
+hydrocodone,warfarin,2
+albuterol,insulin isophane,2
+albuterol,"insulin, regular, human",2
+diphenhydramine,insulin isophane,2
+diphenhydramine,"insulin, regular, human",2
+diphenhydramine,naproxen,2
+ferrous sulfate,nicotine,2
+albuterol,clopidogrel,2
+albuterol,nitroglycerin,2
+acetaminophen,amlodipine,2
+acetaminophen,olmesartan,2
+acetaminophen,salmeterol,2
+amlodipine,hydrocodone,2
+hydrocodone,olmesartan,2
+clopidogrel,memantine,2
+memantine,nitroglycerin,2
+acetaminophen,nitroglycerin,2
+drospirenone,epinephrine,2
+drospirenone,loratadine,2
+epinephrine,ethinyl estradiol,2
+ethinyl estradiol,loratadine,2
+amlodipine,etonogestrel,2
+diphenhydramine,ethinyl estradiol,2
+etonogestrel,olmesartan,2
+ferrous sulfate,insulin isophane,2
+ferrous sulfate,"insulin, regular, human",2
+albuterol,astemizole,2
+astemizole,fluticasone,2
+amlodipine,norgestimate,2
+norgestimate,simvastatin,2
+leucovorin,metformin,2
+metformin,oxaliplatin,2
+hydrochlorothiazide,oxycodone,2
+hydrocortisone,metformin,2
+acetaminophen,metformin,2
+insulin isophane,oxycodone,2
+"insulin, regular, human",oxycodone,2
+metformin,oxycodone,2
+ferrous sulfate,leucovorin,2
+ferrous sulfate,oxaliplatin,2
+ferrous sulfate,memantine,2
+insulin isophane,vitamin B12,2
+"insulin, regular, human",vitamin B12,2
+diazepam,fexofenadine,1
+hydrocortisone,norethindrone,1
+clonazepam,mestranol,1
+clonazepam,norethindrone,1
+atenolol,epinephrine,1
+atenolol,fexofenadine,1
+chlorthalidone,epinephrine,1
+chlorthalidone,fexofenadine,1
+norethindrone,simvastatin,1
+atenolol,nicotine,1
+chlorthalidone,nicotine,1
+albuterol,ethinyl estradiol,1
+albuterol,levonorgestrel,1
+chlorpheniramine,ethinyl estradiol,1
+ethinyl estradiol,fluticasone,1
+fluticasone,levonorgestrel,1
+fexofenadine,hydrocortisone,1
+chlorpheniramine,insulin isophane,1
+chlorpheniramine,"insulin, regular, human",1
+alendronate,levothyroxine,1
+carbamazepine,leucovorin,1
+carbamazepine,oxaliplatin,1
+donepezil,fluticasone,1
+donepezil,salmeterol,1
+furosemide,leucovorin,1
+furosemide,oxaliplatin,1
+leucovorin,metoprolol,1
+metoprolol,oxaliplatin,1
+epinephrine,ferrous sulfate,1
+ferrous sulfate,loratadine,1
+epinephrine,etonogestrel,1
+etonogestrel,loratadine,1
+etonogestrel,vitamin B12,1
+loratadine,vitamin B12,1
+albuterol,furosemide,1
+albuterol,metoprolol,1
+furosemide,levothyroxine,1
+levothyroxine,metoprolol,1
+drospirenone,vitamin B12,1
+hydrochlorothiazide,methotrexate,1
+methotrexate,naproxen,1
+memantine,olmesartan,1
+albuterol,alendronate,1
+albuterol,memantine,1
+clopidogrel,fluoxetine,1
+fluoxetine,galantamine,1
+fluoxetine,nitroglycerin,1
+levonorgestrel,vitamin B12,1
+docetaxel,olmesartan,1
+leuprolide,olmesartan,1
+insulin isophane,medroxyprogesterone,1
+"insulin, regular, human",medroxyprogesterone,1
+acetaminophen,furosemide,1
+acetaminophen,metoprolol,1
+furosemide,hydrocodone,1
+hydrocodone,metoprolol,1
+acetaminophen,atenolol,1
+acetaminophen,chlorthalidone,1
+acetaminophen,hydrocortisone,1
+atenolol,hydrocortisone,1
+atenolol,oxycodone,1
+chlorthalidone,hydrocortisone,1
+chlorthalidone,oxycodone,1
+hydrocortisone,oxycodone,1
+amlodipine,carbamazepine,1
+carbamazepine,clopidogrel,1
+carbamazepine,digoxin,1
+carbamazepine,metformin,1
+carbamazepine,nitroglycerin,1
+carbamazepine,simvastatin,1
+carbamazepine,verapamil,1
+carbamazepine,warfarin,1
+furosemide,hydrocortisone,1
+hydrocortisone,metoprolol,1
+etonogestrel,simvastatin,1
+dienogest,epinephrine,1
+dienogest,fexofenadine,1
+epinephrine,estradiol,1
+estradiol,fexofenadine,1
+astemizole,clopidogrel,1
+astemizole,ferrous sulfate,1
+astemizole,nitroglycerin,1
+astemizole,simvastatin,1
+etonogestrel,ferrous sulfate,1
+ethinyl estradiol,metformin,1
+epinephrine,naproxen,1
+loratadine,naproxen,1
+digoxin,levothyroxine,1
+digoxin,vitamin B12,1
+levothyroxine,verapamil,1
+levothyroxine,vitamin B12,1
+levothyroxine,warfarin,1
+verapamil,vitamin B12,1
+vitamin B12,warfarin,1
+cetirizine,hydrocortisone,1
+cetirizine,vitamin B12,1
+hydrocortisone,vitamin B12,1
+atenolol,levonorgestrel,1
+chlorthalidone,levonorgestrel,1
+epinephrine,salmeterol,1
+loratadine,salmeterol,1
+chlorpheniramine,clonazepam,1
+chlorpheniramine,diazepam,1
+clonazepam,epinephrine,1
+clonazepam,hydrocortisone,1
+diazepam,hydrocortisone,1
+hydrocodone,vitamin B12,1
+alendronate,vitamin B12,1
+clopidogrel,vitamin B12,1
+alendronate,ibuprofen,1
+amlodipine,ibuprofen,1
+clopidogrel,ibuprofen,1
+hydrochlorothiazide,ibuprofen,1
+ibuprofen,nitroglycerin,1
+ibuprofen,simvastatin,1
+alendronate,olmesartan,1
+acetaminophen,fluoxetine,1
+digoxin,fluoxetine,1
+fluoxetine,hydrocodone,1
+fluoxetine,nicotine,1
+fluoxetine,sertraline,1
+fluoxetine,verapamil,1
+fluoxetine,warfarin,1
+nicotine,sertraline,1
+carbamazepine,furosemide,1
+carbamazepine,metoprolol,1
+clonazepam,leucovorin,1
+clonazepam,oxaliplatin,1
+diphenhydramine,vitamin B12,1
+amlodipine,sertraline,1
+fluticasone,hydrocodone,1
+fluticasone,sertraline,1
+hydrocodone,salmeterol,1
+olmesartan,sertraline,1
+salmeterol,sertraline,1
+ferrous sulfate,levothyroxine,1
+acetaminophen,clopidogrel,1
+clopidogrel,hydrocodone,1
+hydrocodone,nitroglycerin,1
+diphenhydramine,leucovorin,1
+diphenhydramine,oxaliplatin,1
+albuterol,salmeterol,1
+diphenhydramine,salmeterol,1
+chlorpheniramine,leucovorin,1
+chlorpheniramine,oxaliplatin,1
+epinephrine,leucovorin,1
+epinephrine,oxaliplatin,1
+amlodipine,fexofenadine,1
+fexofenadine,olmesartan,1
+amlodipine,amoxicillin,1
+amlodipine,clavulanate,1
+amoxicillin,clopidogrel,1
+amoxicillin,furosemide,1
+amoxicillin,hydrochlorothiazide,1
+amoxicillin,metoprolol,1
+amoxicillin,naproxen,1
+amoxicillin,nitroglycerin,1
+amoxicillin,simvastatin,1
+clavulanate,clopidogrel,1
+clavulanate,furosemide,1
+clavulanate,hydrochlorothiazide,1
+clavulanate,metoprolol,1
+clavulanate,naproxen,1
+clavulanate,nitroglycerin,1
+clavulanate,simvastatin,1
+chlorpheniramine,medroxyprogesterone,1
+amlodipine,tacrine,1
+atenolol,tacrine,1
+chlorthalidone,tacrine,1
+clopidogrel,tacrine,1
+ferrous sulfate,tacrine,1
+insulin isophane,tacrine,1
+"insulin, regular, human",tacrine,1
+metformin,tacrine,1
+naproxen,tacrine,1
+nitroglycerin,tacrine,1
+simvastatin,tacrine,1
+amlodipine,insulin lispro,1
+clopidogrel,insulin lispro,1
+insulin lispro,metformin,1
+insulin lispro,nitroglycerin,1
+insulin lispro,simvastatin,1
+digoxin,hydrocortisone,1
+hydrocortisone,verapamil,1
+hydrocortisone,warfarin,1
+diphenhydramine,ferrous sulfate,1
+albuterol,norethindrone,1
+fluticasone,norethindrone,1
+hydrochlorothiazide,norgestimate,1
+norgestimate,olmesartan,1
+docetaxel,ferrous sulfate,1
+ferrous sulfate,galantamine,1
+ferrous sulfate,leuprolide,1
+diphenhydramine,medroxyprogesterone,1
+amoxicillin,ferrous sulfate,1
+clavulanate,ferrous sulfate,1
+allopurinol,hydrochlorothiazide,1
+allopurinol,naproxen,1
+carbamazepine,clonazepam,1
+carbamazepine,hydrochlorothiazide,1
+clonazepam,hydrochlorothiazide,1
+amlodipine,loratadine,1
+loratadine,olmesartan,1
+epinephrine,medroxyprogesterone,1
+fexofenadine,medroxyprogesterone,1
+furosemide,sertraline,1
+metformin,sertraline,1
+metoprolol,sertraline,1
+clopidogrel,ethinyl estradiol,1
+clopidogrel,norgestimate,1
+ethinyl estradiol,nitroglycerin,1
+nitroglycerin,norgestimate,1
+amlodipine,leucovorin,1
+amlodipine,oxaliplatin,1
+leucovorin,olmesartan,1
+olmesartan,oxaliplatin,1
+levothyroxine,olmesartan,1
+chlorpheniramine,ferrous sulfate,1
+docetaxel,oxycodone,1
+leuprolide,oxycodone,1
+astemizole,diazepam,1
+atenolol,medroxyprogesterone,1
+chlorthalidone,medroxyprogesterone,1
+medroxyprogesterone,vitamin B12,1
+leucovorin,vitamin B12,1
+oxaliplatin,vitamin B12,1
+amlodipine,drospirenone,1
+drospirenone,hydrochlorothiazide,1
+drospirenone,olmesartan,1
+epinephrine,levonorgestrel,1
+metformin,nicotine,1
+nicotine,vitamin B12,1
+atenolol,salmeterol,1
+chlorthalidone,salmeterol,1
+docetaxel,salmeterol,1
+leuprolide,salmeterol,1
+atenolol,galantamine,1
+chlorthalidone,galantamine,1
+amlodipine,norelgestromin,1
+ethinyl estradiol,norelgestromin,1
+hydrochlorothiazide,norelgestromin,1
+norelgestromin,olmesartan,1
+norelgestromin,vitamin B12,1
+fluticasone,oxycodone,1
+nitroglycerin,oxycodone,1
+oxycodone,salmeterol,1
+oxycodone,vitamin B12,1
+alendronate,diphenhydramine,1
+alendronate,hydrocortisone,1
+diphenhydramine,metformin,1
+hydrocortisone,simvastatin,1
+memantine,metformin,1
+oxycodone,simvastatin,1
+insulin isophane,sertraline,1
+"insulin, regular, human",sertraline,1
+acetaminophen,ferrous sulfate,1
+acetaminophen,albuterol,1
+acetaminophen,diphenhydramine,1
+duloxetine,furosemide,1
+duloxetine,hydrochlorothiazide,1
+duloxetine,metoprolol,1
+duloxetine,naproxen,1
+duloxetine,simvastatin,1
+amlodipine,nicotine,1
+ethinyl estradiol,ibuprofen,1
+ibuprofen,levonorgestrel,1
+metformin,norethindrone,1
+diazepam,diphenhydramine,1
+docetaxel,vitamin B12,1
+leuprolide,vitamin B12,1
+ferrous sulfate,fluticasone,1
+ferrous sulfate,salmeterol,1
+fluoxetine,furosemide,1
+fluoxetine,metoprolol,1
+cefuroxime,epinephrine,1
+cefuroxime,ibuprofen,1
+cefuroxime,loratadine,1
+epinephrine,ibuprofen,1
+ibuprofen,loratadine,1
