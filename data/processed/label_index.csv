@@ -43,7 +43,7 @@ donepezil,found,donepezil.json,37fc6638-4a63-4582-a64c-3525f8ed7ef2,20260909,DON
 etonogestrel,found,etonogestrel.json,487f8a62-e142-457c-97cc-2e398fde7594,20260528,ETONOGESTREL,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
 levothyroxine,found,levothyroxine.json,4c903249-69e9-4168-a9d1-22e6c2c1eb22,20260910,LEVOTHYROXINE SODIUM,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
 galantamine,found,galantamine.json,261889d3-41c8-4655-98f7-41317778e7a1,20260702,GALANTAMINE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
-astemizole,missing,,,,,,,,,,,,,,,,,
+astemizole,no_current_label,,,,,,,,,no longer sold in the US; no current FDA label,,,,,,,,
 medroxyprogesterone,found,medroxyprogesterone.json,a0a92717-c1cb-40eb-a95a-1c5dfd32cfc0,20260904,MEDROXYPROGESTERONE ACETATE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
 dienogest,found,dienogest.json,02c91fba-9c47-43ef-ac78-e82369798834,20240626,ESTRADIOL VALERATE AND ESTRADIOL VALERATE/DIENOGEST,HUMAN PRESCRIPTION DRUG,prescription,combination,True,only sold with estradiol valerate,True,True,True,False,False,True,False,False
 estradiol,found,estradiol.json,c8a2d29c-299c-4559-b859-87b303a4af81,20260828,ESTRADIOL,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,False,True,True,False,False,False
@@ -61,7 +61,7 @@ ibuprofen,found,ibuprofen.json,2144eff0-d7ab-486d-b116-a4ff3ae2afe2,20260908,IBU
 amoxicillin,found,amoxicillin.json,4adc198e-39d8-4b3e-bfa4-278aaf4064ae,20260909,AMOXICILLIN,HUMAN PRESCRIPTION DRUG,prescription,single,True,,False,True,True,False,False,True,False,False
 clavulanate,found,clavulanate.json,77b82fac-3f6e-44c9-8dcc-362f01ad7a4b,20260924,AMOXICILLIN AND CLAVULANATE POTASSIUM,HUMAN PRESCRIPTION DRUG,prescription,combination,True,only sold with amoxicillin,False,True,True,False,False,True,False,False
 atomoxetine,found,atomoxetine.json,6d7ea8f7-981c-4acc-aeaf-7516325bfc0c,20260904,ATOMOXETINE HYDROCHLORIDE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
-mestranol,no_current_label,,,,,,,,,no current US label found (searched single and combination labels)astemizole,,,,,,,,
+mestranol,no_current_label,,,,,,,,,no current US label found (searched single and combination labels),,,,,,,,
 methylphenidate,found,methylphenidate.json,768bf181-d0d8-49e5-9c87-cacbb069e0b2,20260827,METHYLPHENIDATE HYDROCHLORIDE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
 methotrexate,found,methotrexate.json,dd035a9f-cd40-4314-b9d8-2294b8a924e2,20260904,METHOTREXATE,HUMAN PRESCRIPTION DRUG,prescription,single,True,,True,True,True,False,False,True,False,False
 tacrine,no_current_label,,,,,,,,,no longer sold in the US; no current FDA label,,,,,,,,
