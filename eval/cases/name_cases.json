@@ -1,0 +1,446 @@
+[
+  {
+    "case_id": "NAME001",
+    "category": "messy_name",
+    "description": "indian_brand: Combiflam",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Combiflam"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Combiflam": [
+          "acetaminophen",
+          "ibuprofen"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME002",
+    "category": "messy_name",
+    "description": "indian_brand: Clavam 625",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Clavam 625"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Clavam 625": [
+          "amoxicillin",
+          "clavulanate"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME003",
+    "category": "messy_name",
+    "description": "indian_brand: Seroflo 250",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Seroflo 250"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Seroflo 250": [
+          "fluticasone",
+          "salmeterol"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME004",
+    "category": "messy_name",
+    "description": "indian_brand: Crocin Advance",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Crocin Advance"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Crocin Advance": [
+          "acetaminophen"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME005",
+    "category": "messy_name",
+    "description": "indian_brand: Brufen 400",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Brufen 400"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Brufen 400": [
+          "ibuprofen"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME006",
+    "category": "messy_name",
+    "description": "us_brand: Advair",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Advair"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Advair": [
+          "fluticasone",
+          "salmeterol"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME007",
+    "category": "messy_name",
+    "description": "abbreviation: HCTZ",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "HCTZ"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "HCTZ": [
+          "hydrochlorothiazide"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME008",
+    "category": "messy_name",
+    "description": "typo: Simvistatin",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Simvistatin"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Simvistatin": [
+          "simvastatin"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME009",
+    "category": "messy_name",
+    "description": "typo: Amlodopine",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Amlodopine"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Amlodopine": [
+          "amlodipine"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME010",
+    "category": "messy_name",
+    "description": "typo: Metforman",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Metforman"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Metforman": [
+          "metformin"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME011",
+    "category": "messy_name",
+    "description": "format: Lasix 40mg",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Lasix 40mg"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Lasix 40mg": [
+          "furosemide"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME012",
+    "category": "messy_name",
+    "description": "format: WARFARIN 5MG TAB",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "WARFARIN 5MG TAB"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "WARFARIN 5MG TAB": [
+          "warfarin"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME013",
+    "category": "messy_name",
+    "description": "no_match: Zentrivox",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Zentrivox"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Zentrivox": []
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME014",
+    "category": "messy_name",
+    "description": "no_match: Xyloquinate 50 mg",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Xyloquinate 50 mg"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Xyloquinate 50 mg": []
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NAME015",
+    "category": "messy_name",
+    "description": "no_match: Blood pressure pill",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Blood pressure pill"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Blood pressure pill": []
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NOLABEL001",
+    "category": "no_label",
+    "description": "Patient record: Pilar644_Adame662_5129a211-0582-4d90-a86f-a0eb21857d98.json",
+    "input": {
+      "patient_file": "Pilar644_Adame662_5129a211-0582-4d90-a86f-a0eb21857d98.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [
+        "astemizole"
+      ],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NOLABEL002",
+    "category": "no_label",
+    "description": "Patient record: Marco578_Williamson769_e33ad153-3319-48c5-aacb-600cdb212a46.json",
+    "input": {
+      "patient_file": "Marco578_Williamson769_e33ad153-3319-48c5-aacb-600cdb212a46.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [
+        "terfenadine"
+      ],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NOLABEL003",
+    "category": "no_label",
+    "description": "Patient record: Jc393_Cruickshank494_8ab24ed9-a8a2-47f5-be96-db2504b83748.json",
+    "input": {
+      "patient_file": "Jc393_Cruickshank494_8ab24ed9-a8a2-47f5-be96-db2504b83748.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [
+        "terfenadine"
+      ],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "NOLABEL004",
+    "category": "no_label",
+    "description": "Mestranol: no current label and no selected patient",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Mestranol"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Mestranol": [
+          "mestranol"
+        ]
+      },
+      "unverified_ingredients": [
+        "mestranol"
+      ],
+      "forbidden_phrases": []
+    }
+  }
+]

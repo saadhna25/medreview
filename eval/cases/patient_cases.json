@@ -1,0 +1,1850 @@
+[
+  {
+    "case_id": "INT001",
+    "category": "interaction",
+    "description": "Patient record: Odis959_Rutherford999_b003aafe-cb06-47fd-bd4f-f8044b64b596.json",
+    "input": {
+      "patient_file": "Odis959_Rutherford999_b003aafe-cb06-47fd-bd4f-f8044b64b596.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R04"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT002",
+    "category": "interaction",
+    "description": "Patient record: Patrick786_Moore224_5420cb2b-2a24-4542-8388-3659c5f3d82a.json",
+    "input": {
+      "patient_file": "Patrick786_Moore224_5420cb2b-2a24-4542-8388-3659c5f3d82a.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R03",
+        "R04"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT003",
+    "category": "interaction",
+    "description": "Patient record: Haywood675_Rempel203_c4fac0a0-9e8b-40a4-b3d6-0b26a86ab39a.json",
+    "input": {
+      "patient_file": "Haywood675_Rempel203_c4fac0a0-9e8b-40a4-b3d6-0b26a86ab39a.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT004",
+    "category": "interaction",
+    "description": "Patient record: Geri861_Homenick806_37c2654e-3390-4a15-b615-99523f571ecb.json",
+    "input": {
+      "patient_file": "Geri861_Homenick806_37c2654e-3390-4a15-b615-99523f571ecb.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT005",
+    "category": "interaction",
+    "description": "Patient record: Emilee283_Conn188_d41d57b4-91e6-4452-8b31-937d707d2b3f.json",
+    "input": {
+      "patient_file": "Emilee283_Conn188_d41d57b4-91e6-4452-8b31-937d707d2b3f.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R02"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT006",
+    "category": "interaction",
+    "description": "Patient record: Clorinda310_Abshire638_9138db90-a8bf-465f-9b5d-16f8fd5749da.json",
+    "input": {
+      "patient_file": "Clorinda310_Abshire638_9138db90-a8bf-465f-9b5d-16f8fd5749da.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R02"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT007",
+    "category": "interaction",
+    "description": "Patient record: Mohammad578_Bashirian201_155e820d-b895-448d-91e0-30a199b9ea7c.json",
+    "input": {
+      "patient_file": "Mohammad578_Bashirian201_155e820d-b895-448d-91e0-30a199b9ea7c.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT008",
+    "category": "interaction",
+    "description": "Patient record: Carlos172_Arias66_33bb8e83-3c9d-4b0a-b2bd-448f8ddc4bb1.json",
+    "input": {
+      "patient_file": "Carlos172_Arias66_33bb8e83-3c9d-4b0a-b2bd-448f8ddc4bb1.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R02"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT009",
+    "category": "interaction",
+    "description": "Patient record: Denisse335_Emard19_ebfc467b-c9b6-4dd5-b611-4aae8f77b2b6.json",
+    "input": {
+      "patient_file": "Denisse335_Emard19_ebfc467b-c9b6-4dd5-b611-4aae8f77b2b6.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT010",
+    "category": "interaction",
+    "description": "Patient record: Tamara8_Zieme486_400e3e4e-4e04-4d6c-b153-0bc2ead58ed6.json",
+    "input": {
+      "patient_file": "Tamara8_Zieme486_400e3e4e-4e04-4d6c-b153-0bc2ead58ed6.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R02",
+        "R20"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT011",
+    "category": "interaction",
+    "description": "Patient record: Normand813_Zemlak964_28ea39f3-a07b-457b-b12d-e35c8bd2d1dd.json",
+    "input": {
+      "patient_file": "Normand813_Zemlak964_28ea39f3-a07b-457b-b12d-e35c8bd2d1dd.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R03",
+        "R04"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT012",
+    "category": "interaction",
+    "description": "Patient record: Nickolas58_Flatley871_54ec3605-08d6-4094-8800-e98e7321da6c.json",
+    "input": {
+      "patient_file": "Nickolas58_Flatley871_54ec3605-08d6-4094-8800-e98e7321da6c.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT013",
+    "category": "interaction",
+    "description": "Patient record: Harrison106_Schuster709_775e3aae-d63d-43b7-bf3e-9d852fe61cb0.json",
+    "input": {
+      "patient_file": "Harrison106_Schuster709_775e3aae-d63d-43b7-bf3e-9d852fe61cb0.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R04"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT014",
+    "category": "interaction",
+    "description": "Patient record: Salvador46_Huels583_e213923b-f41e-41be-921a-8193e4ec6a2a.json",
+    "input": {
+      "patient_file": "Salvador46_Huels583_e213923b-f41e-41be-921a-8193e4ec6a2a.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R02",
+        "R05",
+        "R06",
+        "R07",
+        "R13"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT015",
+    "category": "interaction",
+    "description": "Patient record: Hoa730_Dooley940_ff76c6f0-d0da-438d-bce4-0c4e88fbc752.json",
+    "input": {
+      "patient_file": "Hoa730_Dooley940_ff76c6f0-d0da-438d-bce4-0c4e88fbc752.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01",
+        "R03",
+        "R04"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT016",
+    "category": "interaction",
+    "description": "Patient record: Leland44_Bode78_6db58d94-662c-4d07-bf79-2129ca4b8f14.json",
+    "input": {
+      "patient_file": "Leland44_Bode78_6db58d94-662c-4d07-bf79-2129ca4b8f14.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R04"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT017",
+    "category": "interaction",
+    "description": "Patient record: Sigrid676_Hickle134_a9b932bb-46ab-400f-b517-8ece63f73dee.json",
+    "input": {
+      "patient_file": "Sigrid676_Hickle134_a9b932bb-46ab-400f-b517-8ece63f73dee.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT018",
+    "category": "interaction",
+    "description": "Patient record: Ester635_Echevarri\u0301a842_d36b57d2-052b-4b7a-9978-d4bac3f59c36.json",
+    "input": {
+      "patient_file": "Ester635_Echevarri\u0301a842_d36b57d2-052b-4b7a-9978-d4bac3f59c36.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R02",
+        "R05",
+        "R06",
+        "R07",
+        "R09",
+        "R10"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT019",
+    "category": "interaction",
+    "description": "Patient record: Brendon298_Bednar518_36a3f725-2f68-479f-acb1-fce4bc7ef21d.json",
+    "input": {
+      "patient_file": "Brendon298_Bednar518_36a3f725-2f68-479f-acb1-fce4bc7ef21d.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT020",
+    "category": "interaction",
+    "description": "Patient record: Rochell365_Hirthe744_b9efa2b1-b949-4f24-8598-d0a0218b5e18.json",
+    "input": {
+      "patient_file": "Rochell365_Hirthe744_b9efa2b1-b949-4f24-8598-d0a0218b5e18.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R02",
+        "R05",
+        "R06",
+        "R07"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT021",
+    "category": "interaction",
+    "description": "Patient record: Sean831_Glover433_2f571f78-c951-4f30-8b9a-e3aeb10a9063.json",
+    "input": {
+      "patient_file": "Sean831_Glover433_2f571f78-c951-4f30-8b9a-e3aeb10a9063.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R02"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT022",
+    "category": "interaction",
+    "description": "Patient record: Lionel365_McGlynn426_5f120ce1-8fd8-4257-83e5-5438b4ad5ce7.json",
+    "input": {
+      "patient_file": "Lionel365_McGlynn426_5f120ce1-8fd8-4257-83e5-5438b4ad5ce7.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01",
+        "R04"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [
+        "tacrine"
+      ],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT023",
+    "category": "interaction",
+    "description": "Patient record: Wanita14_Ondricka197_1967373d-0925-4a5f-a0b7-4ac5932a8433.json",
+    "input": {
+      "patient_file": "Wanita14_Ondricka197_1967373d-0925-4a5f-a0b7-4ac5932a8433.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01",
+        "R02",
+        "R05",
+        "R06",
+        "R07",
+        "R09",
+        "R10",
+        "R12"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT024",
+    "category": "interaction",
+    "description": "Patient record: Chung121_Koch169_8027e27d-405f-490c-a946-91d1b40c8fd0.json",
+    "input": {
+      "patient_file": "Chung121_Koch169_8027e27d-405f-490c-a946-91d1b40c8fd0.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R17"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT025",
+    "category": "interaction",
+    "description": "Patient record: Kendall673_Kunde533_71ec6e3e-d309-443a-b195-612c4d0149d4.json",
+    "input": {
+      "patient_file": "Kendall673_Kunde533_71ec6e3e-d309-443a-b195-612c4d0149d4.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R19"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT026",
+    "category": "interaction",
+    "description": "Patient record: Coleman27_Huel628_ad7f38c5-8a53-4a6c-9b6d-7ad0637164d7.json",
+    "input": {
+      "patient_file": "Coleman27_Huel628_ad7f38c5-8a53-4a6c-9b6d-7ad0637164d7.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01",
+        "R03",
+        "R04",
+        "R23"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT027",
+    "category": "interaction",
+    "description": "Patient record: Theodore876_Leuschke194_4eb5e041-e764-4fd6-b2ac-e4c7ecccf45f.json",
+    "input": {
+      "patient_file": "Theodore876_Leuschke194_4eb5e041-e764-4fd6-b2ac-e4c7ecccf45f.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R02",
+        "R03",
+        "R14",
+        "R15"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT028",
+    "category": "interaction",
+    "description": "Patient record: Henry768_Schultz619_1adb61b6-44a5-400e-851c-bf82978012ce.json",
+    "input": {
+      "patient_file": "Henry768_Schultz619_1adb61b6-44a5-400e-851c-bf82978012ce.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R02",
+        "R05",
+        "R06",
+        "R07",
+        "R14",
+        "R15",
+        "R16"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT029",
+    "category": "interaction",
+    "description": "Messy names for R01: Norvasc + Zocor",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Norvasc",
+        "Zocor"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Norvasc": [
+          "amlodipine"
+        ],
+        "Zocor": [
+          "simvastatin"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT030",
+    "category": "interaction",
+    "description": "Messy names for R06: Lanoxin + Zocor",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Lanoxin",
+        "Zocor"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R06"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Lanoxin": [
+          "digoxin"
+        ],
+        "Zocor": [
+          "simvastatin"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT031",
+    "category": "interaction",
+    "description": "Messy names for R07: Zocor + Uniwarfin 5",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Zocor",
+        "Uniwarfin 5"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R07"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Uniwarfin 5": [
+          "warfarin"
+        ],
+        "Zocor": [
+          "simvastatin"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT032",
+    "category": "interaction",
+    "description": "Messy names for R09: Aleve + Uniwarfin 5",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Aleve",
+        "Uniwarfin 5"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R09"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Aleve": [
+          "naproxen"
+        ],
+        "Uniwarfin 5": [
+          "warfarin"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT033",
+    "category": "interaction",
+    "description": "Messy names for R10: Lanoxin + Aleve",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Lanoxin",
+        "Aleve"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R10"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Aleve": [
+          "naproxen"
+        ],
+        "Lanoxin": [
+          "digoxin"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT034",
+    "category": "interaction",
+    "description": "Messy names for R12: Clopilet 75 + Uniwarfin 5",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Clopilet 75",
+        "Uniwarfin 5"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R12"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Clopilet 75": [
+          "clopidogrel"
+        ],
+        "Uniwarfin 5": [
+          "warfarin"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT035",
+    "category": "interaction",
+    "description": "Messy names for R14: Serlift 50 + Uniwarfin 5",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Serlift 50",
+        "Uniwarfin 5"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R14"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Serlift 50": [
+          "sertraline"
+        ],
+        "Uniwarfin 5": [
+          "warfarin"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT036",
+    "category": "interaction",
+    "description": "Messy names for R15: Dolo 650 + Uniwarfin 5",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Dolo 650",
+        "Uniwarfin 5"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R15"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Dolo 650": [
+          "acetaminophen"
+        ],
+        "Uniwarfin 5": [
+          "warfarin"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT037",
+    "category": "interaction",
+    "description": "Messy names for R16: Fludac 20 + Uniwarfin 5",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Fludac 20",
+        "Uniwarfin 5"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R16"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Fludac 20": [
+          "fluoxetine"
+        ],
+        "Uniwarfin 5": [
+          "warfarin"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT038",
+    "category": "interaction",
+    "description": "Messy names for R17: Folitrax 10 + Aleve",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Folitrax 10",
+        "Aleve"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R17"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Aleve": [
+          "naproxen"
+        ],
+        "Folitrax 10": [
+          "methotrexate"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT039",
+    "category": "interaction",
+    "description": "Messy names for R18: Fludac 20 + Metolar XR 50",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Fludac 20",
+        "Metolar XR 50"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R18"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Fludac 20": [
+          "fluoxetine"
+        ],
+        "Metolar XR 50": [
+          "metoprolol"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "INT040",
+    "category": "interaction",
+    "description": "Messy names for R20: Lanoxin + Glycomet 500",
+    "input": {
+      "patient_file": null,
+      "medication_names": [
+        "Lanoxin",
+        "Glycomet 500"
+      ],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R20"
+      ],
+      "duplicate_group_ids": [],
+      "name_matches": {
+        "Glycomet 500": [
+          "metformin"
+        ],
+        "Lanoxin": [
+          "digoxin"
+        ]
+      },
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE001",
+    "category": "safe",
+    "description": "Patient record: Erik495_Jakubowski832_f7cf76ca-108b-49f0-965f-d32e7cfe19d1.json",
+    "input": {
+      "patient_file": "Erik495_Jakubowski832_f7cf76ca-108b-49f0-965f-d32e7cfe19d1.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE002",
+    "category": "safe",
+    "description": "Patient record: Adam631_Shields502_9e2653fc-49e0-4b2e-86f8-e664bbe07be3.json",
+    "input": {
+      "patient_file": "Adam631_Shields502_9e2653fc-49e0-4b2e-86f8-e664bbe07be3.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE003",
+    "category": "safe",
+    "description": "Patient record: Joann92_Blanda868_9725d4c5-1bd7-4f88-a1fd-9eeabdf6147d.json",
+    "input": {
+      "patient_file": "Joann92_Blanda868_9725d4c5-1bd7-4f88-a1fd-9eeabdf6147d.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE004",
+    "category": "safe",
+    "description": "Patient record: Les282_Medhurst46_a58f548b-54d0-4f2e-b102-34227bedd352.json",
+    "input": {
+      "patient_file": "Les282_Medhurst46_a58f548b-54d0-4f2e-b102-34227bedd352.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE005",
+    "category": "safe",
+    "description": "Patient record: Chantal971_Wilderman619_4f721842-d7a3-4ed8-99a0-b1eb66eae2c5.json",
+    "input": {
+      "patient_file": "Chantal971_Wilderman619_4f721842-d7a3-4ed8-99a0-b1eb66eae2c5.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE006",
+    "category": "safe",
+    "description": "Patient record: Micah422_McLaughlin530_f732c9ba-7e0c-4faf-8084-b01031f7322a.json",
+    "input": {
+      "patient_file": "Micah422_McLaughlin530_f732c9ba-7e0c-4faf-8084-b01031f7322a.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE007",
+    "category": "safe",
+    "description": "Patient record: Audrie782_Metz686_f0893217-38a6-43d9-ab12-6fcc1fd5a8c5.json",
+    "input": {
+      "patient_file": "Audrie782_Metz686_f0893217-38a6-43d9-ab12-6fcc1fd5a8c5.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE008",
+    "category": "safe",
+    "description": "Patient record: Nohemi878_Hintz995_e40767bd-4f64-48d5-a4fa-c0cfa8942445.json",
+    "input": {
+      "patient_file": "Nohemi878_Hintz995_e40767bd-4f64-48d5-a4fa-c0cfa8942445.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE009",
+    "category": "safe",
+    "description": "Patient record: Tommy814_Klocko335_94aced77-4ab1-4c5a-8833-aec755cd5337.json",
+    "input": {
+      "patient_file": "Tommy814_Klocko335_94aced77-4ab1-4c5a-8833-aec755cd5337.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE010",
+    "category": "safe",
+    "description": "Patient record: Zackary401_Littel644_b3e09e1a-6149-4b8f-a045-29f135ad8884.json",
+    "input": {
+      "patient_file": "Zackary401_Littel644_b3e09e1a-6149-4b8f-a045-29f135ad8884.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE011",
+    "category": "safe",
+    "description": "Patient record: Penni796_Block661_214d33f3-2008-4376-9d8e-a416d434add9.json",
+    "input": {
+      "patient_file": "Penni796_Block661_214d33f3-2008-4376-9d8e-a416d434add9.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE012",
+    "category": "safe",
+    "description": "Patient record: Clarence5_Abernathy524_3f31e949-d916-476d-bf37-f6874ab7b1c1.json",
+    "input": {
+      "patient_file": "Clarence5_Abernathy524_3f31e949-d916-476d-bf37-f6874ab7b1c1.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE013",
+    "category": "safe",
+    "description": "Patient record: Darnell564_Wilderman619_8e9d8b05-c7fd-447d-922e-7d5b5efbc0fa.json",
+    "input": {
+      "patient_file": "Darnell564_Wilderman619_8e9d8b05-c7fd-447d-922e-7d5b5efbc0fa.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE014",
+    "category": "safe",
+    "description": "Patient record: Antonia30_Kilback373_2d3b21e7-11ef-4dd4-9842-ddac21402a35.json",
+    "input": {
+      "patient_file": "Antonia30_Kilback373_2d3b21e7-11ef-4dd4-9842-ddac21402a35.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE015",
+    "category": "safe",
+    "description": "Patient record: Barbara209_Delgado712_02ceaf60-24ff-4dcd-9b5b-067cec7a67dc.json",
+    "input": {
+      "patient_file": "Barbara209_Delgado712_02ceaf60-24ff-4dcd-9b5b-067cec7a67dc.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE016",
+    "category": "safe",
+    "description": "Patient record: Ngan798_Marks830_31421605-a6af-4616-adc0-892d00bdb89f.json",
+    "input": {
+      "patient_file": "Ngan798_Marks830_31421605-a6af-4616-adc0-892d00bdb89f.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE017",
+    "category": "safe",
+    "description": "Patient record: Kerri159_Reilly981_4c00db79-84b6-4915-aaf7-b4fbdc164858.json",
+    "input": {
+      "patient_file": "Kerri159_Reilly981_4c00db79-84b6-4915-aaf7-b4fbdc164858.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE018",
+    "category": "safe",
+    "description": "Patient record: Lorinda137_Lemke654_465ce228-e53f-47ba-bd78-04308a70ecfd.json",
+    "input": {
+      "patient_file": "Lorinda137_Lemke654_465ce228-e53f-47ba-bd78-04308a70ecfd.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE019",
+    "category": "safe",
+    "description": "Patient record: Kallie862_Hahn503_f8a08399-365a-4fa8-913d-0945b2c58dfb.json",
+    "input": {
+      "patient_file": "Kallie862_Hahn503_f8a08399-365a-4fa8-913d-0945b2c58dfb.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE020",
+    "category": "safe",
+    "description": "Patient record: Gilma310_Goodwin327_d92ec761-4115-4f33-abb1-d45a658ccf8b.json",
+    "input": {
+      "patient_file": "Gilma310_Goodwin327_d92ec761-4115-4f33-abb1-d45a658ccf8b.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE021",
+    "category": "safe",
+    "description": "Patient record: Lynwood354_Reynolds644_f9a0dcc8-535b-4d22-9532-9c6c21b663e2.json",
+    "input": {
+      "patient_file": "Lynwood354_Reynolds644_f9a0dcc8-535b-4d22-9532-9c6c21b663e2.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE022",
+    "category": "safe",
+    "description": "Patient record: Mikki421_King743_b539d641-64ad-4e5c-82c5-eea0bddacf45.json",
+    "input": {
+      "patient_file": "Mikki421_King743_b539d641-64ad-4e5c-82c5-eea0bddacf45.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE023",
+    "category": "safe",
+    "description": "Patient record: Dovie983_Rippin620_4a2af0e1-fa8c-4657-a6d4-5aac86f56ebd.json",
+    "input": {
+      "patient_file": "Dovie983_Rippin620_4a2af0e1-fa8c-4657-a6d4-5aac86f56ebd.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE024",
+    "category": "safe",
+    "description": "Patient record: Alpha246_Crist667_c0edf1c5-83c0-46df-b3b5-fdcb8f7c8998.json",
+    "input": {
+      "patient_file": "Alpha246_Crist667_c0edf1c5-83c0-46df-b3b5-fdcb8f7c8998.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE025",
+    "category": "safe",
+    "description": "Patient record: Rory188_Bauch723_3c2086bb-32e7-4d82-ba8d-fd981a57123f.json",
+    "input": {
+      "patient_file": "Rory188_Bauch723_3c2086bb-32e7-4d82-ba8d-fd981a57123f.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE026",
+    "category": "safe",
+    "description": "Patient record: Johnny786_Kassulke119_d9b2e4c0-ce15-4a50-b31f-d5c49a05e09e.json",
+    "input": {
+      "patient_file": "Johnny786_Kassulke119_d9b2e4c0-ce15-4a50-b31f-d5c49a05e09e.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE027",
+    "category": "safe",
+    "description": "Patient record: Wonda35_Gutmann970_7d0af1b0-ca16-4c06-ba34-fd919086b0a3.json",
+    "input": {
+      "patient_file": "Wonda35_Gutmann970_7d0af1b0-ca16-4c06-ba34-fd919086b0a3.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE028",
+    "category": "safe",
+    "description": "Patient record: Melissa844_Steuber698_38d96942-b312-4458-a251-2e81ad788a25.json",
+    "input": {
+      "patient_file": "Melissa844_Steuber698_38d96942-b312-4458-a251-2e81ad788a25.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE029",
+    "category": "safe",
+    "description": "Patient record: Myrna889_Blanda868_1784fa37-9216-476c-af21-b5d805f3276f.json",
+    "input": {
+      "patient_file": "Myrna889_Blanda868_1784fa37-9216-476c-af21-b5d805f3276f.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "SAFE030",
+    "category": "safe",
+    "description": "Patient record: Hoyt490_Cole117_ed89a35d-a3e5-4de4-a8cd-018c4e2f4edb.json",
+    "input": {
+      "patient_file": "Hoyt490_Cole117_ed89a35d-a3e5-4de4-a8cd-018c4e2f4edb.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP001",
+    "category": "duplicate",
+    "description": "Patient record: Jose871_Williamson769_5919de03-6363-41a7-b251-f5be75149adc.json",
+    "input": {
+      "patient_file": "Jose871_Williamson769_5919de03-6363-41a7-b251-f5be75149adc.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01",
+        "R02",
+        "R05",
+        "R06",
+        "R07",
+        "R11",
+        "R12"
+      ],
+      "duplicate_group_ids": [
+        "D01"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP002",
+    "category": "duplicate",
+    "description": "Patient record: Barrie587_Sporer811_1b5a3b41-6c4b-40f6-86b0-32d19b2501f5.json",
+    "input": {
+      "patient_file": "Barrie587_Sporer811_1b5a3b41-6c4b-40f6-86b0-32d19b2501f5.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [
+        "D01"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP003",
+    "category": "duplicate",
+    "description": "Patient record: Gigi364_Predovic534_ff88f189-bd54-43e7-a1cc-202b0afaae83.json",
+    "input": {
+      "patient_file": "Gigi364_Predovic534_ff88f189-bd54-43e7-a1cc-202b0afaae83.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [
+        "D01"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP004",
+    "category": "duplicate",
+    "description": "Patient record: Paulina892_O'Conner199_75cf33f8-a30b-435d-9fcd-63efcd12a6cc.json",
+    "input": {
+      "patient_file": "Paulina892_O'Conner199_75cf33f8-a30b-435d-9fcd-63efcd12a6cc.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R08"
+      ],
+      "duplicate_group_ids": [
+        "D01"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP005",
+    "category": "duplicate",
+    "description": "Patient record: Jeremy766_Murazik203_7a673feb-b029-418e-97a3-c9fae3c5b3db.json",
+    "input": {
+      "patient_file": "Jeremy766_Murazik203_7a673feb-b029-418e-97a3-c9fae3c5b3db.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [
+        "D02"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP006",
+    "category": "duplicate",
+    "description": "Patient record: Bernice532_Ziemann98_5e840ba5-a0dc-4b3d-b0e4-41b4bbcdec02.json",
+    "input": {
+      "patient_file": "Bernice532_Ziemann98_5e840ba5-a0dc-4b3d-b0e4-41b4bbcdec02.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [
+        "D02"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP007",
+    "category": "duplicate",
+    "description": "Patient record: Kristofer887_Senger904_f00443c8-4444-4ba9-9199-74aa3fd358b0.json",
+    "input": {
+      "patient_file": "Kristofer887_Senger904_f00443c8-4444-4ba9-9199-74aa3fd358b0.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [],
+      "duplicate_group_ids": [
+        "D04"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP008",
+    "category": "duplicate",
+    "description": "Patient record: Eda506_McClure239_831247b6-bc45-49e6-a731-3000f197eab0.json",
+    "input": {
+      "patient_file": "Eda506_McClure239_831247b6-bc45-49e6-a731-3000f197eab0.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [
+        "D03"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [
+        "astemizole"
+      ],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP009",
+    "category": "duplicate",
+    "description": "Patient record: Joe656_Lynch190_955b1b61-e049-4048-a42a-a45202060cf9.json",
+    "input": {
+      "patient_file": "Joe656_Lynch190_955b1b61-e049-4048-a42a-a45202060cf9.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [
+        "D02"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP010",
+    "category": "duplicate",
+    "description": "Patient record: Mari\u0301a_Luisa888_Oquendo599_570a6573-8e8c-4fd0-9a5c-a5c66f2f64d8.json",
+    "input": {
+      "patient_file": "Mari\u0301a_Luisa888_Oquendo599_570a6573-8e8c-4fd0-9a5c-a5c66f2f64d8.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [
+        "D03"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP011",
+    "category": "duplicate",
+    "description": "Patient record: Ferdinand55_O'Connell601_8041e942-fbc3-417d-8bc5-b95149c58425.json",
+    "input": {
+      "patient_file": "Ferdinand55_O'Connell601_8041e942-fbc3-417d-8bc5-b95149c58425.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01",
+        "R02",
+        "R05",
+        "R06",
+        "R07",
+        "R11",
+        "R12"
+      ],
+      "duplicate_group_ids": [
+        "D01"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP012",
+    "category": "duplicate",
+    "description": "Patient record: Hosea56_Jast432_ba6e0efe-c4f6-4756-8e19-677f1442ae49.json",
+    "input": {
+      "patient_file": "Hosea56_Jast432_ba6e0efe-c4f6-4756-8e19-677f1442ae49.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01"
+      ],
+      "duplicate_group_ids": [
+        "D02",
+        "D03"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP013",
+    "category": "duplicate",
+    "description": "Patient record: Leopoldo762_Reynolds644_ef29d12a-a4a6-4b49-b100-66efa3a01987.json",
+    "input": {
+      "patient_file": "Leopoldo762_Reynolds644_ef29d12a-a4a6-4b49-b100-66efa3a01987.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01",
+        "R08"
+      ],
+      "duplicate_group_ids": [
+        "D01"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP014",
+    "category": "duplicate",
+    "description": "Patient record: David908_Guillen740_99ee2285-f0c4-45fc-85e9-9947a9fc191f.json",
+    "input": {
+      "patient_file": "David908_Guillen740_99ee2285-f0c4-45fc-85e9-9947a9fc191f.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R01",
+        "R02",
+        "R05",
+        "R06",
+        "R07",
+        "R12",
+        "R13",
+        "R20",
+        "R21",
+        "R22"
+      ],
+      "duplicate_group_ids": [
+        "D02"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  },
+  {
+    "case_id": "DUP015",
+    "category": "duplicate",
+    "description": "Patient record: Zack583_Kertzmann286_9a9986bd-e4aa-4591-90e7-6171bdc69689.json",
+    "input": {
+      "patient_file": "Zack583_Kertzmann286_9a9986bd-e4aa-4591-90e7-6171bdc69689.json",
+      "medication_names": [],
+      "patient_note": null,
+      "user_pushback": []
+    },
+    "expected": {
+      "interaction_rule_ids": [
+        "R18"
+      ],
+      "duplicate_group_ids": [
+        "D01"
+      ],
+      "name_matches": {},
+      "unverified_ingredients": [],
+      "forbidden_phrases": []
+    }
+  }
+]

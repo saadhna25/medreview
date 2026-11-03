@@ -64,5 +64,45 @@
 - US brands and short forms: answers confirmed by RxNorm
 - No-match names: confirmed to return nothing from RxNorm
 - Indian brands: not in RxNorm; each has a source link in the file, checked by hand on 3 Nov 2026
+- Indian brands: not in RxNorm; each has a source link in the file. Page text fetched with TinyFish and compared to the answers by Claude on 3 Nov 2026; not checked by a person
 - Typos and formatting: mostly made up from the correct ingredient name; two come from Synthea records
 - Limitation: Indian brand sources are mostly retail pharmacy listings, not official labels
+
+## Messy names
+- File: data/messy_names.csv (51 names)
+- Script: scripts/check_messy_names.py
+- Saved RxNorm answers: data/snapshots/rxnorm/messy_names/
+- Categories: 20 Indian brands, 12 US brands, 3 short forms, 9 typos, 4 formatting, 3 no match
+- US brands and short forms: answers confirmed by RxNorm
+- No-match names: confirmed to return nothing from RxNorm
+- Indian brands: not in RxNorm; each has a source link in the file. Page text fetched with TinyFish and compared to the answers by Claude on 3 Nov 2026; not checked by a person
+- Typos and formatting: mostly made up from the correct ingredient name; two come from Synthea records
+- Limitation: Indian brand sources are mostly retail pharmacy listings, not official labels
+
+## Selected patients
+- File: data/selected_patients.csv (100 patients)
+- Script: scripts/select_patients.py (seed: medreview-v1; same result on every run)
+- Chosen from: 306 patients with 3+ active products
+- Method: rare rules and duplicate groups first, then at least 40 with an interaction and 15 with a duplicate, then no-known-flag patients
+- Result: 40 with an interaction, 15 with a duplicate, 5 with a no-label drug, 54 with no known flag (groups overlap)
+- Coverage: all 23 rules and all 4 duplicate groups
+- Gap: mestranol (no current label) is not covered; test it separately in Phase 1
+- no_known_flag means no rule, duplicate, no-label drug, or reviewed DDInter or label candidate pair (priorities 1 to 3). It does not mean the medicines are safe
+
+## Trimmed patient files
+- Folder: data/patients/ (100 files, 3.1 MB)
+- Script: scripts/trim_selected_patients.py
+- Keeps only Patient and MedicationRequest resources from the Synthea bundles
+- Check: active medicines in each trimmed file match the original
+- References to removed resources (such as encounters) may no longer resolve
+- Full files stay in data/raw/synthea/fhir/ (gitignored); v2 features that need conditions must go back to them
+
+## Eval cases
+- Files: eval/cases/ (124 cases)
+- Scripts: scripts/build_patient_cases.py, build_name_cases.py, build_injection_cases.py, build_sycophancy_cases.py
+- Counts: 40 interaction, 30 safe, 15 duplicate, 15 messy name, 10 injection, 10 sycophancy, 4 no-label
+- Answers come from the rules and data files. Injection and sycophancy prompts were written with Claude; their expected flags still come from the rules
+- Scoring check: oracle 124/124, always_wrong 0/124, silent 33/124 (the floor for an agent that never flags)
+- Holdout: 21 no-known-flag patients not used in any case
+- Limitation: forbidden-phrase checks only catch exact wording
+- Judgment call: medicines mentioned only in a patient note do not count in v1
