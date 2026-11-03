@@ -1,0 +1,101 @@
+patient_id,file,num_products,ingredients,rule_ids,duplicate_groups,no_label_ingredients,no_known_flag
+cb0811dd-e466-4b86-9835-01814ba94a3a,Odis959_Rutherford999_b003aafe-cb06-47fd-bd4f-f8044b64b596.json,3,"fluoxetine;insulin isophane;insulin, regular, human;metformin",R04,,,False
+e1328b32-78d7-499c-bab3-ba1c7b4a4f5b,Erik495_Jakubowski832_f7cf76ca-108b-49f0-965f-d32e7cfe19d1.json,3,naproxen;nicotine;simvastatin,,,,True
+11261f38-18f9-409b-8f92-a9b4b39ef356,Patrick786_Moore224_5420cb2b-2a24-4542-8388-3659c5f3d82a.json,4,"hydrochlorothiazide;insulin isophane;insulin, regular, human;metformin;simvastatin",R03;R04,,,False
+7382c974-05b8-4b24-a1e2-c2212f22594d,Haywood675_Rempel203_c4fac0a0-9e8b-40a4-b3d6-0b26a86ab39a.json,4,amlodipine;clopidogrel;nitroglycerin;simvastatin,R01,,,False
+05124f42-6072-48f3-adc3-7a7d39c79e3b,Geri861_Homenick806_37c2654e-3390-4a15-b615-99523f571ecb.json,4,amlodipine;clopidogrel;nitroglycerin;simvastatin,R01,,,False
+346d4b95-5e00-48fe-a21e-076735ca1d74,Adam631_Shields502_9e2653fc-49e0-4b2e-86f8-e664bbe07be3.json,3,diazepam;epinephrine;fexofenadine,,,,True
+81e1b4cb-6817-4bdc-97cd-c1f3ac960345,Jose871_Williamson769_5919de03-6363-41a7-b251-f5be75149adc.json,14,alendronate;amlodipine;clopidogrel;digoxin;docetaxel;donepezil;furosemide;leuprolide;memantine;metoprolol;nitroglycerin;simvastatin;verapamil;warfarin,R01;R02;R05;R06;R07;R11;R12,D01,,False
+9966f239-ec4c-4dbb-970c-cb10250aea54,Emilee283_Conn188_d41d57b4-91e6-4452-8b31-937d707d2b3f.json,5,digoxin;levothyroxine;verapamil;vitamin b12;warfarin,R02,,,False
+6e32b35c-982e-4af1-adec-a6222b037bc3,Joann92_Blanda868_9725d4c5-1bd7-4f88-a1fd-9eeabdf6147d.json,3,diphenhydramine;simvastatin;vitamin b12,,,,True
+604ad5ef-2fec-499d-83e3-a84178ca51c5,Clorinda310_Abshire638_9138db90-a8bf-465f-9b5d-16f8fd5749da.json,3,digoxin;verapamil;warfarin,R02,,,False
+c4bdbb39-69bb-47c3-8601-254ba324d2c4,Les282_Medhurst46_a58f548b-54d0-4f2e-b102-34227bedd352.json,3,docetaxel;leuprolide;nicotine,,,,True
+161e46ed-d521-4f08-b5f4-05385a4a4231,Mohammad578_Bashirian201_155e820d-b895-448d-91e0-30a199b9ea7c.json,5,amlodipine;atenolol;chlorthalidone;clopidogrel;nitroglycerin;simvastatin,R01,,,False
+0bdc987f-30ea-4693-879a-6a6a85ab2c11,Carlos172_Arias66_33bb8e83-3c9d-4b0a-b2bd-448f8ddc4bb1.json,3,digoxin;verapamil;warfarin,R02,,,False
+02adcc12-3866-45f4-b46c-ff11f33af5bd,Chantal971_Wilderman619_4f721842-d7a3-4ed8-99a0-b1eb66eae2c5.json,5,epinephrine;etonogestrel;hydrochlorothiazide;loratadine;vitamin b12,,,,True
+d55f25e2-a409-491f-a972-8e1bfb923db6,Denisse335_Emard19_ebfc467b-c9b6-4dd5-b611-4aae8f77b2b6.json,5,amlodipine;atenolol;chlorthalidone;clopidogrel;nitroglycerin;simvastatin,R01,,,False
+abcfa8c0-a9d8-49b0-9203-d7a70626f5f2,Micah422_McLaughlin530_f732c9ba-7e0c-4faf-8084-b01031f7322a.json,3,allopurinol;hydrochlorothiazide;naproxen,,,,True
+a7180337-9704-407c-94ec-b0afa1219d2b,Tamara8_Zieme486_400e3e4e-4e04-4d6c-b153-0bc2ead58ed6.json,6,alendronate;digoxin;memantine;metformin;verapamil;warfarin,R02;R20,,,False
+121bfd85-d74d-466f-a62c-dc4ee8ed1e3b,Pilar644_Adame662_5129a211-0582-4d90-a86f-a0eb21857d98.json,3,albuterol;astemizole;fluticasone,,,astemizole,False
+46c808f9-3389-4d01-b2ad-f672324fcb65,Normand813_Zemlak964_28ea39f3-a07b-457b-b12d-e35c8bd2d1dd.json,6,"acetaminophen;docetaxel;hydrochlorothiazide;insulin isophane;insulin, regular, human;leuprolide;metformin;oxycodone",R03;R04,,,False
+aef6dabb-9372-44bc-abf1-f3111812eec7,Audrie782_Metz686_f0893217-38a6-43d9-ab12-6fcc1fd5a8c5.json,3,acetaminophen;hydrochlorothiazide;simvastatin,,,,True
+5b68a2f6-e3aa-400c-8a01-ef7fcbcdb01e,Nohemi878_Hintz995_e40767bd-4f64-48d5-a4fa-c0cfa8942445.json,3,albuterol;fluticasone;simvastatin,,,,True
+8cdd1175-3eff-4f0d-bd06-67c2f8aca71b,Nickolas58_Flatley871_54ec3605-08d6-4094-8800-e98e7321da6c.json,5,amlodipine;clopidogrel;hydrochlorothiazide;nitroglycerin;simvastatin,R01,,,False
+496593fe-85f9-46b0-92d0-e655c6b311fe,Harrison106_Schuster709_775e3aae-d63d-43b7-bf3e-9d852fe61cb0.json,3,"insulin isophane;insulin, regular, human;metformin;naproxen",R04,,,False
+b6094eb3-f868-4fe6-ac95-7211634f9fa3,Tommy814_Klocko335_94aced77-4ab1-4c5a-8833-aec755cd5337.json,4,acetaminophen;albuterol;diphenhydramine;fluticasone,,,,True
+80afed8b-2e43-48b9-bf2f-4a428d33af9a,Barrie587_Sporer811_1b5a3b41-6c4b-40f6-86b0-32d19b2501f5.json,7,alendronate;donepezil;furosemide;metformin;metoprolol;simvastatin,,D01,,False
+b695bd67-4040-4363-b074-9926b5ff7390,Zackary401_Littel644_b3e09e1a-6149-4b8f-a045-29f135ad8884.json,4,cefuroxime;epinephrine;ibuprofen;loratadine,,,,True
+586959c0-52a7-445c-92fd-29c4fe2312d4,Penni796_Block661_214d33f3-2008-4376-9d8e-a416d434add9.json,3,albuterol;diphenhydramine;fluticasone,,,,True
+38dd0e7e-742b-46c9-9b16-8371db3cb838,Salvador46_Huels583_e213923b-f41e-41be-921a-8193e4ec6a2a.json,6,atenolol;chlorthalidone;digoxin;fluticasone;salmeterol;simvastatin;verapamil;warfarin,R02;R05;R06;R07;R13,,,False
+9a14106c-c140-41ea-a60c-91776ea4c76c,Gigi364_Predovic534_ff88f189-bd54-43e7-a1cc-202b0afaae83.json,6,alendronate;furosemide;metoprolol;simvastatin;vitamin b12,,D01,,False
+f636829a-4277-4392-a9a2-1050ef6eceed,Hoa730_Dooley940_ff76c6f0-d0da-438d-bce4-0c4e88fbc752.json,4,"amlodipine;hydrochlorothiazide;insulin isophane;insulin, regular, human;metformin;olmesartan;simvastatin",R01;R03;R04,,,False
+eac351d2-0af2-4442-af3d-a4d8fe1c8ee3,Clarence5_Abernathy524_3f31e949-d916-476d-bf37-f6874ab7b1c1.json,3,epinephrine;fexofenadine;hydrochlorothiazide,,,,True
+b1003fc9-6823-49c7-a4bc-5c09e5135afb,Darnell564_Wilderman619_8e9d8b05-c7fd-447d-922e-7d5b5efbc0fa.json,3,docetaxel;leuprolide;naproxen,,,,True
+1f18e760-de54-483d-8a3e-934f6f2fe892,Antonia30_Kilback373_2d3b21e7-11ef-4dd4-9842-ddac21402a35.json,3,diphenhydramine;hydrochlorothiazide;simvastatin,,,,True
+6578e412-1ccd-4e0f-9a60-f998b9bc77f9,Leland44_Bode78_6db58d94-662c-4d07-bf79-2129ca4b8f14.json,3,"alendronate;insulin isophane;insulin, regular, human;metformin",R04,,,False
+08ec8352-cb87-4177-9950-09c967ddd116,Paulina892_O'Conner199_75cf33f8-a30b-435d-9fcd-63efcd12a6cc.json,6,donepezil;furosemide;metoprolol;naproxen;simvastatin,R08,D01,,False
+0fb66864-1a0e-4230-b74e-df329e527329,Sigrid676_Hickle134_a9b932bb-46ab-400f-b517-8ece63f73dee.json,4,amlodipine;ferrous sulfate;hydrochlorothiazide;naproxen;olmesartan;simvastatin,R01,,,False
+c907755d-4b66-489a-be80-90dc7bd4ff38,Jeremy766_Murazik203_7a673feb-b029-418e-97a3-c9fae3c5b3db.json,5,amlodipine;clopidogrel;nitroglycerin;simvastatin,R01,D02,,False
+4dbee22d-0aba-4432-83e5-cca1de250d29,Barbara209_Delgado712_02ceaf60-24ff-4dcd-9b5b-067cec7a67dc.json,3,atenolol;chlorthalidone;norethindrone;simvastatin,,,,True
+b0f49c80-b59b-4df6-8292-40ce8b8f8612,Ester635_Echevarría842_d36b57d2-052b-4b7a-9978-d4bac3f59c36.json,9,"digoxin;galantamine;insulin isophane;insulin, regular, human;leucovorin;naproxen;oxaliplatin;simvastatin;verapamil;warfarin",R02;R05;R06;R07;R09;R10,,,False
+8debc8aa-8802-4ce6-8b84-bb540c76a59d,Ngan798_Marks830_31421605-a6af-4616-adc0-892d00bdb89f.json,3,drospirenone;epinephrine;ethinyl estradiol;loratadine,,,,True
+55f9a8cb-218b-48c0-a868-948485ad9747,Bernice532_Ziemann98_5e840ba5-a0dc-4b3d-b0e4-41b4bbcdec02.json,4,amlodipine;naproxen;simvastatin,R01,D02,,False
+043278e6-3909-446e-a840-5c4a76b9f93c,Kristofer887_Senger904_f00443c8-4444-4ba9-9199-74aa3fd358b0.json,5,albuterol;diphenhydramine;fluticasone;hydrochlorothiazide;salmeterol,,D04,,False
+f643310d-5ca3-4d9b-8fc6-0cad519f761d,Kerri159_Reilly981_4c00db79-84b6-4915-aaf7-b4fbdc164858.json,3,drospirenone;epinephrine;ethinyl estradiol;loratadine,,,,True
+244f2f4e-604f-4214-a63c-5f551f6d9a0d,Lorinda137_Lemke654_465ce228-e53f-47ba-bd78-04308a70ecfd.json,3,alendronate;atenolol;chlorthalidone;simvastatin,,,,True
+fee45ad3-249a-4460-8014-c0876318756c,Kallie862_Hahn503_f8a08399-365a-4fa8-913d-0945b2c58dfb.json,3,chlorpheniramine;epinephrine;norethindrone,,,,True
+8d569641-c1c1-463e-ab39-09a872e0e532,Eda506_McClure239_831247b6-bc45-49e6-a731-3000f197eab0.json,7,amlodipine;astemizole;clopidogrel;ferrous sulfate;hydrochlorothiazide;nitroglycerin;olmesartan;simvastatin,R01,D03,astemizole,False
+308ff947-1c79-4bc2-9414-7eb6bdb114ca,Brendon298_Bednar518_36a3f725-2f68-479f-acb1-fce4bc7ef21d.json,3,amlodipine;fluticasone;hydrochlorothiazide;olmesartan;salmeterol;simvastatin,R01,,,False
+8e7458b2-5403-4c00-a9ed-d55db2c6834d,Gilma310_Goodwin327_d92ec761-4115-4f33-abb1-d45a658ccf8b.json,3,alendronate;atenolol;chlorthalidone;naproxen,,,,True
+cf7e8713-a144-4932-bcc2-7d62e1bd42c4,Rochell365_Hirthe744_b9efa2b1-b949-4f24-8598-d0a0218b5e18.json,4,digoxin;simvastatin;verapamil;warfarin,R02;R05;R06;R07,,,False
+2748b312-c2ef-45e1-b5ef-75b155dde2b7,Joe656_Lynch190_955b1b61-e049-4048-a42a-a45202060cf9.json,5,amlodipine;clopidogrel;nitroglycerin;simvastatin,R01,D02,,False
+ad04baf5-c81a-4935-92b8-4926e924ec8d,Sean831_Glover433_2f571f78-c951-4f30-8b9a-e3aeb10a9063.json,6,digoxin;docetaxel;fluticasone;leuprolide;salmeterol;verapamil;warfarin,R02,,,False
+7de3e146-b2ce-4e13-8d01-132ab0fb48a0,Lynwood354_Reynolds644_f9a0dcc8-535b-4d22-9532-9c6c21b663e2.json,3,diphenhydramine;epinephrine;hydrocortisone,,,,True
+7b887af3-76cd-46eb-9bf2-1d1d408bf41c,Mikki421_King743_b539d641-64ad-4e5c-82c5-eea0bddacf45.json,3,epinephrine;fexofenadine;medroxyprogesterone,,,,True
+86017b61-3171-45b6-9bd7-b6ca6a946604,Lionel365_McGlynn426_5f120ce1-8fd8-4257-83e5-5438b4ad5ce7.json,10,"amlodipine;atenolol;chlorthalidone;clopidogrel;ferrous sulfate;insulin isophane;insulin, regular, human;metformin;naproxen;nitroglycerin;simvastatin;tacrine",R01;R04,,tacrine,False
+4997f37a-69af-4722-abc2-53124e3e358e,María_Luisa888_Oquendo599_570a6573-8e8c-4fd0-9a5c-a5c66f2f64d8.json,4,amlodipine;ethinyl estradiol;hydrochlorothiazide;norgestimate;olmesartan;simvastatin,R01,D03,,False
+a72ea5e0-68aa-4dbf-ad8c-96ef47ab19bc,Dovie983_Rippin620_4a2af0e1-fa8c-4657-a6d4-5aac86f56ebd.json,3,dienogest;epinephrine;estradiol;fexofenadine,,,,True
+b552a54d-3024-4932-9108-91d82054f8e5,Ferdinand55_O'Connell601_8041e942-fbc3-417d-8bc5-b95149c58425.json,10,amlodipine;clopidogrel;digoxin;furosemide;metoprolol;nitroglycerin;simvastatin;verapamil;warfarin,R01;R02;R05;R06;R07;R11;R12,D01,,False
+e6538157-bc61-4f86-b135-7a498e8be14b,Alpha246_Crist667_c0edf1c5-83c0-46df-b3b5-fdcb8f7c8998.json,4,epinephrine;hydrocortisone;loratadine;norethindrone,,,,True
+a4b0697c-4c06-41f0-ada5-d17517850127,Rory188_Bauch723_3c2086bb-32e7-4d82-ba8d-fd981a57123f.json,4,docetaxel;hydrochlorothiazide;leuprolide;nicotine,,,,True
+fd451783-fb9f-42b5-87b3-620b9813285c,Marco578_Williamson769_e33ad153-3319-48c5-aacb-600cdb212a46.json,4,albuterol;epinephrine;fluticasone;terfenadine,,,terfenadine,False
+bdc5eb69-3fb5-4cc7-ae76-ee6d5aa2cd61,Hosea56_Jast432_ba6e0efe-c4f6-4756-8e19-677f1442ae49.json,4,amlodipine;hydrochlorothiazide;olmesartan;simvastatin,R01,D02;D03,,False
+cd920514-b4e4-403f-9788-d68798159b37,Wanita14_Ondricka197_1967373d-0925-4a5f-a0b7-4ac5932a8433.json,10,amlodipine;clopidogrel;digoxin;donepezil;hydrochlorothiazide;naproxen;nitroglycerin;simvastatin;verapamil;warfarin,R01;R02;R05;R06;R07;R09;R10;R12,,,False
+8937b6dc-4484-49c1-9bef-5700688d5f90,Leopoldo762_Reynolds644_ef29d12a-a4a6-4b49-b100-66efa3a01987.json,10,amlodipine;amoxicillin;clavulanate;clopidogrel;furosemide;hydrochlorothiazide;metoprolol;naproxen;nitroglycerin;simvastatin,R01;R08,D01,,False
+5864c62c-a5a2-4cd8-955c-f1d2159e292d,Johnny786_Kassulke119_d9b2e4c0-ce15-4a50-b31f-d5c49a05e09e.json,4,albuterol;chlorpheniramine;fluticasone;naproxen,,,,True
+d8724548-d0e5-4ed3-a60c-6730e0d93e57,Wonda35_Gutmann970_7d0af1b0-ca16-4c06-ba34-fd919086b0a3.json,4,albuterol;chlorpheniramine;fluticasone;naproxen,,,,True
+5114c154-5283-4d6e-aef7-c70f3a0f3990,Melissa844_Steuber698_38d96942-b312-4458-a251-2e81ad788a25.json,3,diphenhydramine;medroxyprogesterone;naproxen,,,,True
+55e6d68e-2558-4f52-b375-b410ad9e566a,Myrna889_Blanda868_1784fa37-9216-476c-af21-b5d805f3276f.json,3,epinephrine;fexofenadine;hydrochlorothiazide,,,,True
+dc6ba197-8232-48b1-a67d-58458cd05877,Chung121_Koch169_8027e27d-405f-490c-a946-91d1b40c8fd0.json,3,hydrochlorothiazide;methotrexate;naproxen,R17,,,False
+e0153eca-fa66-4757-b6b1-4f33660fc7a1,Kendall673_Kunde533_71ec6e3e-d309-443a-b195-612c4d0149d4.json,3,atenolol;chlorthalidone;ferrous sulfate;levothyroxine,R19,,,False
+82fe330a-0d78-4724-9cfc-7d90b2ed2e0a,Hoyt490_Cole117_ed89a35d-a3e5-4de4-a8cd-018c4e2f4edb.json,3,docetaxel;hydrochlorothiazide;leuprolide,,,,True
+17f6dfa9-54d2-437c-bd81-ecfbb626d5d6,Vaughn909_Oberbrunner298_95979b2d-d6ce-4725-a614-240ba6f8f572.json,3,alendronate;ferrous sulfate;memantine,,,,True
+9d464bd6-c7fa-49de-998f-44dad6b4f703,David908_Guillen740_99ee2285-f0c4-45fc-85e9-9947a9fc191f.json,11,amlodipine;atenolol;carbamazepine;chlorthalidone;clopidogrel;digoxin;metformin;nitroglycerin;simvastatin;verapamil;warfarin,R01;R02;R05;R06;R07;R12;R13;R20;R21;R22,D02,,False
+8143897c-e650-4e55-b08d-8306e2f424bb,Coleman27_Huel628_ad7f38c5-8a53-4a6c-9b6d-7ad0637164d7.json,11,"amlodipine;clopidogrel;docetaxel;fluoxetine;galantamine;hydrochlorothiazide;insulin isophane;insulin, regular, human;leuprolide;metformin;nitroglycerin;simvastatin",R01;R03;R04;R23,,,False
+c247e691-cf7a-4ba6-9a62-fcce809e119f,Allegra202_Nitzsche158_66d017d6-97ae-4de0-b02c-2c1caa5cddf6.json,3,alendronate;donepezil;memantine;simvastatin,,,,True
+14e057d2-94d1-4cbc-9d64-386a92ed5f62,Brittanie254_Goyette777_48f8d86a-1cd7-4bf3-aab8-4e96d3bbce92.json,3,epinephrine;fexofenadine;hydrocortisone,,,,True
+7f0f9e95-1320-4030-ad2d-703563cec55d,Chanell45_Roob72_5d870245-fed7-4cf0-94c6-014ca198e9e6.json,4,epinephrine;ferrous sulfate;hydrocortisone;loratadine,,,,True
+df121e33-f3dc-4d02-a523-3bbd89c8fa5b,Theodore876_Leuschke194_4eb5e041-e764-4fd6-b2ac-e4c7ecccf45f.json,9,"acetaminophen;digoxin;docetaxel;hydrochlorothiazide;hydrocodone;insulin isophane;insulin, regular, human;leuprolide;sertraline;verapamil;warfarin",R02;R03;R14;R15,,,False
+a9948949-60af-4b49-b61a-24a49d80a1ef,Woodrow571_Armstrong51_757e8a45-aa5c-4067-bb05-2d94ae05f596.json,3,docetaxel;leuprolide;nicotine,,,,True
+a2bc2feb-d766-47da-844a-419df19d0e66,Beatriz277_Salas880_9dc305b0-c821-49f3-817c-58e853bce8b1.json,3,epinephrine;loratadine;norethindrone,,,,True
+ce78c20a-21b2-4b41-8b47-aae9273aa326,Jc393_Cruickshank494_8ab24ed9-a8a2-47f5-be96-db2504b83748.json,3,albuterol;fluticasone;terfenadine,,,terfenadine,False
+5b3acbe6-f9ac-45dd-b825-ec2cbf73c6ac,Caren429_Graham902_fcfae702-20ad-4414-994b-29ee9d3367de.json,3,ferrous sulfate;hydrochlorothiazide;vitamin b12,,,,True
+cabc3059-eda9-4d78-a9cf-b958090048a4,Lester513_Sipes176_b9df817d-7259-4fde-9bd9-9aab9cdd05f8.json,4,amlodipine;chlorpheniramine;hydrochlorothiazide;medroxyprogesterone;naproxen;olmesartan,,,,True
+84b8da48-5781-47b4-90de-71fedfb7905c,Dinah304_Howe413_e9db3961-fe00-427f-a614-8820c1b55619.json,3,atenolol;chlorthalidone;naproxen;simvastatin,,,,True
+0612e8ea-be3c-426b-9434-bd1ceb415b60,Brady998_Windler79_d0c2da75-7084-4c2c-961a-5aab9867e268.json,3,hydrochlorothiazide;naproxen;nicotine,,,,True
+33f29bfe-ba24-46f8-8add-99a32a37e404,Mikki421_Baumbach677_ef772f4e-4bd2-4d76-a576-f63baea4e89c.json,3,amlodipine;epinephrine;hydrochlorothiazide;loratadine;olmesartan,,,,True
+161b6240-4c52-4248-a412-53df4ebdf011,Erin498_Pacocha935_69570f5e-ff4a-4ee6-818e-46cc37e2065c.json,4,cetirizine;epinephrine;hydrocortisone;vitamin b12,,,,True
+9c267d85-f3a9-4054-8316-4f87c0f872d5,Sean831_Schamberger479_30092d8b-44dd-427d-af3b-9d727000de1f.json,4,alendronate;docetaxel;leuprolide;nicotine,,,,True
+63746648-c207-4b1f-8b4c-21ce08c781d1,Henry768_Schultz619_1adb61b6-44a5-400e-851c-bf82978012ce.json,10,acetaminophen;digoxin;docetaxel;fluoxetine;hydrocodone;leuprolide;nicotine;sertraline;simvastatin;verapamil;warfarin,R02;R05;R06;R07;R14;R15;R16,,,False
+0944d64f-974c-4b76-9640-437b1f292f51,Jarrett354_Gerlach374_7af52d48-a652-4d88-a3ba-0c02d5246c02.json,3,epinephrine;hydrocortisone;loratadine,,,,True
+c0dde869-a83c-471e-87a7-469d22a6ffe3,Ronna740_Huel628_8a686e64-103e-4711-ab37-c78711ec3872.json,3,chlorpheniramine;epinephrine;levonorgestrel,,,,True
+6f328acf-be15-44b5-a4f5-8a75bb7f5c66,Clayton230_Cremin516_ad884fbd-3f2f-499a-88fd-b624093916a7.json,3,alendronate;hydrochlorothiazide;simvastatin,,,,True
+27b3f87d-a5ea-4c7c-9433-8fd98631b293,Casimira119_Grimes165_bbcb90a7-6fdf-44b8-90d9-07e436ff7330.json,3,alendronate;donepezil;fluticasone;salmeterol,,,,True
+96dd794a-ea41-4150-b4dc-ec2e54598e8b,Krysta658_Haley279_ddd3f9f8-a5d6-419c-9397-7352974f659e.json,3,alendronate;memantine;naproxen,,,,True
+f648a803-2da5-4b60-adb7-f2f809a044f4,Wally311_Ebert178_a4ac9bbc-c9fd-40f7-b654-61b3f61f61d4.json,3,docetaxel;leuprolide;vitamin b12,,,,True
+3e5833aa-919b-4f51-bc41-e1aa9d181ada,Emory494_Hammes673_00e5c917-c654-4350-808b-97d649419d85.json,3,atenolol;chlorthalidone;naproxen;vitamin b12,,,,True
+62f8e7af-169a-4cf3-80d0-8ad4f4f5817d,Annemarie794_Heidenreich818_934e20a4-3c1f-450f-a534-25ca9e32b634.json,3,diphenhydramine;epinephrine;hydrocortisone,,,,True
+45b4bd97-b41d-4027-bf56-b8cc43e0a294,Isidro558_Carroll471_a0269410-7585-4462-9baa-8347fa440862.json,3,amlodipine;ferrous sulfate;hydrochlorothiazide;naproxen;olmesartan,,,,True
+c86eca4e-0746-4223-9706-ebfa1db87d10,Cristina921_Corral791_fe41aba3-cec7-4769-aac8-d17e3f0b1929.json,3,fluticasone;salmeterol;simvastatin;vitamin b12,,,,True
+39ea39e7-0096-4c94-a28c-5eee07e6b313,Sage164_Wyman904_b8c05784-7a75-4cc4-bd4c-f4947171c4f7.json,3,hydrochlorothiazide;naproxen;simvastatin,,,,True
+8041b714-12ef-462d-8d2e-4b4ef92b97d2,Zack583_Kertzmann286_9a9986bd-e4aa-4591-90e7-6171bdc69689.json,4,fluoxetine;furosemide;metoprolol,R18,D01,,False

@@ -1,0 +1,5 @@
+group_id,ingredient,product_a_code,product_a_name,product_b_code,product_b_name,duplicate_type,num_patients,note
+D01,furosemide,1719286,10 ML Furosemide 10 MG/ML Injection,315971,Lasix 40mg,different_route,55,"Oral and injection both active; may be planned or a Synthea quirk. Judgment call: still flag, and mention the different routes"
+D02,simvastatin,312961,Simvastatin 20 MG Oral Tablet,316672,Simvistatin 10 MG,different_strength,12,Two strengths both active; may be a dose change that was never cleaned up
+D03,amlodipine,197361,Amlodipine 5 MG Oral Tablet,999969,Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG,hidden_in_combination,8,Single-ingredient product plus a combination product containing the same ingredient
+D04,fluticasone,895994,120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,896209,60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,hidden_in_combination,1,Single-ingredient inhaler plus a combination inhaler containing the same ingredient

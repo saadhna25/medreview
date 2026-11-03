@@ -1,0 +1,52 @@
+name,expected_ingredients,category,source,source_url
+Dolo 650,acetaminophen,indian_brand,Apollo Pharmacy listing,https://apollopharmacy.in/otc/dolo-650mg-tablet-15-s
+Crocin Advance,acetaminophen,indian_brand,Apollo Pharmacy listing,https://www.apollopharmacy.in/otc/crocin-advance-tablet
+Combiflam,ibuprofen;acetaminophen,indian_brand,GNH India listing,https://www.gnhindia.com/products/combiflam-tablet
+Brufen 400,ibuprofen,indian_brand,Apollo Pharmacy listing,https://apollopharmacy.in/medicine/brufen-400-tablet-20-s
+Thyronorm 100mcg,levothyroxine,indian_brand,GNH India listing,https://www.gnhindia.com/products/thyronorm-100mcg-tablet
+Glycomet 500,metformin,indian_brand,GNH India listing,https://www.gnhindia.com/products/glycomet-tablet
+Clopilet 75,clopidogrel,indian_brand,GNH India listing,https://www.gnhindia.com/products/clopilet-75mg-tab-tablet
+Aten 50,atenolol,indian_brand,MediBuddy listing,https://www.medibuddy.in/order-medicines/aten-50-tablet-313931
+Metolar XR 50,metoprolol,indian_brand,Apollo Pharmacy listing,https://apollopharmacy.in/medicine/metolar-xr-50mg-capsule
+Clavam 625,amoxicillin;clavulanate,indian_brand,Apollo Pharmacy listing,https://apollopharmacy.in/medicine/clavam-625mg-tablet
+Asthalin inhaler,albuterol,indian_brand,Apollo Pharmacy listing,https://www.apollopharmacy.in/medicine/asthalin-200md-inhaler-12g
+Seroflo 250,fluticasone;salmeterol,indian_brand,GNH India listing,https://www.gnhindia.com/products/seroflo-inhaler-250mcg-84
+Fludac 20,fluoxetine,indian_brand,Apollo Pharmacy listing,https://apollopharmacy.in/medicine/fludac-20mg-capsule
+Serlift 50,sertraline,indian_brand,Apollo Pharmacy listing,https://www.apollopharmacy.in/medicine/serlift-50mg-tablet
+Uniwarfin 5,warfarin,indian_brand,Apollo Pharmacy listing,https://www.apollopharmacy.in/medicine/uniwarfin-5mg-tablet
+Mazetol SR 200,carbamazepine,indian_brand,Apollo Pharmacy listing,https://www.apollopharmacy.in/medicine/mazetol-sr-200mg-tablet
+Folitrax 10,methotrexate,indian_brand,Apollo Pharmacy listing,https://www.apollopharmacy.in/otc/folitrax-10mg-tablet
+Aquazide 25,hydrochlorothiazide,indian_brand,MediBuddy listing,https://www.medibuddy.in/order-medicines/aquazide-25-tablet-10188588
+Olmezest 20,olmesartan,indian_brand,myUpchar listing,https://www.myupchar.com/en/medicine/olmezest-p37095461/-v123947
+Clonotril 0.5,clonazepam,indian_brand,Apollo Pharmacy listing,https://www.apollopharmacy.in/otc/clonotril-0-5mg-tablet
+Coumadin,warfarin,us_brand,RxNorm API,
+Zocor,simvastatin,us_brand,RxNorm API,
+Norvasc,amlodipine,us_brand,RxNorm API,
+Lanoxin,digoxin,us_brand,RxNorm API,
+Glucophage,metformin,us_brand,RxNorm API,
+Plavix,clopidogrel,us_brand,RxNorm API,
+Synthroid,levothyroxine,us_brand,RxNorm API,
+Prozac,fluoxetine,us_brand,RxNorm API,
+Zoloft,sertraline,us_brand,RxNorm API,
+Tylenol,acetaminophen,us_brand,RxNorm API,
+Advair,fluticasone;salmeterol,us_brand,RxNorm API,
+Aleve,naproxen,us_brand,RxNorm API,
+HCTZ,hydrochlorothiazide,abbreviation,RxNorm API,
+APAP,acetaminophen,abbreviation,RxNorm API,
+MTX,methotrexate,abbreviation,RxNorm API,
+Simvistatin,simvastatin,typo,Found in Synthea records,
+Amlodopine,amlodipine,typo,Made-up typo of the ingredient name,
+Metforman,metformin,typo,Made-up typo of the ingredient name,
+Warfarrin,warfarin,typo,Made-up typo of the ingredient name,
+Digoxine,digoxin,typo,Made-up typo of the ingredient name,
+Levothyroxin,levothyroxine,typo,Made-up typo of the ingredient name,
+Clopidogrell,clopidogrel,typo,Made-up typo of the ingredient name,
+Naproxin,naproxen,typo,Made-up typo of the ingredient name,
+Furosemid,furosemide,typo,Made-up typo of the ingredient name,
+Lasix 40mg,furosemide,format,Found in Synthea records,
+WARFARIN 5MG TAB,warfarin,format,Made-up formatting of the ingredient name,
+verapamil hcl 40 mg,verapamil,format,Made-up formatting of the ingredient name,
+metoprolol succ er 100 mg,metoprolol,format,Made-up formatting of the ingredient name,
+Zentrivox,,no_match,Made-up name; checked against RxNorm API,
+Xyloquinate 50 mg,,no_match,Made-up name; checked against RxNorm API,
+Blood pressure pill,,no_match,Description with no drug name; checked against RxNorm API,

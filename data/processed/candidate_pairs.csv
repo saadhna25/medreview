@@ -1,0 +1,817 @@
+ingredient_a,ingredient_b,num_patients,in_same_pill,ddinter_level,label_mentions,snippet,candidate,review_priority
+amlodipine,simvastatin,69,False,Major,amlodipine:drug_interactions;simvastatin:warnings_and_cautions;simvastatin:drug_interactions,7 DRUG INTERACTIONS Do not exceed doses greater than 20 mg daily of simvastatin. ( 7.2 ) 7.1 Impact of Other Drugs on Amlodipine CYP3A Inhibitors Co-administration with CYP3A inhibitors (moderate and strong) results in increased,True,1
+hydrochlorothiazide,insulin isophane,30,False,Moderate,hydrochlorothiazide:precautions;hydrochlorothiazide:drug_interactions,"t with thiazide diuretics. Alcohol, barbiturates, or narcotics Potentiation of orthostatic hypotension may occur. Antidiabetic drugs (oral agents and insulin) Dosage adjustment of the antidiabetic drug may be required. Other antihypertensive drugs Additive effect or potentiation. Cholestyramine and colesti",True,1
+hydrochlorothiazide,"insulin, regular, human",30,False,Moderate,hydrochlorothiazide:precautions;hydrochlorothiazide:drug_interactions,"t with thiazide diuretics. Alcohol, barbiturates, or narcotics Potentiation of orthostatic hypotension may occur. Antidiabetic drugs (oral agents and insulin) Dosage adjustment of the antidiabetic drug may be required. Other antihypertensive drugs Additive effect or potentiation. Cholestyramine and colesti",True,1
+insulin isophane,metformin,24,False,Moderate,metformin:warnings_and_cautions;metformin:drug_interactions,"on lactate metabolism. Intervention: Warn patients against excessive alcohol intake while receiving metformin hydrochloride extended-release tablets. Insulin Secretagogues or Insulin Clinical Impact: Coadministration of metformin hydrochloride extended-release tablets with an insulin secretagogue (e.g., su",True,1
+"insulin, regular, human",metformin,24,False,Moderate,metformin:warnings_and_cautions;metformin:drug_interactions,"on lactate metabolism. Intervention: Warn patients against excessive alcohol intake while receiving metformin hydrochloride extended-release tablets. Insulin Secretagogues or Insulin Clinical Impact: Coadministration of metformin hydrochloride extended-release tablets with an insulin secretagogue (e.g., su",True,1
+simvastatin,verapamil,19,False,Major,simvastatin:warnings_and_cautions;simvastatin:drug_interactions,"increased by concomitant use of amiodarone, dronedarone, ranolazine, or calcium channel blockers with simvastatin. Intervention: For patients taking verapamil, diltiazem, or dronedarone, do not exceed simvastatin 10 mg daily. For patients taking amiodarone, amlodipine, or ranolazine, do not exceed simvastat",True,1
+naproxen,warfarin,8,False,Major,naproxen:warnings_and_cautions;naproxen:drug_interactions;warfarin:drug_interactions,e 1: Clinically Significant Drug Interactions with naproxen Drugs That Interfere with Hemostasis Clinical Impact: Naproxen and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of naproxen and anticoagulants have an increased risk of serious bleeding compared to the,True,1
+clopidogrel,warfarin,5,False,Major,clopidogrel:drug_interactions;warfarin:drug_interactions,"1 ) Opioids: Decreased exposure to clopidogrel. Consider use of parenteral antiplatelet agent. ( 7.3 ) Nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, selective serotonin and serotonin norepinephrine reuptake inhibitors (SSRIs, SNRIs): Increases risk of bleeding. ( 7.4 , 7.5 , 7.6 ) Other Antiplate",True,1
+digoxin,metformin,5,False,Moderate,digoxin:drug_interactions,"tude is unclear Alprazolam, azithromycin, cyclosporine, diclofenac, diphenoxylate, epoprostenol, esomeprazole, ibuprofen, ketoconazole, lansoprazole, metformin, omeprazole Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. Digox",True,1
+chlorthalidone,insulin isophane,4,False,Moderate,chlorthalidone:precautions;chlorthalidone:drug_interactions,"essness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting. Insulin requirements in diabetic patients may be increased, decreased, or unchanged. Higher dosage of oral hypoglycemic agents may be required. Latent diabet",True,1
+chlorthalidone,"insulin, regular, human",4,False,Moderate,chlorthalidone:precautions;chlorthalidone:drug_interactions,"essness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting. Insulin requirements in diabetic patients may be increased, decreased, or unchanged. Higher dosage of oral hypoglycemic agents may be required. Latent diabet",True,1
+sertraline,warfarin,3,False,Moderate,sertraline:warnings_and_cautions;sertraline:drug_interactions;warfarin:drug_interactions,"DRUG INTERACTIONS Protein-bound drugs: Monitor for adverse reactions and reduce dosage of Sertraline HCl Capsules or other protein-bound drugs (e.g., warfarin) as warranted ( 7.1 , 12.3 ) CYP2D6 substrates: Reduce dosage of drugs metabolized by CYP2D6 ( 7.1 , 12.3 ) 7.1 Clinically Significant Drug Interacti",True,1
+fluoxetine,insulin isophane,2,False,Moderate,fluoxetine:warnings_and_cautions;insulin isophane:drug_interactions,"as developed following discontinuation of the drug. As is true with many other types of medication when taken concurrently by patients with diabetes, insulin and/or oral hypoglycemic, dosage may need to be adjusted when therapy with fluoxetine is instituted or discontinued. 5.13 Potential for Cognitive and",True,1
+fluoxetine,"insulin, regular, human",2,False,Moderate,"fluoxetine:warnings_and_cautions;insulin, regular, human:drug_interactions","as developed following discontinuation of the drug. As is true with many other types of medication when taken concurrently by patients with diabetes, insulin and/or oral hypoglycemic, dosage may need to be adjusted when therapy with fluoxetine is instituted or discontinued. 5.13 Potential for Cognitive and",True,1
+acetaminophen,warfarin,2,False,Moderate,acetaminophen:drug_interactions,"dose of 4,000 mg/day has been shown to cause an increase in international normalized ratio (INR) in some patients who have been stabilized on sodium warfarin as an anticoagulant. (7.2) 7.1 Effects of Other Substances on Acetaminophen Substances that induce or regulate hepatic cytochrome enzyme CYP2E1 may a",True,1
+albuterol,insulin isophane,2,False,Moderate,insulin isophane:drug_interactions,"cin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline), and thyroid hormones. Intervention: Dose adjustment and increased frequency of glucose monitoring may be required when HU",True,1
+albuterol,"insulin, regular, human",2,False,Moderate,"insulin, regular, human:drug_interactions","cin, oral contraceptives, phenothiazines, progestogens (e.g., in oral contraceptives), protease inhibitors, somatropin, sympathomimetic agents (e.g., albuterol, epinephrine, terbutaline), and thyroid hormones. Intervention: Dose adjustment and increased frequency of glucose monitoring may be required when HU",True,1
+atenolol,epinephrine,1,False,Moderate,atenolol:precautions;atenolol:drug_interactions,"e a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction. Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitan",True,1
+methotrexate,naproxen,1,False,Major,naproxen:drug_interactions,"f renal prostaglandin synthesis. Intervention: During concomitant use of naproxen sodium and lithium, monitor patients for signs of lithium toxicity. Methotrexate Clinical Impact: Concomitant use of NSAIDs and methotrexate may increase the risk for methotrexate toxicity (e.g., neutropenia, thrombocytopenia, ren",True,1
+carbamazepine,warfarin,1,False,Moderate,carbamazepine:precautions;warfarin:drug_interactions,"fil, theophylline, tiagabine, topiramate, tramadol, trazodone, tricyclic antidepressants (e.g., imipramine, amitriptyline, nortriptyline), valproate, warfarin, ziprasidone, zonisamide. Other Drug Interactions Cyclophosphamide is an inactive prodrug and is converted to its active metabolite in part by CYP3A.",True,1
+fluoxetine,warfarin,1,False,Moderate,fluoxetine:warnings_and_cautions;fluoxetine:drug_interactions;warfarin:drug_interactions,"d clinical anticonvulsant toxicity ( 7.7 ) Serotonergic Drugs: ( 2.9 , 2.10 , 4.1 , 5.2 ) Drugs that Interfere with Hemostasis (e.g. NSAIDs, Aspirin, Warfarin): May potentiate the risk of bleeding ( 7.4 ) Drugs Tightly Bound to Plasma Proteins: May cause a shift in plasma concentrations ( 7.6 , 7.7 ) Olanza",True,1
+ferrous sulfate,levothyroxine,1,False,Moderate,levothyroxine:drug_interactions,"and delaying or preventing absorption, potentially resulting in hypothyroidism. Drug or Drug Class Effect Phosphate Binders (e.g., calcium carbonate, ferrous sulfate, sevelamer, lanthanum) Phosphate binders may bind to levothyroxine. Administer levothyroxine sodium tablets at least 4 hours apart from these agents.",True,1
+albuterol,salmeterol,1,False,Moderate,salmeterol:warnings_and_cautions,"rically, though not statistically significantly, greater in subjects with asthma treated with salmeterol (42 mcg twice daily) than those treated with albuterol (180 mcg 4 times daily) added to usual asthma therapy. The SNS and SMART trials enrolled subjects with asthma. Available data do not suggest an incre",True,1
+digoxin,verapamil,41,False,,digoxin:drug_interactions,conazole 80% NA Lapatinib NA 180% Propafenone NA 60-270% Quinidine 100% NA Ranolazine 50% NA Ritonavir NA 86% Telaprevir 50% 85% Tetracycline 100% NA Verapamil 50-75% NA Digoxin concentrations increased less than 50% Atorvastatin 22% 15% Carvedilol 16% 14% Measure serum digoxin concentrations before initiati,True,2
+verapamil,warfarin,41,False,Unknown,warfarin:drug_interactions,"e, methoxsalen, mexiletine, norfloxacin, oral contraceptives, phenylpropanolamine, propafenone, propranolol, terbinafine, thiabendazole, ticlopidine, verapamil, zileuton montelukast, moricizine, omeprazole, phenobarbital, phenytoin, cigarette smoking CYP3A4 alprazolam, amiodarone, amlodipine, amprenavir, apr",True,2
+leucovorin,oxaliplatin,22,False,Unknown,oxaliplatin:warnings_and_cautions;oxaliplatin:drug_interactions,"Prolonged prothrombin time and INR occasionally associated with hemorrhage have been reported in patients who received oxaliplatin with fluorouracil/leucovorin while on anticoagulants [see Warnings and Precautions (5.9) , Adverse Reactions (6.2) ] . Increase frequency of monitoring in patients who are receiv",True,2
+digoxin,simvastatin,19,False,Unknown,simvastatin:drug_interactions,"1 ) • Coumarin Anticoagulants: Obtain INR before simvastatin initiation and monitor INR during simvastatin dosage initiation or adjustment. ( 7.2 ) • Digoxin: During simvastatin initiation, monitor digoxin levels. ( 7.2 ) 7.1 Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Simv",True,2
+simvastatin,warfarin,19,False,Minor,simvastatin:drug_interactions,"s with hyperlipidemia. There are postmarketing reports of clinically evident bleeding and/or increased INR in patients taking concomitant statins and warfarin. Intervention: In patients taking coumarin anticoagulants, obtain an INR before starting simvastatin and frequently enough after initiation, dose tit",True,2
+furosemide,naproxen,13,False,,naproxen:drug_interactions,"Clinical Impact: Clinical studies, as well as post-marketing observations, showed that NSAIDs reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis. Intervention: Dur",True,2
+digoxin,naproxen,8,False,,naproxen:drug_interactions,"gns of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects [ see Warnings and Precautions (5.6) ]. Digoxin Clinical Impact: The concomitant use of naproxen with digoxin has been reported to increase the serum concentration and prolong the half-life of digo",True,2
+amlodipine,warfarin,8,False,Unknown,warfarin:drug_interactions,"ole, ticlopidine, verapamil, zileuton montelukast, moricizine, omeprazole, phenobarbital, phenytoin, cigarette smoking CYP3A4 alprazolam, amiodarone, amlodipine, amprenavir, aprepitant, atorvastatin, atazanavir, bicalutamide, cilostazol, cimetidine, ciprofloxacin, clarithromycin, conivaptan, cyclosporine, dar",True,2
+insulin isophane,nicotine,6,False,,nicotine:precautions;nicotine:drug_interactions,", caffeine, imipramine, oxazepam, pentazocine, propranolol, or other beta-blockers, theophylline Deinduction of hepatic enzymes on smoking cessation. Insulin Increase of subcutaneous insulin absorption with smoking cessation. Adrenergic antagonists (e.g. prazosin, labetalol) Decrease in circulating catecho",True,2
+"insulin, regular, human",nicotine,6,False,,nicotine:precautions;nicotine:drug_interactions,", caffeine, imipramine, oxazepam, pentazocine, propranolol, or other beta-blockers, theophylline Deinduction of hepatic enzymes on smoking cessation. Insulin Increase of subcutaneous insulin absorption with smoking cessation. Adrenergic antagonists (e.g. prazosin, labetalol) Decrease in circulating catecho",True,2
+metoprolol,verapamil,6,False,,metoprolol:warnings_and_cautions;metoprolol:drug_interactions,"losely when the combination cannot be avoided. 7.3 Digitalis, Clonidine, and Calcium Channel Blockers Digitalis glycosides, clonidine, diltiazem, and verapamil slow atrioventricular conduction and decrease heart rate. Concomitant use with beta-blockers can increase the risk of bradycardia. If clonidine and a",True,2
+atenolol,furosemide,4,False,,atenolol:warnings,"evere failure. In patients with acute myocardial infarction, cardiac failure which is not promptly and effectively controlled by 80 mg of intravenous furosemide or equivalent therapy is a contraindication to beta-blocker treatment. In Patients Without a History of Cardiac Failure Continued depression of the m",True,2
+atenolol,verapamil,4,False,,atenolol:warnings,nnel Blockers Bradycardia and heart block can occur and the left ventricular end diastolic pressure can rise when beta-blockers are administered with verapamil or diltiazem. Patients with pre-existing conduction abnormalities or left ventricular dysfunction are particularly susceptible. (See PRECAUTIONS .) B,True,2
+digoxin,sertraline,3,False,,sertraline:drug_interactions,"s is necessary when used in combination with cimetidine. Additionally, no dosage adjustment is required for diazepam, lithium, atenolol, tolbutamide, digoxin, and drugs metabolized by CYP3A4, when Sertraline HCl Capsules is administered concomitantly [see Clinical Pharmacology ( 12.3 )] . 7.3 False-Positiv",True,2
+acetaminophen,nicotine,2,False,,nicotine:precautions;nicotine:drug_interactions,"acement, may alter the pharmacokinetics of certain concomitant medications. May Require a Decrease in Dose at Cessation of Smoking Possible Mechanism Acetaminophen, caffeine, imipramine, oxazepam, pentazocine, propranolol, or other beta-blockers, theophylline Deinduction of hepatic enzymes on smoking cessation.",True,2
+clonazepam,diazepam,2,False,,clonazepam:precautions,"a clear association with benzodiazepines and major birth defects. Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted. In addition, the majority of more recent case-control and cohort studies of benzodiazepi",True,2
+furosemide,levothyroxine,1,False,Unknown,levothyroxine:drug_interactions,"evels with sustained therapeutic serum salicylate concentrations, although total T4 levels may decrease by as much as 30%. Other drugs: Carbamazepine Furosemide (> 80 mg IV) Heparin Hydantoins Non-Steroidal Anti-inflammatory Drugs - Fenamates These drugs may cause protein-binding site displacement. Furosemide",True,2
+carbamazepine,verapamil,1,False,,carbamazepine:precautions;verapamil:precautions,", omeprazole, oxybutynin, isoniazid, niacinamide (nicotinamide), azoles (e.g., ketaconazole, itraconazole, fluconazole, voriconazole), acetazolamide, verapamil, ticlopidine, grapefruit juice, and protease inhibitors. Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the for",True,2
+carbamazepine,clonazepam,1,False,,carbamazepine:precautions;clonazepam:precautions;clonazepam:drug_interactions,"ng of concentrations or dosage adjustment may be necessary: acetaminophen, albendazole, alprazolam, aprepitant, buprenorphone, bupropion, citalopram, clonazepam, clozapine, corticosteroids (e.g., prednisolone, dexamethasone), cyclosporine, dicumarol, dihydropyridine calcium channel blockers (e.g., felodipine)",True,2
+fluoxetine,metoprolol,1,False,,metoprolol:drug_interactions,"dia, which may produce vertigo, syncope, or postural hypotension. 7.2 CYP2D6 Inhibitors Drugs that are strong inhibitors of CYP2D6 such as quinidine, fluoxetine, paroxetine, and propafenone were shown to double metoprolol concentrations. While there is no information about moderate or weak inhibitors, these t",True,2
+hydrochlorothiazide,metformin,28,False,Moderate,,,True,3
+albuterol,epinephrine,15,False,Moderate,,,True,3
+hydrochlorothiazide,salmeterol,15,False,Moderate,,,True,3
+docetaxel,simvastatin,14,False,Moderate,,,True,3
+clopidogrel,naproxen,12,False,Moderate,,,True,3
+albuterol,hydrochlorothiazide,10,False,Moderate,,,True,3
+insulin isophane,leuprolide,10,False,Moderate,,,True,3
+"insulin, regular, human",leuprolide,10,False,Moderate,,,True,3
+metformin,naproxen,10,False,Moderate,,,True,3
+docetaxel,verapamil,9,False,Major,,,True,3
+furosemide,insulin isophane,8,False,Moderate,,,True,3
+furosemide,"insulin, regular, human",8,False,Moderate,,,True,3
+insulin isophane,metoprolol,8,False,Moderate,,,True,3
+insulin isophane,olmesartan,8,False,Moderate,,,True,3
+"insulin, regular, human",metoprolol,8,False,Moderate,,,True,3
+"insulin, regular, human",olmesartan,8,False,Moderate,,,True,3
+furosemide,metformin,8,False,Moderate,,,True,3
+oxaliplatin,simvastatin,7,False,Moderate,,,True,3
+metformin,salmeterol,7,False,Moderate,,,True,3
+hydrocodone,sertraline,6,False,Moderate,,,True,3
+chlorthalidone,metformin,6,False,Moderate,,,True,3
+hydrochlorothiazide,hydrocodone,6,False,Moderate,,,True,3
+insulin isophane,salmeterol,5,False,Moderate,,,True,3
+"insulin, regular, human",salmeterol,5,False,Moderate,,,True,3
+metformin,verapamil,5,False,Moderate,,,True,3
+metformin,warfarin,5,False,Moderate,,,True,3
+naproxen,oxaliplatin,4,False,Moderate,,,True,3
+atenolol,insulin isophane,4,False,Moderate,,,True,3
+atenolol,"insulin, regular, human",4,False,Moderate,,,True,3
+albuterol,atenolol,4,False,Moderate,,,True,3
+albuterol,chlorthalidone,4,False,Moderate,,,True,3
+albuterol,terfenadine,3,False,Moderate,,,True,3
+leuprolide,sertraline,3,False,Moderate,,,True,3
+donepezil,leuprolide,3,False,Moderate,,,True,3
+hydrochlorothiazide,hydrocortisone,3,False,Moderate,,,True,3
+fluoxetine,leuprolide,3,False,Moderate,,,True,3
+galantamine,leuprolide,3,False,Moderate,,,True,3
+leuprolide,metformin,3,False,Moderate,,,True,3
+furosemide,salmeterol,3,False,Moderate,,,True,3
+metoprolol,salmeterol,3,False,Moderate,,,True,3
+diphenhydramine,olmesartan,3,False,Moderate,,,True,3
+fluticasone,verapamil,3,False,Moderate,,,True,3
+oxaliplatin,salmeterol,2,False,Moderate,,,True,3
+amlodipine,hydrocortisone,2,False,Moderate,,,True,3
+hydrocortisone,olmesartan,2,False,Moderate,,,True,3
+albuterol,leuprolide,2,False,Moderate,,,True,3
+levonorgestrel,metformin,2,False,Moderate,,,True,3
+hydrocortisone,naproxen,2,False,Moderate,,,True,3
+galantamine,oxaliplatin,2,False,Moderate,,,True,3
+hydrocodone,verapamil,2,False,Major,,,True,3
+amlodipine,hydrocodone,2,False,Moderate,,,True,3
+hydrocodone,olmesartan,2,False,Moderate,,,True,3
+albuterol,astemizole,2,False,Moderate,,,True,3
+hydrocortisone,metformin,2,False,Moderate,,,True,3
+carbamazepine,leucovorin,1,False,Moderate,,,True,3
+albuterol,furosemide,1,False,Moderate,,,True,3
+albuterol,metoprolol,1,False,Moderate,,,True,3
+hydrochlorothiazide,methotrexate,1,False,Moderate,,,True,3
+clopidogrel,fluoxetine,1,False,Major,,,True,3
+insulin isophane,medroxyprogesterone,1,False,Moderate,,,True,3
+"insulin, regular, human",medroxyprogesterone,1,False,Moderate,,,True,3
+furosemide,hydrocodone,1,False,Moderate,,,True,3
+hydrocodone,metoprolol,1,False,Moderate,,,True,3
+atenolol,hydrocortisone,1,False,Moderate,,,True,3
+chlorthalidone,hydrocortisone,1,False,Moderate,,,True,3
+carbamazepine,simvastatin,1,False,Moderate,,,True,3
+furosemide,hydrocortisone,1,False,Moderate,,,True,3
+hydrocortisone,metoprolol,1,False,Moderate,,,True,3
+ethinyl estradiol,metformin,1,False,Moderate,,,True,3
+digoxin,levothyroxine,1,False,Moderate,,,True,3
+levothyroxine,warfarin,1,False,Moderate,,,True,3
+epinephrine,salmeterol,1,False,Moderate,,,True,3
+chlorpheniramine,clonazepam,1,False,Moderate,,,True,3
+chlorpheniramine,diazepam,1,False,Moderate,,,True,3
+alendronate,ibuprofen,1,False,Moderate,,,True,3
+amlodipine,ibuprofen,1,False,Moderate,,,True,3
+clopidogrel,ibuprofen,1,False,Moderate,,,True,3
+hydrochlorothiazide,ibuprofen,1,False,Moderate,,,True,3
+fluoxetine,hydrocodone,1,False,Moderate,,,True,3
+salmeterol,sertraline,1,False,Moderate,,,True,3
+clopidogrel,hydrocodone,1,False,Moderate,,,True,3
+hydrocodone,nitroglycerin,1,False,Moderate,,,True,3
+insulin lispro,metformin,1,False,Moderate,,,True,3
+digoxin,hydrocortisone,1,False,Moderate,,,True,3
+hydrocortisone,verapamil,1,False,Moderate,,,True,3
+hydrocortisone,warfarin,1,False,Moderate,,,True,3
+atenolol,salmeterol,1,False,Moderate,,,True,3
+chlorthalidone,salmeterol,1,False,Moderate,,,True,3
+leuprolide,salmeterol,1,False,Moderate,,,True,3
+insulin isophane,sertraline,1,False,Moderate,,,True,3
+"insulin, regular, human",sertraline,1,False,Moderate,,,True,3
+metformin,norethindrone,1,False,Moderate,,,True,3
+diazepam,diphenhydramine,1,False,Moderate,,,True,3
+hydrochlorothiazide,simvastatin,54,False,Unknown,,,True,4
+albuterol,fluticasone,51,False,Minor,,,True,4
+nitroglycerin,simvastatin,50,False,Unknown,,,True,4
+amlodipine,clopidogrel,49,False,Unknown,,,True,4
+clopidogrel,nitroglycerin,49,False,Unknown,,,True,4
+clopidogrel,simvastatin,49,False,Unknown,,,True,4
+digoxin,warfarin,41,False,Unknown,,,True,4
+naproxen,simvastatin,37,False,Unknown,,,True,4
+epinephrine,loratadine,36,False,Unknown,,,True,4
+epinephrine,fexofenadine,27,False,Unknown,,,True,4
+furosemide,simvastatin,26,False,Unknown,,,True,4
+metoprolol,simvastatin,26,False,Unknown,,,True,4
+atenolol,simvastatin,25,False,Unknown,,,True,4
+chlorthalidone,simvastatin,25,False,Unknown,,,True,4
+fluticasone,hydrochlorothiazide,24,False,Unknown,,,True,4
+amlodipine,metformin,19,False,Unknown,,,True,4
+cetirizine,epinephrine,18,False,Unknown,,,True,4
+fluticasone,simvastatin,18,False,Unknown,,,True,4
+epinephrine,fluticasone,16,False,Unknown,,,True,4
+docetaxel,hydrochlorothiazide,16,False,Unknown,,,True,4
+clopidogrel,hydrochlorothiazide,16,False,Unknown,,,True,4
+amlodipine,fluticasone,14,False,Unknown,,,True,4
+metformin,simvastatin,14,False,Unknown,,,True,4
+salmeterol,simvastatin,14,False,Unknown,,,True,4
+epinephrine,hydrochlorothiazide,12,False,Unknown,,,True,4
+alendronate,simvastatin,12,False,Unknown,,,True,4
+hydrochlorothiazide,warfarin,12,False,Minor,,,True,4
+docetaxel,nicotine,12,False,Unknown,,,True,4
+donepezil,simvastatin,11,False,Unknown,,,True,4
+epinephrine,hydrocortisone,11,False,Unknown,,,True,4
+memantine,simvastatin,10,False,Unknown,,,True,4
+hydrochlorothiazide,vitamin b12,9,False,Unknown,,,True,4
+amlodipine,salmeterol,9,False,Unknown,,,True,4
+digoxin,docetaxel,9,False,Unknown,,,True,4
+docetaxel,warfarin,9,False,Unknown,,,True,4
+atenolol,clopidogrel,9,False,Unknown,,,True,4
+chlorthalidone,clopidogrel,9,False,Unknown,,,True,4
+clopidogrel,furosemide,9,False,Unknown,,,True,4
+clopidogrel,metoprolol,9,False,Unknown,,,True,4
+simvastatin,vitamin b12,9,False,Unknown,,,True,4
+metformin,metoprolol,8,False,Unknown,,,True,4
+docetaxel,furosemide,8,False,Unknown,,,True,4
+docetaxel,metoprolol,8,False,Unknown,,,True,4
+fluticasone,naproxen,7,False,Unknown,,,True,4
+alendronate,metformin,7,False,Unknown,,,True,4
+leucovorin,simvastatin,7,False,Unknown,,,True,4
+amlodipine,docetaxel,7,False,Unknown,,,True,4
+metformin,nitroglycerin,7,False,Unknown,,,True,4
+acetaminophen,simvastatin,6,False,Unknown,,,True,4
+albuterol,cetirizine,6,False,Unknown,,,True,4
+cetirizine,fluticasone,6,False,Unknown,,,True,4
+fluticasone,nitroglycerin,6,False,Unknown,,,True,4
+atenolol,metformin,6,False,Unknown,,,True,4
+furosemide,warfarin,6,False,Unknown,,,True,4
+metoprolol,warfarin,6,False,Unknown,,,True,4
+alendronate,docetaxel,6,False,Unknown,,,True,4
+clopidogrel,metformin,6,False,Unknown,,,True,4
+furosemide,vitamin b12,6,False,Unknown,,,True,4
+metoprolol,vitamin b12,6,False,Unknown,,,True,4
+hydrochlorothiazide,leucovorin,5,False,Unknown,,,True,4
+hydrochlorothiazide,levothyroxine,5,False,Unknown,,,True,4
+hydrochlorothiazide,oxaliplatin,5,False,Unknown,,,True,4
+albuterol,amlodipine,5,False,Unknown,,,True,4
+amlodipine,epinephrine,5,False,Unknown,,,True,4
+metformin,vitamin b12,5,False,Unknown,,,True,4
+acetaminophen,docetaxel,5,False,Unknown,,,True,4
+atenolol,fluticasone,5,False,Unknown,,,True,4
+chlorthalidone,fluticasone,5,False,Unknown,,,True,4
+clopidogrel,docetaxel,5,False,Unknown,,,True,4
+docetaxel,nitroglycerin,5,False,Unknown,,,True,4
+galantamine,metformin,5,False,Unknown,,,True,4
+clopidogrel,digoxin,5,False,Unknown,,,True,4
+clopidogrel,verapamil,5,False,Unknown,,,True,4
+nitroglycerin,warfarin,5,False,Unknown,,,True,4
+alendronate,warfarin,5,False,Unknown,,,True,4
+atenolol,vitamin b12,5,False,Unknown,,,True,4
+nicotine,simvastatin,5,False,Unknown,,,True,4
+galantamine,warfarin,5,False,Unknown,,,True,4
+levothyroxine,simvastatin,5,False,Minor,,,True,4
+hydrochlorothiazide,loratadine,4,False,Unknown,,,True,4
+leucovorin,naproxen,4,False,Unknown,,,True,4
+naproxen,salmeterol,4,False,Unknown,,,True,4
+hydrocortisone,loratadine,4,False,Unknown,,,True,4
+naproxen,vitamin b12,4,False,Unknown,,,True,4
+albuterol,fexofenadine,4,False,Unknown,,,True,4
+fexofenadine,fluticasone,4,False,Unknown,,,True,4
+fluticasone,loratadine,4,False,Unknown,,,True,4
+nitroglycerin,salmeterol,4,False,Unknown,,,True,4
+digoxin,leucovorin,4,False,Unknown,,,True,4
+digoxin,oxaliplatin,4,False,Unknown,,,True,4
+leucovorin,verapamil,4,False,Unknown,,,True,4
+leucovorin,warfarin,4,False,Unknown,,,True,4
+oxaliplatin,verapamil,4,False,Unknown,,,True,4
+oxaliplatin,warfarin,4,False,Unknown,,,True,4
+donepezil,warfarin,4,False,Unknown,,,True,4
+atenolol,leucovorin,4,False,Unknown,,,True,4
+atenolol,oxaliplatin,4,False,Unknown,,,True,4
+alendronate,fluticasone,4,False,Unknown,,,True,4
+fluticasone,furosemide,4,False,Unknown,,,True,4
+fluticasone,metoprolol,4,False,Unknown,,,True,4
+fexofenadine,hydrochlorothiazide,4,False,Unknown,,,True,4
+galantamine,simvastatin,4,False,Unknown,,,True,4
+atenolol,warfarin,4,False,Unknown,,,True,4
+chlorthalidone,warfarin,4,False,Minor,,,True,4
+memantine,warfarin,4,False,Unknown,,,True,4
+clopidogrel,fluticasone,4,False,Unknown,,,True,4
+albuterol,simvastatin,4,False,Unknown,,,True,4
+levothyroxine,naproxen,3,False,Unknown,,,True,4
+loratadine,norethindrone,3,False,Unknown,,,True,4
+docetaxel,sertraline,3,False,Unknown,,,True,4
+sertraline,simvastatin,3,False,Unknown,,,True,4
+albuterol,loratadine,3,False,Unknown,,,True,4
+donepezil,metformin,3,False,Unknown,,,True,4
+docetaxel,donepezil,3,False,Unknown,,,True,4
+docetaxel,naproxen,3,False,Unknown,,,True,4
+alendronate,salmeterol,3,False,Unknown,,,True,4
+fluticasone,memantine,3,False,Unknown,,,True,4
+atenolol,docetaxel,3,False,Unknown,,,True,4
+docetaxel,fluticasone,3,False,Unknown,,,True,4
+docetaxel,fluoxetine,3,False,Unknown,,,True,4
+docetaxel,metformin,3,False,Unknown,,,True,4
+fluoxetine,simvastatin,3,False,Unknown,,,True,4
+fluticasone,vitamin b12,3,False,Unknown,,,True,4
+salmeterol,vitamin b12,3,False,Unknown,,,True,4
+amlodipine,vitamin b12,3,False,Unknown,,,True,4
+nicotine,warfarin,3,False,Unknown,,,True,4
+amlodipine,levothyroxine,3,False,Unknown,,,True,4
+clopidogrel,levothyroxine,3,False,Unknown,,,True,4
+levothyroxine,nitroglycerin,3,False,Unknown,,,True,4
+albuterol,naproxen,3,False,Unknown,,,True,4
+acetaminophen,fluticasone,3,False,Unknown,,,True,4
+clopidogrel,donepezil,3,False,Unknown,,,True,4
+digoxin,fluticasone,3,False,Unknown,,,True,4
+digoxin,salmeterol,3,False,Unknown,,,True,4
+fluticasone,warfarin,3,False,Unknown,,,True,4
+salmeterol,verapamil,3,False,Unknown,,,True,4
+salmeterol,warfarin,3,False,Unknown,,,True,4
+diazepam,epinephrine,2,False,Unknown,,,True,4
+leucovorin,levothyroxine,2,False,Unknown,,,True,4
+levothyroxine,oxaliplatin,2,False,Unknown,,,True,4
+fluticasone,leucovorin,2,False,Unknown,,,True,4
+fluticasone,oxaliplatin,2,False,Unknown,,,True,4
+leucovorin,salmeterol,2,False,Unknown,,,True,4
+alendronate,leucovorin,2,False,Unknown,,,True,4
+alendronate,oxaliplatin,2,False,Unknown,,,True,4
+hydrocortisone,leucovorin,2,False,Unknown,,,True,4
+hydrocortisone,oxaliplatin,2,False,Unknown,,,True,4
+atenolol,levothyroxine,2,False,Minor,,,True,4
+chlorthalidone,levothyroxine,2,False,Unknown,,,True,4
+memantine,salmeterol,2,False,Unknown,,,True,4
+albuterol,docetaxel,2,False,Unknown,,,True,4
+clopidogrel,galantamine,2,False,Unknown,,,True,4
+fluoxetine,metformin,2,False,Unknown,,,True,4
+clopidogrel,salmeterol,2,False,Unknown,,,True,4
+acetaminophen,vitamin b12,2,False,Unknown,,,True,4
+nitroglycerin,vitamin b12,2,False,Unknown,,,True,4
+alendronate,clopidogrel,2,False,Unknown,,,True,4
+albuterol,clopidogrel,2,False,Unknown,,,True,4
+albuterol,nitroglycerin,2,False,Unknown,,,True,4
+acetaminophen,salmeterol,2,False,Unknown,,,True,4
+clopidogrel,memantine,2,False,Unknown,,,True,4
+leucovorin,metformin,2,False,Unknown,,,True,4
+metformin,oxaliplatin,2,False,Unknown,,,True,4
+acetaminophen,metformin,2,False,Unknown,,,True,4
+metformin,oxycodone,2,False,Unknown,,,True,4
+diazepam,fexofenadine,1,False,Unknown,,,True,4
+atenolol,fexofenadine,1,False,Unknown,,,True,4
+chlorthalidone,fexofenadine,1,False,Unknown,,,True,4
+norethindrone,simvastatin,1,False,Unknown,,,True,4
+albuterol,levonorgestrel,1,False,Unknown,,,True,4
+fluticasone,levonorgestrel,1,False,Unknown,,,True,4
+fexofenadine,hydrocortisone,1,False,Unknown,,,True,4
+alendronate,levothyroxine,1,False,Unknown,,,True,4
+carbamazepine,oxaliplatin,1,False,Unknown,,,True,4
+donepezil,fluticasone,1,False,Unknown,,,True,4
+donepezil,salmeterol,1,False,Unknown,,,True,4
+furosemide,leucovorin,1,False,Unknown,,,True,4
+furosemide,oxaliplatin,1,False,Unknown,,,True,4
+leucovorin,metoprolol,1,False,Unknown,,,True,4
+metoprolol,oxaliplatin,1,False,Unknown,,,True,4
+loratadine,vitamin b12,1,False,Unknown,,,True,4
+levothyroxine,metoprolol,1,False,Minor,,,True,4
+albuterol,alendronate,1,False,Unknown,,,True,4
+albuterol,memantine,1,False,Unknown,,,True,4
+acetaminophen,hydrocortisone,1,False,Unknown,,,True,4
+hydrocortisone,oxycodone,1,False,Unknown,,,True,4
+carbamazepine,clopidogrel,1,False,Unknown,,,True,4
+carbamazepine,metformin,1,False,Unknown,,,True,4
+epinephrine,estradiol,1,False,Unknown,,,True,4
+estradiol,fexofenadine,1,False,Unknown,,,True,4
+epinephrine,naproxen,1,False,Unknown,,,True,4
+loratadine,naproxen,1,False,Unknown,,,True,4
+digoxin,vitamin b12,1,False,Unknown,,,True,4
+levothyroxine,verapamil,1,False,Unknown,,,True,4
+levothyroxine,vitamin b12,1,False,Unknown,,,True,4
+verapamil,vitamin b12,1,False,Unknown,,,True,4
+vitamin b12,warfarin,1,False,Unknown,,,True,4
+cetirizine,hydrocortisone,1,False,Unknown,,,True,4
+cetirizine,vitamin b12,1,False,Unknown,,,True,4
+hydrocortisone,vitamin b12,1,False,Unknown,,,True,4
+loratadine,salmeterol,1,False,Unknown,,,True,4
+clonazepam,epinephrine,1,False,Unknown,,,True,4
+clonazepam,hydrocortisone,1,False,Unknown,,,True,4
+diazepam,hydrocortisone,1,False,Unknown,,,True,4
+alendronate,vitamin b12,1,False,Unknown,,,True,4
+clopidogrel,vitamin b12,1,False,Unknown,,,True,4
+ibuprofen,nitroglycerin,1,False,Unknown,,,True,4
+ibuprofen,simvastatin,1,False,Unknown,,,True,4
+clonazepam,leucovorin,1,False,Unknown,,,True,4
+clonazepam,oxaliplatin,1,False,Unknown,,,True,4
+fluticasone,sertraline,1,False,Unknown,,,True,4
+acetaminophen,clopidogrel,1,False,Unknown,,,True,4
+epinephrine,oxaliplatin,1,False,Unknown,,,True,4
+amlodipine,fexofenadine,1,False,Unknown,,,True,4
+amlodipine,amoxicillin,1,False,Unknown,,,True,4
+amoxicillin,clopidogrel,1,False,Unknown,,,True,4
+amoxicillin,furosemide,1,False,Unknown,,,True,4
+amoxicillin,hydrochlorothiazide,1,False,Unknown,,,True,4
+amoxicillin,metoprolol,1,False,Unknown,,,True,4
+amoxicillin,naproxen,1,False,Unknown,,,True,4
+amoxicillin,nitroglycerin,1,False,Unknown,,,True,4
+amoxicillin,simvastatin,1,False,Unknown,,,True,4
+albuterol,norethindrone,1,False,Unknown,,,True,4
+fluticasone,norethindrone,1,False,Unknown,,,True,4
+amlodipine,loratadine,1,False,Unknown,,,True,4
+metformin,sertraline,1,False,Unknown,,,True,4
+amlodipine,leucovorin,1,False,Unknown,,,True,4
+amlodipine,oxaliplatin,1,False,Unknown,,,True,4
+docetaxel,oxycodone,1,False,Unknown,,,True,4
+leucovorin,vitamin b12,1,False,Unknown,,,True,4
+oxaliplatin,vitamin b12,1,False,Unknown,,,True,4
+metformin,nicotine,1,False,Unknown,,,True,4
+docetaxel,salmeterol,1,False,Unknown,,,True,4
+fluticasone,oxycodone,1,False,Unknown,,,True,4
+oxycodone,salmeterol,1,False,Unknown,,,True,4
+oxycodone,vitamin b12,1,False,Unknown,,,True,4
+alendronate,hydrocortisone,1,False,Unknown,,,True,4
+hydrocortisone,simvastatin,1,False,Unknown,,,True,4
+memantine,metformin,1,False,Minor,,,True,4
+oxycodone,simvastatin,1,False,Unknown,,,True,4
+acetaminophen,albuterol,1,False,Unknown,,,True,4
+duloxetine,simvastatin,1,False,Unknown,,,True,4
+ibuprofen,levonorgestrel,1,False,Unknown,,,True,4
+docetaxel,vitamin b12,1,False,Unknown,,,True,4
+cefuroxime,epinephrine,1,False,Unknown,,,True,4
+cefuroxime,ibuprofen,1,False,Unknown,,,True,4
+cefuroxime,loratadine,1,False,Unknown,,,True,4
+epinephrine,ibuprofen,1,False,Unknown,,,True,4
+ibuprofen,loratadine,1,False,Unknown,,,True,4
+amlodipine,hydrochlorothiazide,101,True,,,,False,0
+amlodipine,olmesartan,90,True,,,,False,0
+hydrochlorothiazide,olmesartan,90,True,,,,False,0
+atenolol,chlorthalidone,78,True,,,,False,0
+furosemide,metoprolol,58,False,,,,False,0
+amlodipine,nitroglycerin,49,False,,,,False,0
+insulin isophane,"insulin, regular, human",48,True,,"insulin isophane:warnings_and_cautions;insulin isophane:drug_interactions;insulin, regular, human:warnings_and_cautions;insulin, regular, human:drug_interactions","quency of glucose monitoring may be required when HUMULIN N is co-administered with these drugs. Drugs that Affect Glucose Metabolism : Adjustment of insulin dosage may be needed. ( 7 ) Antiadrenergic Drugs (e.g., beta-blockers, clonidine, guanethidine, and reserpine) : Signs and symptoms of hypoglycemia m",False,0
+fluticasone,salmeterol,41,True,Minor,,,False,0
+docetaxel,leuprolide,38,False,,,,False,0
+hydrochlorothiazide,naproxen,36,False,,,,False,0
+amlodipine,naproxen,24,False,,,,False,0
+ethinyl estradiol,levonorgestrel,20,True,,levonorgestrel:warnings_and_cautions;levonorgestrel:drug_interactions,tion on protease inhibitors below). Colesevelam Clinical effect Concomitant use of CHCs with Colesevelam significantly decreases systemic exposure of ethinyl estradiol [see Clinical Pharmacology ( 12.3 )] . Decreased exposure of the estrogen component of CHCs may potentially reduce contraceptive efficacy or result i,False,0
+olmesartan,simvastatin,20,False,,,,False,0
+hydrochlorothiazide,nitroglycerin,17,False,,,,False,0
+insulin isophane,simvastatin,16,False,,,,False,0
+"insulin, regular, human",simvastatin,16,False,,,,False,0
+hydrochlorothiazide,leuprolide,16,False,,,,False,0
+furosemide,hydrochlorothiazide,15,False,,,,False,0
+hydrochlorothiazide,metoprolol,15,False,,,,False,0
+leuprolide,simvastatin,14,False,,,,False,0
+metformin,olmesartan,14,False,,,,False,0
+ferrous sulfate,hydrochlorothiazide,14,False,,,,False,0
+insulin isophane,naproxen,14,False,,,,False,0
+"insulin, regular, human",naproxen,14,False,,,,False,0
+amlodipine,furosemide,13,False,,,,False,0
+amlodipine,insulin isophane,13,False,,,,False,0
+amlodipine,"insulin, regular, human",13,False,,,,False,0
+amlodipine,metoprolol,13,False,,,,False,0
+metoprolol,naproxen,13,False,,,,False,0
+naproxen,nitroglycerin,12,False,,,,False,0
+digoxin,hydrochlorothiazide,12,False,,,,False,0
+hydrochlorothiazide,verapamil,12,False,,,,False,0
+leuprolide,nicotine,12,False,,,,False,0
+fluticasone,olmesartan,11,False,,,,False,0
+ferrous sulfate,naproxen,11,False,,,,False,0
+acetaminophen,hydrochlorothiazide,10,False,,,,False,0
+docetaxel,insulin isophane,10,False,,,,False,0
+docetaxel,"insulin, regular, human",10,False,,,,False,0
+amlodipine,atenolol,10,False,,,,False,0
+amlodipine,chlorthalidone,10,False,,,,False,0
+dienogest,estradiol,10,True,,dienogest:drug_interactions,fter discontinuing the enzyme inducer to ensure contraceptive reliability. Multiple dose co-administration of the strong CYP3A4 inducer rifampin with estradiol valerate/dienogest tablets in healthy postmenopausal women led to a decrease in dienogest and estradiol systemic exposure at steady state. [See Clini,False,0
+amlodipine,ferrous sulfate,10,False,,,,False,0
+atenolol,naproxen,10,False,,,,False,0
+chlorthalidone,naproxen,10,False,,,,False,0
+naproxen,olmesartan,10,False,,,,False,0
+ethinyl estradiol,norgestimate,9,True,,norgestimate:warnings_and_cautions;norgestimate:drug_interactions,"4 hours apart. Substances increasing the plasma concentrations of COCs: Co-administration of atorvastatin or rosuvastatin and certain COCs containing ethinyl estradiol (EE) increase AUC values for EE by approximately 20 to 25%. Ascorbic acid and acetaminophen may increase plasma EE concentrations, possibly by inhibi",False,0
+acetaminophen,hydrocodone,9,True,,,,False,0
+digoxin,leuprolide,9,False,,,,False,0
+leuprolide,verapamil,9,False,,,,False,0
+leuprolide,warfarin,9,False,,,,False,0
+atenolol,nitroglycerin,9,False,,,,False,0
+chlorthalidone,nitroglycerin,9,False,,,,False,0
+furosemide,nitroglycerin,9,False,,,,False,0
+metoprolol,nitroglycerin,9,False,,,,False,0
+ferrous sulfate,simvastatin,9,False,,,,False,0
+olmesartan,salmeterol,8,False,,,,False,0
+naproxen,verapamil,8,False,,,,False,0
+ethinyl estradiol,hydrochlorothiazide,8,False,,,,False,0
+furosemide,leuprolide,8,False,,,,False,0
+leuprolide,metoprolol,8,False,,,,False,0
+amlodipine,digoxin,8,False,,,,False,0
+amlodipine,verapamil,8,False,,,,False,0
+chlorpheniramine,hydrochlorothiazide,7,False,,,,False,0
+alendronate,memantine,7,False,,,,False,0
+galantamine,hydrochlorothiazide,7,False,,,,False,0
+drospirenone,ethinyl estradiol,7,True,,drospirenone:warnings_and_cautions;drospirenone:drug_interactions,"eptives (HCs): In a clinical drug-drug interaction study conducted in premenopausal females, once daily co-administration of drospirenone (DRSP) 3 mg/ethinyl estradiol (EE) 0.02 mg containing tablets with strong CYP3A4 inhibitor, ketoconazole 200 mg twice daily for 10 days, resulted in a moderate increase of DRSP sy",False,0
+diphenhydramine,epinephrine,7,False,,,,False,0
+diphenhydramine,hydrochlorothiazide,7,False,,,,False,0
+fluticasone,insulin isophane,7,False,,,,False,0
+fluticasone,"insulin, regular, human",7,False,,,,False,0
+hydrochlorothiazide,nicotine,7,False,,,,False,0
+fluticasone,metformin,7,False,,,,False,0
+hydrochlorothiazide,levonorgestrel,7,False,,,,False,0
+ferrous sulfate,olmesartan,7,False,,,,False,0
+alendronate,hydrochlorothiazide,7,False,,,,False,0
+amlodipine,leuprolide,7,False,,,,False,0
+galantamine,insulin isophane,7,False,,,,False,0
+galantamine,"insulin, regular, human",7,False,,,,False,0
+ethinyl estradiol,etonogestrel,7,True,,,,False,0
+amlodipine,ethinyl estradiol,7,False,,,,False,0
+diphenhydramine,hydrocortisone,6,False,,,,False,0
+acetaminophen,sertraline,6,False,,,,False,0
+insulin isophane,nitroglycerin,6,False,,,,False,0
+"insulin, regular, human",nitroglycerin,6,False,,,,False,0
+albuterol,diphenhydramine,6,False,,,,False,0
+diphenhydramine,fluticasone,6,False,,,,False,0
+digoxin,furosemide,6,False,,,,False,0
+digoxin,metoprolol,6,False,,,,False,0
+furosemide,verapamil,6,False,,,,False,0
+alendronate,leuprolide,6,False,,,,False,0
+acetaminophen,oxycodone,6,True,,,,False,0
+clopidogrel,olmesartan,6,False,,,,False,0
+nitroglycerin,olmesartan,6,False,,,,False,0
+atenolol,ferrous sulfate,6,False,,,,False,0
+chlorthalidone,ferrous sulfate,6,False,,,,False,0
+galantamine,naproxen,6,False,,,,False,0
+chlorpheniramine,epinephrine,6,False,,,,False,0
+ethinyl estradiol,olmesartan,6,False,,,,False,0
+albuterol,chlorpheniramine,5,False,,,,False,0
+chlorpheniramine,fluticasone,5,False,,,,False,0
+alendronate,donepezil,5,False,,,,False,0
+amlodipine,galantamine,5,False,,,,False,0
+epinephrine,olmesartan,5,False,,,,False,0
+acetaminophen,leuprolide,5,False,,,,False,0
+alendronate,furosemide,5,False,,,,False,0
+alendronate,metoprolol,5,False,,,,False,0
+donepezil,furosemide,5,False,,,,False,0
+donepezil,metoprolol,5,False,,,,False,0
+digoxin,insulin isophane,5,False,,,,False,0
+digoxin,"insulin, regular, human",5,False,,,,False,0
+donepezil,naproxen,5,False,,,,False,0
+insulin isophane,verapamil,5,False,,,,False,0
+insulin isophane,warfarin,5,False,,,,False,0
+"insulin, regular, human",verapamil,5,False,,,,False,0
+"insulin, regular, human",warfarin,5,False,,,,False,0
+alendronate,atenolol,5,False,,,,False,0
+alendronate,chlorthalidone,5,False,,,,False,0
+clopidogrel,leuprolide,5,False,,,,False,0
+leuprolide,nitroglycerin,5,False,,,,False,0
+digoxin,nitroglycerin,5,False,,,,False,0
+nitroglycerin,verapamil,5,False,,,,False,0
+alendronate,digoxin,5,False,,,,False,0
+alendronate,naproxen,5,False,,,,False,0
+alendronate,verapamil,5,False,,,,False,0
+astemizole,epinephrine,5,False,,,,False,0
+chlorthalidone,vitamin b12,5,False,,,,False,0
+digoxin,galantamine,5,False,,,,False,0
+galantamine,verapamil,5,False,,,,False,0
+chlorpheniramine,hydrocortisone,5,False,,,,False,0
+donepezil,memantine,4,True,,,,False,0
+epinephrine,norethindrone,4,False,,,,False,0
+diphenhydramine,simvastatin,4,False,,,,False,0
+docetaxel,hydrocodone,4,False,,,,False,0
+hydrocodone,leuprolide,4,False,,,,False,0
+hydrocodone,simvastatin,4,False,,,,False,0
+furosemide,olmesartan,4,False,,,,False,0
+metoprolol,olmesartan,4,False,,,,False,0
+digoxin,donepezil,4,False,,,,False,0
+donepezil,verapamil,4,False,,,,False,0
+atenolol,metoprolol,4,False,,,,False,0
+chlorthalidone,furosemide,4,False,,,,False,0
+chlorthalidone,metoprolol,4,False,,,,False,0
+chlorthalidone,leucovorin,4,False,,,,False,0
+chlorthalidone,oxaliplatin,4,False,,,,False,0
+hydrochlorothiazide,norethindrone,4,False,,,,False,0
+etonogestrel,hydrochlorothiazide,4,False,,,,False,0
+clopidogrel,insulin isophane,4,False,,,,False,0
+clopidogrel,"insulin, regular, human",4,False,,,,False,0
+hydrochlorothiazide,medroxyprogesterone,4,False,,,,False,0
+acetaminophen,insulin isophane,4,False,,,,False,0
+acetaminophen,"insulin, regular, human",4,False,,,,False,0
+furosemide,nicotine,4,False,,,,False,0
+metoprolol,nicotine,4,False,,,,False,0
+atenolol,digoxin,4,False,,,,False,0
+chlorthalidone,digoxin,4,False,,,,False,0
+chlorthalidone,verapamil,4,False,,,,False,0
+digoxin,memantine,4,False,,,,False,0
+memantine,naproxen,4,False,,,,False,0
+memantine,verapamil,4,False,,,,False,0
+clopidogrel,ferrous sulfate,4,False,,,,False,0
+ferrous sulfate,nitroglycerin,4,False,,,,False,0
+ferrous sulfate,metformin,4,False,,,,False,0
+chlorpheniramine,naproxen,4,False,,,,False,0
+galantamine,olmesartan,3,False,,,,False,0
+albuterol,olmesartan,3,False,,,,False,0
+epinephrine,terfenadine,3,False,,,,False,0
+fluticasone,terfenadine,3,False,,,,False,0
+ferrous sulfate,furosemide,3,False,,,,False,0
+ferrous sulfate,metoprolol,3,False,,,,False,0
+naproxen,nicotine,3,False,,,,False,0
+donepezil,hydrochlorothiazide,3,False,,,,False,0
+donepezil,insulin isophane,3,False,,,,False,0
+donepezil,"insulin, regular, human",3,False,,,,False,0
+leuprolide,naproxen,3,False,,,,False,0
+ferrous sulfate,vitamin b12,3,False,,,,False,0
+diphenhydramine,etonogestrel,3,False,,,,False,0
+amlodipine,norethindrone,3,False,,,,False,0
+norethindrone,olmesartan,3,False,,,,False,0
+astemizole,hydrochlorothiazide,3,False,,,,False,0
+amlodipine,memantine,3,False,,,,False,0
+atenolol,leuprolide,3,False,,,,False,0
+atenolol,memantine,3,False,,,,False,0
+chlorthalidone,docetaxel,3,False,,,,False,0
+chlorthalidone,leuprolide,3,False,,,,False,0
+chlorthalidone,memantine,3,False,,,,False,0
+docetaxel,memantine,3,False,,,,False,0
+fluticasone,leuprolide,3,False,,,,False,0
+leuprolide,memantine,3,False,,,,False,0
+alendronate,insulin isophane,3,False,,,,False,0
+alendronate,"insulin, regular, human",3,False,,,,False,0
+amlodipine,fluoxetine,3,False,,,,False,0
+docetaxel,galantamine,3,False,,,,False,0
+fluoxetine,hydrochlorothiazide,3,False,,,,False,0
+medroxyprogesterone,naproxen,3,False,,,,False,0
+ethinyl estradiol,simvastatin,3,False,,,,False,0
+amlodipine,chlorpheniramine,3,False,,,,False,0
+chlorpheniramine,olmesartan,3,False,,,,False,0
+insulin isophane,leucovorin,3,False,,,,False,0
+insulin isophane,oxaliplatin,3,False,,,,False,0
+"insulin, regular, human",leucovorin,3,False,,,,False,0
+"insulin, regular, human",oxaliplatin,3,False,,,,False,0
+alendronate,nicotine,3,False,,,,False,0
+digoxin,nicotine,3,False,,,,False,0
+nicotine,verapamil,3,False,,,,False,0
+amlodipine,levonorgestrel,3,False,,,,False,0
+levonorgestrel,olmesartan,3,False,,,,False,0
+alendronate,amlodipine,3,False,,,,False,0
+sertraline,verapamil,3,False,,,,False,0
+amlodipine,medroxyprogesterone,3,False,,,,False,0
+medroxyprogesterone,olmesartan,3,False,,,,False,0
+hydrochlorothiazide,sertraline,3,False,,,,False,0
+amlodipine,donepezil,3,False,,,,False,0
+donepezil,nitroglycerin,3,False,,,,False,0
+furosemide,memantine,3,False,,,,False,0
+memantine,metoprolol,3,False,,,,False,0
+amlodipine,diphenhydramine,3,False,,,,False,0
+amoxicillin,clavulanate,3,True,,clavulanate:contraindications;clavulanate:warnings_and_cautions;clavulanate:drug_interactions,time. ( 7.2 ) Concomitant use with allopurinol increases the risk of rash. ( 7.3 ) 7.1 Probenecid Probenecid decreases the renal tubular secretion of amoxicillin. Concurrent use with amoxicillin and clavulanate potassium may result in increased and prolonged blood levels of amoxicillin. Co-administration of pr,False,0
+alendronate,ferrous sulfate,3,False,,,,False,0
+digoxin,olmesartan,3,False,,,,False,0
+olmesartan,verapamil,3,False,,,,False,0
+olmesartan,warfarin,3,False,,,,False,0
+mestranol,norethindrone,2,True,,,,False,0
+amlodipine,terfenadine,2,False,,,,False,0
+hydrochlorothiazide,terfenadine,2,False,,,,False,0
+olmesartan,terfenadine,2,False,,,,False,0
+atenolol,norethindrone,2,False,,,,False,0
+chlorthalidone,norethindrone,2,False,,,,False,0
+chlorpheniramine,levonorgestrel,2,False,,,,False,0
+chlorpheniramine,metformin,2,False,,,,False,0
+atenolol,carbamazepine,2,False,,,,False,0
+carbamazepine,chlorthalidone,2,False,,,,False,0
+ferrous sulfate,hydrocortisone,2,False,,,,False,0
+epinephrine,vitamin b12,2,False,,,,False,0
+ethinyl estradiol,vitamin b12,2,False,,,,False,0
+amlodipine,astemizole,2,False,,,,False,0
+astemizole,hydrocortisone,2,False,,,,False,0
+astemizole,olmesartan,2,False,,,,False,0
+hydrochlorothiazide,memantine,2,False,,,,False,0
+galantamine,nitroglycerin,2,False,,,,False,0
+fluoxetine,olmesartan,2,False,,,,False,0
+hydrocodone,insulin isophane,2,False,,,,False,0
+hydrocodone,"insulin, regular, human",2,False,,,,False,0
+hydrocodone,nicotine,2,False,,,,False,0
+atenolol,donepezil,2,False,,,,False,0
+chlorthalidone,donepezil,2,False,,,,False,0
+olmesartan,vitamin b12,2,False,,,,False,0
+atenolol,etonogestrel,2,False,,,,False,0
+chlorthalidone,etonogestrel,2,False,,,,False,0
+galantamine,leucovorin,2,False,,,,False,0
+alendronate,galantamine,2,False,,,,False,0
+galantamine,nicotine,2,False,,,,False,0
+chlorpheniramine,norethindrone,2,False,,,,False,0
+alendronate,nitroglycerin,2,False,,,,False,0
+acetaminophen,digoxin,2,False,,,,False,0
+acetaminophen,verapamil,2,False,,,,False,0
+digoxin,hydrocodone,2,False,,,,False,0
+hydrocodone,warfarin,2,False,,,,False,0
+diphenhydramine,insulin isophane,2,False,,,,False,0
+diphenhydramine,"insulin, regular, human",2,False,,,,False,0
+diphenhydramine,naproxen,2,False,,,,False,0
+ferrous sulfate,nicotine,2,False,,,,False,0
+acetaminophen,amlodipine,2,False,,,,False,0
+acetaminophen,olmesartan,2,False,,,,False,0
+memantine,nitroglycerin,2,False,,,,False,0
+acetaminophen,nitroglycerin,2,False,,,,False,0
+drospirenone,epinephrine,2,False,,,,False,0
+drospirenone,loratadine,2,False,,,,False,0
+epinephrine,ethinyl estradiol,2,False,,,,False,0
+ethinyl estradiol,loratadine,2,False,,,,False,0
+amlodipine,etonogestrel,2,False,,,,False,0
+diphenhydramine,ethinyl estradiol,2,False,,,,False,0
+etonogestrel,olmesartan,2,False,,,,False,0
+ferrous sulfate,insulin isophane,2,False,,,,False,0
+ferrous sulfate,"insulin, regular, human",2,False,,,,False,0
+astemizole,fluticasone,2,False,,,,False,0
+amlodipine,norgestimate,2,False,,,,False,0
+norgestimate,simvastatin,2,False,,,,False,0
+hydrochlorothiazide,oxycodone,2,False,,,,False,0
+insulin isophane,oxycodone,2,False,,,,False,0
+"insulin, regular, human",oxycodone,2,False,,,,False,0
+ferrous sulfate,leucovorin,2,False,,,,False,0
+ferrous sulfate,oxaliplatin,2,False,,,,False,0
+ferrous sulfate,memantine,2,False,,,,False,0
+insulin isophane,vitamin b12,2,False,,,,False,0
+"insulin, regular, human",vitamin b12,2,False,,,,False,0
+hydrocortisone,norethindrone,1,False,,,,False,0
+clonazepam,mestranol,1,False,,,,False,0
+clonazepam,norethindrone,1,False,,,,False,0
+chlorthalidone,epinephrine,1,False,,,,False,0
+atenolol,nicotine,1,False,,,,False,0
+chlorthalidone,nicotine,1,False,,,,False,0
+albuterol,ethinyl estradiol,1,False,,,,False,0
+chlorpheniramine,ethinyl estradiol,1,False,,,,False,0
+ethinyl estradiol,fluticasone,1,False,,,,False,0
+chlorpheniramine,insulin isophane,1,False,,,,False,0
+chlorpheniramine,"insulin, regular, human",1,False,,,,False,0
+epinephrine,ferrous sulfate,1,False,,,,False,0
+ferrous sulfate,loratadine,1,False,,,,False,0
+epinephrine,etonogestrel,1,False,,,,False,0
+etonogestrel,loratadine,1,False,,,,False,0
+etonogestrel,vitamin b12,1,False,,,,False,0
+drospirenone,vitamin b12,1,False,,,,False,0
+memantine,olmesartan,1,False,,,,False,0
+fluoxetine,galantamine,1,False,,,,False,0
+fluoxetine,nitroglycerin,1,False,,,,False,0
+levonorgestrel,vitamin b12,1,False,,,,False,0
+docetaxel,olmesartan,1,False,,,,False,0
+leuprolide,olmesartan,1,False,,,,False,0
+acetaminophen,furosemide,1,False,,,,False,0
+acetaminophen,metoprolol,1,False,,,,False,0
+acetaminophen,atenolol,1,False,,,,False,0
+acetaminophen,chlorthalidone,1,False,,,,False,0
+atenolol,oxycodone,1,False,,,,False,0
+chlorthalidone,oxycodone,1,False,,,,False,0
+amlodipine,carbamazepine,1,False,,,,False,0
+carbamazepine,digoxin,1,False,,,,False,0
+carbamazepine,nitroglycerin,1,False,,,,False,0
+etonogestrel,simvastatin,1,False,,,,False,0
+dienogest,epinephrine,1,False,,,,False,0
+dienogest,fexofenadine,1,False,,,,False,0
+astemizole,clopidogrel,1,False,,,,False,0
+astemizole,ferrous sulfate,1,False,,,,False,0
+astemizole,nitroglycerin,1,False,,,,False,0
+astemizole,simvastatin,1,False,,,,False,0
+etonogestrel,ferrous sulfate,1,False,,,,False,0
+atenolol,levonorgestrel,1,False,,,,False,0
+chlorthalidone,levonorgestrel,1,False,,,,False,0
+hydrocodone,vitamin b12,1,False,,,,False,0
+alendronate,olmesartan,1,False,,,,False,0
+acetaminophen,fluoxetine,1,False,,,,False,0
+digoxin,fluoxetine,1,False,,,,False,0
+fluoxetine,nicotine,1,False,,,,False,0
+fluoxetine,sertraline,1,False,,,,False,0
+fluoxetine,verapamil,1,False,,,,False,0
+nicotine,sertraline,1,False,,,,False,0
+carbamazepine,furosemide,1,False,,,,False,0
+carbamazepine,metoprolol,1,False,,,,False,0
+diphenhydramine,vitamin b12,1,False,,,,False,0
+amlodipine,sertraline,1,False,,,,False,0
+fluticasone,hydrocodone,1,False,,,,False,0
+hydrocodone,salmeterol,1,False,,,,False,0
+olmesartan,sertraline,1,False,,,,False,0
+diphenhydramine,leucovorin,1,False,,,,False,0
+diphenhydramine,oxaliplatin,1,False,,,,False,0
+diphenhydramine,salmeterol,1,False,,,,False,0
+chlorpheniramine,leucovorin,1,False,,,,False,0
+chlorpheniramine,oxaliplatin,1,False,,,,False,0
+epinephrine,leucovorin,1,False,,,,False,0
+fexofenadine,olmesartan,1,False,,,,False,0
+amlodipine,clavulanate,1,False,,,,False,0
+clavulanate,clopidogrel,1,False,,,,False,0
+clavulanate,furosemide,1,False,,,,False,0
+clavulanate,hydrochlorothiazide,1,False,,,,False,0
+clavulanate,metoprolol,1,False,,,,False,0
+clavulanate,naproxen,1,False,,,,False,0
+clavulanate,nitroglycerin,1,False,,,,False,0
+clavulanate,simvastatin,1,False,,,,False,0
+chlorpheniramine,medroxyprogesterone,1,False,,,,False,0
+amlodipine,tacrine,1,False,,,,False,0
+atenolol,tacrine,1,False,,,,False,0
+chlorthalidone,tacrine,1,False,,,,False,0
+clopidogrel,tacrine,1,False,,,,False,0
+ferrous sulfate,tacrine,1,False,,,,False,0
+insulin isophane,tacrine,1,False,,,,False,0
+"insulin, regular, human",tacrine,1,False,,,,False,0
+metformin,tacrine,1,False,,,,False,0
+naproxen,tacrine,1,False,,,,False,0
+nitroglycerin,tacrine,1,False,,,,False,0
+simvastatin,tacrine,1,False,,,,False,0
+amlodipine,insulin lispro,1,False,,,,False,0
+clopidogrel,insulin lispro,1,False,,,,False,0
+insulin lispro,nitroglycerin,1,False,,,,False,0
+insulin lispro,simvastatin,1,False,,,,False,0
+diphenhydramine,ferrous sulfate,1,False,,,,False,0
+hydrochlorothiazide,norgestimate,1,False,,,,False,0
+norgestimate,olmesartan,1,False,,,,False,0
+docetaxel,ferrous sulfate,1,False,,,,False,0
+ferrous sulfate,galantamine,1,False,,,,False,0
+ferrous sulfate,leuprolide,1,False,,,,False,0
+diphenhydramine,medroxyprogesterone,1,False,,,,False,0
+amoxicillin,ferrous sulfate,1,False,,,,False,0
+clavulanate,ferrous sulfate,1,False,,,,False,0
+allopurinol,hydrochlorothiazide,1,False,,,,False,0
+allopurinol,naproxen,1,False,,,,False,0
+carbamazepine,hydrochlorothiazide,1,False,,,,False,0
+clonazepam,hydrochlorothiazide,1,False,,,,False,0
+loratadine,olmesartan,1,False,,,,False,0
+epinephrine,medroxyprogesterone,1,False,,,,False,0
+fexofenadine,medroxyprogesterone,1,False,,,,False,0
+furosemide,sertraline,1,False,,,,False,0
+metoprolol,sertraline,1,False,,,,False,0
+clopidogrel,ethinyl estradiol,1,False,,,,False,0
+clopidogrel,norgestimate,1,False,,,,False,0
+ethinyl estradiol,nitroglycerin,1,False,,,,False,0
+nitroglycerin,norgestimate,1,False,,,,False,0
+leucovorin,olmesartan,1,False,,,,False,0
+olmesartan,oxaliplatin,1,False,,,,False,0
+levothyroxine,olmesartan,1,False,,,,False,0
+chlorpheniramine,ferrous sulfate,1,False,,,,False,0
+leuprolide,oxycodone,1,False,,,,False,0
+astemizole,diazepam,1,False,,,,False,0
+atenolol,medroxyprogesterone,1,False,,,,False,0
+chlorthalidone,medroxyprogesterone,1,False,,,,False,0
+medroxyprogesterone,vitamin b12,1,False,,,,False,0
+amlodipine,drospirenone,1,False,,,,False,0
+drospirenone,hydrochlorothiazide,1,False,,,,False,0
+drospirenone,olmesartan,1,False,,,,False,0
+epinephrine,levonorgestrel,1,False,,,,False,0
+nicotine,vitamin b12,1,False,,,,False,0
+atenolol,galantamine,1,False,,,,False,0
+chlorthalidone,galantamine,1,False,,,,False,0
+amlodipine,norelgestromin,1,False,,,,False,0
+ethinyl estradiol,norelgestromin,1,True,,norelgestromin:boxed_warning;norelgestromin:contraindications;norelgestromin:warnings_and_cautions;norelgestromin:drug_interactions,"Warnings and Precautions ( 5.13 )]. 7.3 Concomitant Use with HCV Combination Therapy – Liver Enzyme Elevation Do not co-administer norelgestromin and ethinyl estradiol transdermal system with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT eleva",False,0
+hydrochlorothiazide,norelgestromin,1,False,,,,False,0
+norelgestromin,olmesartan,1,False,,,,False,0
+norelgestromin,vitamin b12,1,False,,,,False,0
+nitroglycerin,oxycodone,1,False,,,,False,0
+alendronate,diphenhydramine,1,False,,,,False,0
+diphenhydramine,metformin,1,False,,,,False,0
+acetaminophen,ferrous sulfate,1,False,,,,False,0
+acetaminophen,diphenhydramine,1,False,,,,False,0
+duloxetine,furosemide,1,False,,,,False,0
+duloxetine,hydrochlorothiazide,1,False,,,,False,0
+duloxetine,metoprolol,1,False,,,,False,0
+duloxetine,naproxen,1,False,,,,False,0
+amlodipine,nicotine,1,False,,,,False,0
+ethinyl estradiol,ibuprofen,1,False,,,,False,0
+leuprolide,vitamin b12,1,False,,,,False,0
+ferrous sulfate,fluticasone,1,False,,,,False,0
+ferrous sulfate,salmeterol,1,False,,,,False,0
+fluoxetine,furosemide,1,False,,,,False,0

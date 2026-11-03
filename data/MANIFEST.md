@@ -23,3 +23,46 @@
 - Overrides: data/manual_label_overrides.csv (brand-name searches, combination-only ingredients, drugs no longer sold)
 - Result: 67 of 71 ingredients have a label; 4 have no current US label
 - openFDA states its data is not validated for clinical use
+
+## DDInter interactions
+- Source: DDInter 2.0 (ddinter2.scbdd.com/download/), 8 CSV files
+- Downloaded: 2 Nov 2026
+- Saved in: data/raw/ddinter/ (gitignored); checksums in data/snapshots/ddinter_sha256.txt
+- Licence: CC BY-NC-SA 4.0
+- Used to find candidate pairs; FDA label text is the evidence for each rule
+- Limitation: the download page has no files for ATC groups C, G, J, M, N and S, so some pairs are missing (digoxin + verapamil, for example)
+
+## Interaction rules
+- Files: data/processed/candidate_pairs.csv, data/interaction_rules.csv
+- Scripts: scripts/find_candidate_pairs.py, scripts/build_rules.py
+- Candidates: 816 real pairs checked against DDInter and FDA label text; same-pill pairs removed
+- Final list: 23 rules, chosen by hand; each quote is checked word for word against the saved label
+- Not reviewed by a clinician
+- Known gaps, left out because the label text is not specific enough. These pairs are not proven safe:
+  - verapamil + warfarin (41 patients)
+  - amlodipine + warfarin (8 patients)
+  - chlorthalidone + insulin (4 patients)
+  - docetaxel + verapamil (9 patients)
+  - hydrocodone + verapamil (2 patients)
+- Known issue: the saved hydrocodone label is a hydrocodone-only product (Hysingla ER), but patients take acetaminophen/hydrocodone combinations
+
+## Duplicate groups
+- File: data/duplicate_groups.csv
+- Script: scripts/build_duplicate_groups.py
+- Definition: the same ingredient in 2 or more active products for one patient
+- Result: 73 patients, 4 groups (furosemide 55, simvastatin 12, amlodipine 8, fluticasone 1)
+- Types: different_route, different_strength, hidden_in_combination
+- Judgment call: furosemide oral + injection is still flagged, with a note about the different routes, because it may be planned or a Synthea quirk
+- Limitation: different drugs from the same group (two statins, for example) are not counted as duplicates in v1
+- Evidence for these flags is the patient's own medicine list, so no FDA label quote is needed
+
+## Messy names
+- File: data/messy_names.csv (51 names)
+- Script: scripts/check_messy_names.py
+- Saved RxNorm answers: data/snapshots/rxnorm/messy_names/
+- Categories: 20 Indian brands, 12 US brands, 3 short forms, 9 typos, 4 formatting, 3 no match
+- US brands and short forms: answers confirmed by RxNorm
+- No-match names: confirmed to return nothing from RxNorm
+- Indian brands: not in RxNorm; each has a source link in the file, checked by hand on 3 Nov 2026
+- Typos and formatting: mostly made up from the correct ingredient name; two come from Synthea records
+- Limitation: Indian brand sources are mostly retail pharmacy listings, not official labels
